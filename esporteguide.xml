@@ -1,0 +1,2735 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="ESPN">
+    <display-name lang="pt">ESPN</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="ESPN BRASIL">
+    <display-name lang="pt">ESPN BRASIL</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="FOX SPORTS">
+    <display-name lang="pt">FOX SPORTS</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="FOX SPORTS 2">
+    <display-name lang="pt">FOX SPORTS 2</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="PFC">
+    <display-name lang="pt">PFC</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="SPORTV">
+    <display-name lang="pt">SPORTV</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="SPORTV 2">
+    <display-name lang="pt">SPORTV 2</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="SPORTV 3">
+    <display-name lang="pt">SPORTV 3</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN">
+    <title lang="pt">NFL: Pittsburgh Steelers x New York Giants - Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN">
+    <title lang="pt">NFL: Tennessee Titans x Denver Broncos - Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN">
+    <title lang="pt">Ciclismo: Destaques do Tour de France 2020</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN">
+    <title lang="pt">Sportscenter</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN">
+    <title lang="pt">ESPN League</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN">
+    <title lang="pt">Pec Zwolle x Feyenoord</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN">
+    <title lang="pt">Sportscenter</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN">
+    <title lang="pt">Tênis: US Open</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN">
+    <title lang="pt">Tênis: US Open - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN">
+    <title lang="pt">NFL: Houston Texans x Kansas City Chiefs</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN">
+    <title lang="pt">ESPN League - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN">
+    <title lang="pt">NBA: Denver Nuggets x La Clippers - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN">
+    <title lang="pt">NBA: Boston Celtics x Toronto Raptors - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN">
+    <title lang="pt">Ciclismo: Destaques do Tour da França</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN">
+    <title lang="pt">Sportscenter</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN">
+    <title lang="pt">Ciclismo: Tour de France</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN">
+    <title lang="pt">ESPN Filmes: 30 For 30 - When The Garden Was Eden</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN">
+    <title lang="pt">Pelas Quadras do US Open</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN">
+    <title lang="pt">Sportscenter</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN">
+    <title lang="pt">NBA: Boston Celtics x Toronto Raptors</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN">
+    <title lang="pt">Fiorentina x Lucchese</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN">
+    <title lang="pt">Tênis: US Open - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN">
+    <title lang="pt">Sportscenter Abre o Jogo: NBA - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN">
+    <title lang="pt">NBA: Toronto Raptors x Boston Celtics - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN">
+    <title lang="pt">NBA: LA Clippers x Denver Nuggets - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN">
+    <title lang="pt">NBA Action</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN">
+    <title lang="pt">Ciclismo: Destaques do Tour de France</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN">
+    <title lang="pt">Sportscenter</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN">
+    <title lang="pt">Ciclismo: Tour de France</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN">
+    <title lang="pt">Campeonato Chinês</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN">
+    <title lang="pt">Sportscenter</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN">
+    <title lang="pt">Pelas Quadras do US Open</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN">
+    <title lang="pt">NBA: Toronto Raptors x Boston Celtics</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN">
+    <title lang="pt">Milan x Monza</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN">
+    <title lang="pt">Sportscenter</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN">
+    <title lang="pt">NBA: LA Clippers x Denver Nuggets</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN">
+    <title lang="pt">Tênis: US Open - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN">
+    <title lang="pt">Pelas Quadras do US Open - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN">
+    <title lang="pt">NFL Filmes: Sights And Sounds Of The Season</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN">
+    <title lang="pt">Sportscenter Abre o Jogo: NBA - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN">
+    <title lang="pt">NFL: Houston Texans x Kansas City Chiefs - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN">
+    <title lang="pt">Ciclismo: Destaques do Tour de France</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN">
+    <title lang="pt">Premier League Legends: Peter Schmeichel</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN">
+    <title lang="pt">Premier League Legends: Tony Adams</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN">
+    <title lang="pt">Sportscenter</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN">
+    <title lang="pt">Ciclismo: Tour de France</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN">
+    <title lang="pt">Sportscenter</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN">
+    <title lang="pt">Tênis: US Open</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN">
+    <title lang="pt">Tênis: US Open - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN">
+    <title lang="pt">NFL: Houston Texans x Kansas City Chiefs</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN">
+    <title lang="pt">ESPN League - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN">
+    <title lang="pt">NBA: Denver Nuggets x La Clippers - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN">
+    <title lang="pt">NBA: Boston Celtics x Toronto Raptors - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN">
+    <title lang="pt">Ciclismo: Destaques do Tour de France 2020</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN">
+    <title lang="pt">Sportscenter</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN">
+    <title lang="pt">Ciclismo: Tour de France 2020: 13: Chauvigny A Sarran Corrèze</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN">
+    <title lang="pt">Pelas Quadras do US Open</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN">
+    <title lang="pt">Tênis: US Open</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN">
+    <title lang="pt">ESPN League</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN">
+    <title lang="pt">NBA: Denver Nuggets x La Clippers</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN">
+    <title lang="pt">NBA: Boston Celtics x Toronto Raptors</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN">
+    <title lang="pt">Espn Knockout: Bellator 245 - Phil Davis vs. Lyoto Machida</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN">
+    <title lang="pt">Pelas Quadras do US Open - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN">
+    <title lang="pt">Tênis: US Open - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN">
+    <title lang="pt">NBA Action</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN">
+    <title lang="pt">Sportscenter Abre o Jogo: NBA - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN">
+    <title lang="pt">NBA: Houston Rockets x Los Angeles Lakers - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN">
+    <title lang="pt">Espn Knockout: Egidijus Kavaliauskas vs. Mikael Zewski - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN">
+    <title lang="pt">Ciclismo: Destaques do Tour de France 2020</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN">
+    <title lang="pt">Sportscenter</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN">
+    <title lang="pt">Ciclismo: Tour de France 2020: 14: Clermont-ferrand A Lyon</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN">
+    <title lang="pt">E60: Alex Smith - Project 11</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN">
+    <title lang="pt">Sportscenter</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN">
+    <title lang="pt">Copa da Alemanha</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN">
+    <title lang="pt">Sparta Rotterdam x Ajax - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN">
+    <title lang="pt">Espn Knockout: Bellator 245 - Phil Davis vs. Lyoto Machida</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN">
+    <title lang="pt">Sportscenter Abre o Jogo: NFL - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN">
+    <title lang="pt">NFL: Cleveland Browns x Baltimore Ravens - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN">
+    <title lang="pt">Tênis: US Open - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN">
+    <title lang="pt">Pelas Quadras do US Open - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN">
+    <title lang="pt">Sportscenter Abre o Jogo: NFL - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN">
+    <title lang="pt">NFL: Dallas Cowboys x Los Angeles Rams - Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN">
+    <title lang="pt">Ciclismo: Destaques do Tour de France 2020</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN">
+    <title lang="pt">Sportscenter</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN">
+    <title lang="pt">Ciclismo: Tour de France 2020: 15: Lyon A Grand Colombier</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN">
+    <title lang="pt">NFL: Green Bay Packers x Minnesota Vikings</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN">
+    <title lang="pt">Sportscenter</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN">
+    <title lang="pt">NFL: Dallas Cowboys x Los Angeles Rams</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN">
+    <title lang="pt">Liverpool x Leeds United</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN">
+    <title lang="pt">Sportscenter</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN">
+    <title lang="pt">Sheffield United x Wolverhampton Wanderers - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN">
+    <title lang="pt">Mundo Premier League</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN">
+    <title lang="pt">ESPN Knockout</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN">
+    <title lang="pt">Hard Knocks Rams/chargers - Episódio 1</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN">
+    <title lang="pt">ESPN League - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN">
+    <title lang="pt">NFL: Pittsburgh Steelers x New York Giants - Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Sportscenter - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Sportscenter - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Linha de Passe: Mesa-redonda</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Sportscenter</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Linha de Passe: Mesa-redonda</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Brighton x Chelsea</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Copa da Alemanha</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Sportscenter</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Manchester City x Queens Park Rangers</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Especial: A Última Cartada de Manga</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Bola da Vez: Thiago Galhardo, Meia do Internacional</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Linha de Passe: Mesa-redonda</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Sportscenter - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Bate-Bola Debate - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Futebol no Mundo - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Eintracht Braunschweig x Hertha Berlin - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Futebol na Veia - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Sportscenter - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Sportscenter - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Resenha de Casa: Família Ortiz</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Espn Knockout: Bellator 245 - Phil Davis vs. Lyoto Machida - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Bola da Vez: Thiago Galhardo, Meia do Internacional</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Manchester United x Manchester City</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Sportscenter</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Fiorentina x Lucchese</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Futebol No Mundo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Manchester United x Arsenal</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Shanghai Shenhua x Shandong Luneng - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Sportscenter - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Bate-Bola Debate - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Futebol no Mundo - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Milan x Monza</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Sportscenter</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Futebol na Veia - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Resenha de Casa: Fernandinho</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Premier League Legends: Peter Schmeichel</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Sportscenter - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Sportscenter - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Linha de Passe: Mesa-redonda - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Sportscenter</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Linha de Passe: Mesa-redonda</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Premier League Legends: Peter Schmeichel</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Sportscenter</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Everton x Preston North End</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Futebol No Mundo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Manchester United x Manchester City</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Sportscenter</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Linha de Passe: Mesa-redonda</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Sportscenter - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Bate-Bola Debate - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Futebol no Mundo - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Fiorentina x Lucchese</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Sportscenter</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Futebol na Veia - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Especial: A Última Cartada de Manga</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Sportscenter - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Linha de Passe: Mesa-redonda - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Sportscenter</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Linha de Passe: Mesa-redonda</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Fiorentina x Lucchese</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Futebol No Mundo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Manchester City x Queens Park Rangers</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Especial: A Última Cartada de Manga</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Bola da Vez: Thiago Galhardo, Meia do Internacional</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Linha de Passe: Mesa-redonda</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Sportscenter - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Bate-Bola Debate - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Futebol no Mundo - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Eintracht Braunschweig x Hertha Berlin - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Futebol na Veia - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Sportscenter - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Sportscenter - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Resenha de Casa: Família Ortiz</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Espn Knockout: Bellator 245 - Phil Davis vs. Lyoto Machida - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Resenha de Casa: Família Ortiz</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Sportscenter</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Campeonato Chinês</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Momento ESPN: Além da Bola: Felipe</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Futebol No Mundo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Sportscenter</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Fulham x Arsenal - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Sportscenter Abre o Jogo - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Huddersfield Town x Norwich City - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Sportscenter Abre o Jogo - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Liverpool x Leeds United - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Sportscenter Abre o Jogo - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">West Ham x Newcastle - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Futebol no Mundo - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Sportscenter - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Linha de Passe: Mesa-redonda - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Bola da Vez: Ramon Menezes, Técnico do Vasco</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Sportscenter</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Linha de Passe: Mesa-redonda</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Copa da Alemanha</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Pec Zwolle x Feyenoord</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Sportscenter</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Premier League Legends: Michael Owen</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Liverpool x Leeds United</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Sportscenter</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Linha de Passe: Mesa-redonda</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">West Bromwich x Leicester City - Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Sportscenter Abre o Jogo - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Tottenham x Everton - Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Futebol na Veia - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Liverpool x Leeds United</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Sportscenter - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Resenha de Casa: Família Ortiz</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Premier League Legends: Peter Schmeichel</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Linha de Passe: Mesa-redonda - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Sportscenter</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Resenha de Casa: Família Ortiz</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Sparta Rotterdam x Ajax</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Sportscenter</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">West Bromwich x Leicester City</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Bola da Vez: Ramon Menezes, Técnico do Vasco</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Copa da Alemanha</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Sportscenter</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Linha de Passe: Mesa-redonda</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Sportscenter - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Bate-Bola Debate - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Futebol no Mundo - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Duisburg x Borussia Dortmund</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Futebol na Veia - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Sportscenter - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS">
+    <title lang="pt">Jogo Sagrado - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS">
+    <title lang="pt">Bom Dia Fox</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS">
+    <title lang="pt">Fox Sports Rádio</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS">
+    <title lang="pt">Norderstedt x Bayer Leverkusen</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS">
+    <title lang="pt">FOX Nitro</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS">
+    <title lang="pt">La Liga World</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS">
+    <title lang="pt">Filler - Estreia Do Messi No Barcelona</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS">
+    <title lang="pt">Jogo Sagrado</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS">
+    <title lang="pt">La Liga World</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS">
+    <title lang="pt">Mundial de Motovelocidade - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS">
+    <title lang="pt">Mundial de Motovelocidade - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS">
+    <title lang="pt">Mundial de Motovelocidade - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS">
+    <title lang="pt">Mundial de Motovelocidade - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS">
+    <title lang="pt">Fox Sports Rádio - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS">
+    <title lang="pt">Pré Jogo - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS">
+    <title lang="pt">Zwolle x Feyenoord - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS">
+    <title lang="pt">Visão Fox: Libertadores</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS">
+    <title lang="pt">Expediente Futebol - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS">
+    <title lang="pt">Debate Final - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS">
+    <title lang="pt">Libertadores Classics</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS">
+    <title lang="pt">Aqui Com Benja</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS">
+    <title lang="pt">Mercado Fox</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS">
+    <title lang="pt">Conmebol Libertadores Bridgestone</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS">
+    <title lang="pt">Programa Especial: A Gloria Eterna</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS">
+    <title lang="pt">Filler</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS">
+    <title lang="pt">Debate Final</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS">
+    <title lang="pt">VT - Palmeiras x Guarani (PAR)</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS">
+    <title lang="pt">Debate Final</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS">
+    <title lang="pt">Bom Dia Fox - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS">
+    <title lang="pt">Giro FOX - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS">
+    <title lang="pt">Fox Sports Rádio - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS">
+    <title lang="pt">Tarde Redonda - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS">
+    <title lang="pt">Central Fox de Primeira - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS">
+    <title lang="pt">Expediente Futebol - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS">
+    <title lang="pt">Mercado Fox</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS">
+    <title lang="pt">Debate Final - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS">
+    <title lang="pt">Rodada Fox - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS">
+    <title lang="pt">Fox Sports Rádio</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS">
+    <title lang="pt">VT - Colo Colo (CHI) x Athletico PR</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS">
+    <title lang="pt">VT - Internacional x Chivas (MEX)</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS">
+    <title lang="pt">Debate Final</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS">
+    <title lang="pt">Rodada Fox</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS">
+    <title lang="pt">Bom Dia Fox - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS">
+    <title lang="pt">Giro FOX - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS">
+    <title lang="pt">Fox Sports Rádio - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS">
+    <title lang="pt">Tarde Redonda - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS">
+    <title lang="pt">Central Fox de Primeira - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS">
+    <title lang="pt">Expediente Futebol - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS">
+    <title lang="pt">Central Fox de Primeira</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS">
+    <title lang="pt">Debate Final - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS">
+    <title lang="pt">Rodada Fox - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS">
+    <title lang="pt">Fox Sports Rádio</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS">
+    <title lang="pt">Mercado Fox</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS">
+    <title lang="pt">VT - Athletico PR x Peñarol (URU)</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS">
+    <title lang="pt">Debate Final</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS">
+    <title lang="pt">La Liga World</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS">
+    <title lang="pt">Filler</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS">
+    <title lang="pt">WWE RAW</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS">
+    <title lang="pt">VT - Corinthians x Boca Juniors (ARG)</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS">
+    <title lang="pt">Filler</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS">
+    <title lang="pt">Bom Dia Fox - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS">
+    <title lang="pt">Giro FOX - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS">
+    <title lang="pt">Fox Sports Rádio - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS">
+    <title lang="pt">Pré Jogo - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS">
+    <title lang="pt">Watford x Middlesbrough - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS">
+    <title lang="pt">Central Fox de Primeira - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS">
+    <title lang="pt">Expediente Futebol - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS">
+    <title lang="pt">Debate Final - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS">
+    <title lang="pt">Visão Fox: Libertadores</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS">
+    <title lang="pt">Fox Sports Rádio</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS">
+    <title lang="pt">Watford x Middlesbrough</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS">
+    <title lang="pt">VT - Ceará x Bahia</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS">
+    <title lang="pt">Filler</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS">
+    <title lang="pt">Debate Final</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS">
+    <title lang="pt">La Liga World</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS">
+    <title lang="pt">Mundial de Motovelocidade - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS">
+    <title lang="pt">Mundial de Motovelocidade - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS">
+    <title lang="pt">Mundial de Motovelocidade - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS">
+    <title lang="pt">Mundial de Motovelocidade - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS">
+    <title lang="pt">Fox Sports Rádio - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS">
+    <title lang="pt">Pré Jogo - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS">
+    <title lang="pt">Zwolle x Feyenoord - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS">
+    <title lang="pt">Visão Fox: Libertadores</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS">
+    <title lang="pt">Expediente Futebol - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS">
+    <title lang="pt">Debate Final - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS">
+    <title lang="pt">Libertadores Classics</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS">
+    <title lang="pt">Aqui Com Benja</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS">
+    <title lang="pt">Visão Fox: Libertadores</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS">
+    <title lang="pt">Fox Sports Rádio</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS">
+    <title lang="pt">Mundial de Motovelocidade</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS">
+    <title lang="pt">Mundial de Motovelocidade</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS">
+    <title lang="pt">Mundial de Motovelocidade - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS">
+    <title lang="pt">Mundial de Motovelocidade - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS">
+    <title lang="pt">Mundial de Motovelocidade - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS">
+    <title lang="pt">Mundial de Motovelocidade - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS">
+    <title lang="pt">Pré Jogo - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS">
+    <title lang="pt">Norderstedt x Bayer Leverkusen - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS">
+    <title lang="pt">Rodada Fox - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS">
+    <title lang="pt">Visão Fox: Libertadores</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS">
+    <title lang="pt">Aqui Com Benja</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS">
+    <title lang="pt">Libertadores Classics: Santos x Peñarol 2011</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS">
+    <title lang="pt">NFL: Arizona Cardinals x San Francisco 49ers - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS">
+    <title lang="pt">A Última Palavra - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS">
+    <title lang="pt">Filler - Estreia Do Messi No Barcelona</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS">
+    <title lang="pt">A Última Palavra</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS">
+    <title lang="pt">Norderstedt x Bayer Leverkusen</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS">
+    <title lang="pt">NFL: Arizona Cardinals x San Francisco 49ers</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS">
+    <title lang="pt">Aqui com Benja - Rafinha</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS">
+    <title lang="pt">Filler - Estreia Do Messi No Barcelona</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS">
+    <title lang="pt">Programa Especial</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS">
+    <title lang="pt">A Última Palavra</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS">
+    <title lang="pt">Bom Dia Fox - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS">
+    <title lang="pt">Giro FOX - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS">
+    <title lang="pt">Fox Sports Rádio - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS">
+    <title lang="pt">Fox Sports de Primeira - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS">
+    <title lang="pt">Pré Jogo - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS">
+    <title lang="pt">Brighton x Chelsea - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS">
+    <title lang="pt">Expediente Futebol - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS">
+    <title lang="pt">Jogo Sagrado - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">FOX Nitro</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">WWE Monday Night Raw - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">Fox Sports de Primeira</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">Brighton x Chelsea</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">Fox Sports Rádio</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">Filler</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">Zwolle x Feyenoord</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">Expediente Futebol</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">Liga Europa</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">Pré Jogo - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">Nürenberg x Leipzig - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">Programa Especial</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">Filler</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">Mundial de Motovelocidade</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">Mundial de Motovelocidade</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">Nascar Xfinity Series - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">La Liga World</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">Zwolle x Feyenoord</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">Filler</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">Nascar Cup Séries - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">Central Fox de Primeira</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">Fórmula E</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">Fox Sports Rádio</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">Promoted Teams La Liga - Times Que Subitam</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">Expediente Futebol</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">VT - Santos x Boca Juniors (ARG)</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">Aqui Com Benja</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">VT - Tigre (ARG) x Palmeiras</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">La Liga World</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">VT - West Ham x Bournemouth</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">VT - Corinthians x Flamengo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">WRC</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">Aqui Com Benja</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">WWE Vintage</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">Filler</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">VT - Defensa Y Justicia (ARG) x Santos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">Central Fox de Primeira</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">VT - São Paulo x Athetico PR</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">VT - Internacional x Deportes Tolima (COL)</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">Central Fox de Primeira</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">WRC</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">La Liga World</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">Central Fox de Primeira</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">Fox Sports Rádio</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">Filler</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">Programa Especial: A Gloria Eterna</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">VT - Defensa Y Justicia (ARG) x Santos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">VT - Internacional x São Paulo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">Aqui Com Benja</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">VT - Colo Colo (CHI) x Athletico PR</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">VT - Corinthians x Santos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">Mercado Fox</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">Mundial de Motocross</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">WRC</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">Aqui Com Benja</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">Filler</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">WWE Main Event</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">VT - Internacional x Deportes Tolima (COL)</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">Nascar Cup Séries - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">Central Fox de Primeira</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">Mercado Fox</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">Promoted Teams La Liga - Times Que Subitam</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">Central Fox de Primeira</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">Fox Sports Rádio</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">Filler</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">Programa Especial: A Gloria Eterna</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">Fórmula E</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">Rodada Fox</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">Liga Europa</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">Aqui Com Benja</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">Filler</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">VT - West Ham x Bournemouth</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">VT - Defensa Y Justicia (ARG) x Santos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">VT - Internacional x Chivas (MEX)</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">Aqui Com Benja</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">WRC - Mundial de Rally</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">VT - Corinthians x Vasco</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">VT - Palmeiras x Guarani (PAR)</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">Central Fox de Primeira</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">WWE Smackdown - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">MLB: San Francisco Giants x San Diego Padres - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">La Liga World</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">Filler</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">Fox Sports Rádio</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">WRC - Mundial de Rally</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">WRC - Mundial de Rally</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">Mundial de Motocross</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">Expediente Futebol</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">Liga Europa</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">Pré Jogo - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">Nürenberg x Leipzig - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">Programa Especial</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">Filler</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">Mundial de Motovelocidade</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">Mundial de Motovelocidade</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">Nascar Xfinity Series - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">La Liga World</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">Zwolle x Feyenoord</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">Filler</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">Nascar Cup Séries - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">Comenta Quem Sabe</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">Nürenberg x Leipzig</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">Zwolle x Feyenoord</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">Filler</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">Comenta Quem Sabe</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">Libertadores Classics: São Caetano x Olimpia</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">Debate Final</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">Filler</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">Programa Especial</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">Shandong Luneng x Guangzhou Evg - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">WWE Raw Highlights</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">Filler</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">Comenta Quem Sabe</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">Mundial de Motovelocidade</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">Mundial de Motovelocidade</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">Shandong Luneng x Jiangsu - Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">Nürenberg x Leipzig</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">Aqui Com Benja</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">Programa Especial</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">Programa Especial</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">Conmebol Libertadores 2019</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">Aqui com Benja - Rafinha</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">Libertadores Classics: Corinthians x Boca Juniors</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">Libertadores Classics: Corinthians x Boca Juniors</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">Mundial de Motovelocidade</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">Mundial de Motovelocidade</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">Mundial de Motovelocidade</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">Mundial de Motovelocidade</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">Filler</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">Programa Especial</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">Norderstedt x Bayer Leverkusen</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">Palmeiras x Guarani (PAR)</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">NFL: Arizona Cardinals x San Francisco 49ers</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">La Liga Nations</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">Filler</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">Zwolle x Feyenoord</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">Nürenberg x Leipzig</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">Libertadores Classics: São Paulo x Atlético PR 2005</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">Aqui Com Benja</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="FOX SPORTS 2">
+    <title lang="pt">FOX Nitro</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">Juventude x Vitória - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT - Grêmio x Fortaleza</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT - Bahia x Atlético GO</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT - Ceará x Flamengo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT - Goiás x Internacional</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT - Palmeiras x Sport</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT - Fluminense x Corinthians</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT - Botafogo x Vasco</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT - Atlético MG x Bragantino</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT - Paraná x CRB AL</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT - Oeste x CSA AL</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">Confiança x Avaí - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">Juventude x CRB AL - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">Ponte Preta x América MG - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">Corinthians x Bahia - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="PFC">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV">
+    <title lang="pt">Paraná x CRB AL - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV">
+    <title lang="pt">Bem, Amigos! - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV">
+    <title lang="pt">Baú do Esporte</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV">
+    <title lang="pt">Giro da Rodada</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV">
+    <title lang="pt">VT - Botafogo x Vasco</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV">
+    <title lang="pt">VT - Atlético MG x Bragantino</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV">
+    <title lang="pt">Giro da Rodada</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV">
+    <title lang="pt">VT - Fluminense x Corinthians</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV">
+    <title lang="pt">Boleiragem</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV">
+    <title lang="pt">SporTV News - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV">
+    <title lang="pt">Redação SporTV - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV">
+    <title lang="pt">SporTV News - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV">
+    <title lang="pt">Seleção SporTV - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV">
+    <title lang="pt">Globo Esporte</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV">
+    <title lang="pt">Tá na Área - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV">
+    <title lang="pt">Galeria SporTV</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV">
+    <title lang="pt">Galeria SporTV</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV">
+    <title lang="pt">Troca de Passes - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV">
+    <title lang="pt">SporTV News - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV">
+    <title lang="pt">Redação SporTV - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV">
+    <title lang="pt">SporTV News - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV">
+    <title lang="pt">Seleção SporTV - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV">
+    <title lang="pt">Globo Esporte</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV">
+    <title lang="pt">Tá na Área - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV">
+    <title lang="pt">Galeria SporTV</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV">
+    <title lang="pt">Galeria SporTV</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV">
+    <title lang="pt">Galeria SporTV</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV">
+    <title lang="pt">SporTV News - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV">
+    <title lang="pt">Redação SporTV - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV">
+    <title lang="pt">SporTV News - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV">
+    <title lang="pt">Seleção SporTV - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV">
+    <title lang="pt">Globo Esporte</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV">
+    <title lang="pt">Tá na Área - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV">
+    <title lang="pt">Galeria SporTV</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV">
+    <title lang="pt">Galeria SporTV</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV">
+    <title lang="pt">Troca de Passes - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV">
+    <title lang="pt">SporTV News - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV">
+    <title lang="pt">Redação SporTV - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV">
+    <title lang="pt">SporTV News - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV">
+    <title lang="pt">Seleção SporTV - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV">
+    <title lang="pt">Globo Esporte</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV">
+    <title lang="pt">Tá na Área - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV">
+    <title lang="pt">Galeria SporTV</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV">
+    <title lang="pt">Galeria SporTV</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV">
+    <title lang="pt">Troca de Passes - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV">
+    <title lang="pt">Galeria SporTV</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV">
+    <title lang="pt">Tá na Área - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV">
+    <title lang="pt">Galeria SporTV</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV">
+    <title lang="pt">Galeria SporTV</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV">
+    <title lang="pt">Troca de Passes - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV">
+    <title lang="pt">Galeria SporTV</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV">
+    <title lang="pt">Tá na Área - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV">
+    <title lang="pt">Galeria SporTV</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV">
+    <title lang="pt">Galeria SporTV</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV">
+    <title lang="pt">Troca de Passes - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV">
+    <title lang="pt">SporTV News - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV">
+    <title lang="pt">Redação SporTV - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV">
+    <title lang="pt">SporTV News - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV">
+    <title lang="pt">Seleção SporTV - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV">
+    <title lang="pt">Globo Esporte</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV">
+    <title lang="pt">Tá na Área - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV">
+    <title lang="pt">Galeria SporTV</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 2">
+    <title lang="pt">Grand Prix de Vôlei Feminino: Rússia x Brasil</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 2">
+    <title lang="pt">NBA: Houston Rockets x Los Angeles Lakers - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 2">
+    <title lang="pt">Grand Prix de Vôlei Feminino: Rússia x Brasil</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 2">
+    <title lang="pt">Bem, Amigos!</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 2">
+    <title lang="pt">VT - Juventude x Vitória</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 2">
+    <title lang="pt">Grand Prix de Vôlei Feminino: Rússia x Brasil</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 2">
+    <title lang="pt">Campeonato Mundial de Vôlei Masculino</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 2">
+    <title lang="pt">Campeonato Mundial de Vôlei Masculino</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 2">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 2">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 2">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 2">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 2">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 2">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 2">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 2">
+    <title lang="pt">NBA Action</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 2">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 2">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 2">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 2">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 2">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 2">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 2">
+    <title lang="pt">Liga Brasileira de Free Fire - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 2">
+    <title lang="pt">Circuito Brasileiro de Vôlei de Praia - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 2">
+    <title lang="pt">Circuito Brasileiro de Vôlei de Praia - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 2">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 2">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 2">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 2">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 2">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 2">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 2">
+    <title lang="pt">Circuito Brasileiro de Vôlei de Praia - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 2">
+    <title lang="pt">Circuito Brasileiro de Vôlei de Praia - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 2">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 2">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 2">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 2">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 2">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 2">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 2">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 2">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 2">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 2">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 2">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 2">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 2">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 2">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 2">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 2">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 2">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 2">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 2">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 2">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 2">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 2">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 2">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 2">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 2">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 2">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 2">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 2">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 2">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 2">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 2">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 2">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 2">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 2">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 2">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 2">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 3">
+    <title lang="pt">UFC 238 - Moraes x Cejudo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 3">
+    <title lang="pt">UFC: Smitch x Rakic</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 3">
+    <title lang="pt">Contender Series 2020</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 3">
+    <title lang="pt">UFC 246: Mcgregor x Cerrone</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 3">
+    <title lang="pt">UFC: Blaydes x Cigano</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 3">
+    <title lang="pt">UFC: Waterson x Hill</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 3">
+    <title lang="pt">Giro da Rodada</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 3">
+    <title lang="pt">US Open</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 3">
+    <title lang="pt">Baú do Esporte</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 3">
+    <title lang="pt">Baú do Esporte</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 3">
+    <title lang="pt">Masters 1000 - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 3">
+    <title lang="pt">Masters 1000 - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 3">
+    <title lang="pt">Masters 1000 - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 3">
+    <title lang="pt">Masters 1000 - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 3">
+    <title lang="pt">Masters 1000 - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 3">
+    <title lang="pt">Masters 1000 - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 3">
+    <title lang="pt">VT - Botafogo x Vasco</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 3">
+    <title lang="pt">Baú do Esporte</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 3">
+    <title lang="pt">Contender Series 2020</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 3">
+    <title lang="pt">Galeria SporTV</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 3">
+    <title lang="pt">Galeria SporTV</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 3">
+    <title lang="pt">Galeria SporTV</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 3">
+    <title lang="pt">Galeria SporTV</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 3">
+    <title lang="pt">Baú do Esporte</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 3">
+    <title lang="pt">Bem, Amigos!</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 3">
+    <title lang="pt">VT - Brasil x Holanda</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 3">
+    <title lang="pt">Galeria SporTV</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 3">
+    <title lang="pt">Masters 1000 - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 3">
+    <title lang="pt">Masters 1000 - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 3">
+    <title lang="pt">Masters 1000 - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 3">
+    <title lang="pt">Masters 1000 - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 3">
+    <title lang="pt">Masters 1000 - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 3">
+    <title lang="pt">Masters 1000 - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 3">
+    <title lang="pt">Galeria SporTV</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 3">
+    <title lang="pt">Contender Series 2020</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 3">
+    <title lang="pt">Giro da Rodada</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 3">
+    <title lang="pt">Faixa Olímpica</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 3">
+    <title lang="pt">VT - Ponte Preta x América MG</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 3">
+    <title lang="pt">Galeria SporTV</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 3">
+    <title lang="pt">Faixa Olímpica</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 3">
+    <title lang="pt">Galeria SporTV</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 3">
+    <title lang="pt">Galeria SporTV</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 3">
+    <title lang="pt">Masters 1000 - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 3">
+    <title lang="pt">Masters 1000 - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 3">
+    <title lang="pt">Masters 1000 - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 3">
+    <title lang="pt">Masters 1000 - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 3">
+    <title lang="pt">Masters 1000 - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 3">
+    <title lang="pt">Masters 1000 - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 3">
+    <title lang="pt">Galeria SporTV</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 3">
+    <title lang="pt">Galeria SporTV</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 3">
+    <title lang="pt">Faixa Olímpica</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 3">
+    <title lang="pt">Galeria SporTV</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 3">
+    <title lang="pt">VT - Juventude x CRB AL</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 3">
+    <title lang="pt">Faixa Olímpica</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 3">
+    <title lang="pt">Masters 1000 - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 3">
+    <title lang="pt">Masters 1000 - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 3">
+    <title lang="pt">Masters 1000 - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 3">
+    <title lang="pt">Masters 1000 - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 3">
+    <title lang="pt">Masters 1000 - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 3">
+    <title lang="pt">Masters 1000 - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 3">
+    <title lang="pt">VT - Botafogo x Vasco</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 3">
+    <title lang="pt">Giro da Rodada</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 3">
+    <title lang="pt">VT - Fluminense x Atlético GO</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 3">
+    <title lang="pt">Galeria SporTV</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 3">
+    <title lang="pt">Campeonato Paulista de Vôlei Masculino: Taubaté x Guarulhos - Ao Vivo</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 3">
+    <title lang="pt">Faixa Olímpica</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 3">
+    <title lang="pt">Faixa Olímpica</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 3">
+    <title lang="pt">Giro Combate</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 3">
+    <title lang="pt">Galeria SporTV</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 3">
+    <title lang="pt">Galeria SporTV</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 3">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 3">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 3">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 3">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 3">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 3">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 3">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 3">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 3">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 3">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 3">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 3">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 3">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 3">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 3">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 3">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 3">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 3">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 3">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 3">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 3">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 3">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 3">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 3">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 3">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 3">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 3">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 3">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 3">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 3">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20200914000000 -0300" stop="20200914000000 -0300" channel="SPORTV 3">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+</tv>
