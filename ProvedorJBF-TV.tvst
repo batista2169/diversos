@@ -1,0 +1,85 @@
+API=m3u
+InstallerID=ST_ProvedorJBF-TV
+
+ProviderName=Provedor JBF-TV
+ProviderComment=Canais da TV Aberta e da TV Fechada.
+Site=iptv.slynet.pw
+
+
+ID=#7F00
+Name=JBFTV-LIVE-00-CANAIS
+Disabled=1
+Comment=JBF-TV makes your life more colorful!
+m3u=http://bit.ly/LiVe-00
+
+ID=#7F01
+Name=JBFTV-LIVE-01-CANAIS
+Disabled=1
+Comment=JBF-TV makes your life more colorful!
+m3u=http://bit.ly/LiVe-01
+
+ID=#7F02
+Name=JBFTV-LIVE-02-CANAIS
+Disabled=1
+Comment=JBF-TV makes your life more colorful!
+m3u=http://bit.ly/LiVe-02
+
+ID=#7F03
+Name=JBFTV-LIVE-03-CANAIS
+Disabled=1
+Comment=JBF-TV makes your life more colorful!
+m3u=http://bit.ly/LiVe-03
+
+ID=#7F04
+Name=JBFTV-LIVE-04-CANAIS
+Disabled=1
+Comment=JBF-TV makes your life more colorful!
+m3u=http://bit.ly/LiVe-04
+
+ID=#7F05
+Name=JBFTV-LIVE-05-CANAIS
+Disabled=1
+Comment=JBF-TV makes your life more colorful!
+m3u=http://bit.ly/LiVe-05
+
+ID=#7F06
+Name=JBFTV-LIVE-06-CANAIS
+Disabled=1
+Comment=JBF-TV makes your life more colorful!
+m3u=http://bit.ly/LiVe-06
+
+ID=#7F07
+Name=JBFTV-LIVE-07-CANAIS
+Disabled=1
+Comment=JBF-TV makes your life more colorful!
+m3u=http://bit.ly/LiVe-07
+
+ID=#7F08
+Name=JBFTV-LIVE-08-CANAIS
+Disabled=1
+Comment=JBF-TV makes your life more colorful!
+m3u=http://bit.ly/LiVe-08
+
+ID=#7F09
+Name=JBFTV-LIVE-09-CANAIS
+Disabled=1
+Comment=JBF-TV makes your life more colorful!
+m3u=http://bit.ly/LiVe-09
+
+ID=#7F10
+Name=JBFTV-LIVE-10-CANAIS
+Disabled=1
+Comment=JBF-TV makes your life more colorful!
+m3u=http://bit.ly/LiVe-10
+
+ID=#7F11
+Name=JBFTV-LIVE-11-CANAIS
+Disabled=1
+Comment=JBF-TV makes your life more colorful!
+m3u=http://bit.ly/LiVe-11
+
+ID=#7F12
+Name=JBFTV-LIVE-12-CANAIS
+Disabled=1
+Comment=JBF-TV makes your life more colorful!
+m3u=http://bit.ly/LiVe-12
