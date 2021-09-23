@@ -1,0 +1,265 @@
+#EXTM3U
+#EXTINF:- tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e3/Animal_Planet_2018.svg/revision/latest/scale-to-width-down/340?cb=20181016205525"group-title="DOCUMENTARIOS", ANIMAL PLANET
+http://org.sp1.cdnrdn.com:2200/BR/Animal_Planet_HD-br/index.m3u8?token=fwBlCndpe3JheQYXN3Vge3FhfnJgegVhenNjDgUtenVgenVmeXtkfA==
+#EXTINF:- tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ-VmlFiLaDoYZBT0zjxIBIEF7Ay-O2mGnIbg&usqp=CAU"group-title="FILMES", AMC
+http://org.sp1.cdnrdn.com:2200/BR/AMC_HD-br/index.m3u8?token=fwBlCndpe3JheQYXN3Vge3FhfnJgegVhenNjDgUtenVgenVmeXtkfA==
+#EXTINF:- tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/aande.png"group-title="FILMES", A&E
+http://org.sp1.cdnrdn.com:2200/BR/AE_HD-br/index.m3u8?token=fwBlCndpe3JheQYXN3Vge3FhfnJgegVhenNjDgUtenVgenVmeXtkfA==
+#EXTINF:- tvg-logo="https://logodownload.org/wp-content/uploads/2018/07/canal-axn-logo.png"group-title="FILMES", AXN
+http://org.sp1.cdnrdn.com:2200/BR/axnhd-br/index.m3u8?token=fwBlCndpe3JheQYXN3Vge3FhfnJgegVhenNjDgUtenVgenVmeXtkfA==
+#EXTINF:- tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQSEG11xnudFr81RqpX5Mb_5daaVOqqDCKGWg&usqp=CAU"group-title="FILMES", ARTE 1
+http://org.sp1.cdnrdn.com:2200/BR/Arte_1_HD-br/index.m3u8?token=fwBlCndpe3JheQYXN3Vge3FhfnJgegVhenNjDgUtenVgenVmeXtkfA==
+#EXTINF:- tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-2.png"group-title="ABERTOS", BAND
+http://org.sp1.cdnrdn.com:2200/BR/Band_HD-br/index.m3u8?token=fwBlCndpe3JheQYXN3Vge3FhfnJgegVhenNjDgUtenVgenVmeXtkfA==
+#EXTINF:- tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/82/BandNews_2019_Logo_blue.png/revision/latest?cb=20190321005538"group-title="NOTICIAS", BANDNEWS
+http://org.sp1.cdnrdn.com:2200/BR/Band_News_HD-br/index.m3u8?token=fwBlCndpe3JheQYXN3Vge3FhfnJgegVhenNjDgUtenVgenVmeXtkfA==
+#EXTINF:- tvg-logo="https://www.abcdacomunicacao.com.br/wp-content/uploads/BandSports_logo-baixa.png"group-title="ESPORTES", BAND SPORTS
+http://org.sp1.cdnrdn.com:2200/BR/Band_Sports_HD-br/index.m3u8?token=fwBlCndpe3JheQYXN3Vge3FhfnJgegVhenNjDgUtenVgenVmeXtkfA==
+#EXTINF:- tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/ca/Baby_TV.png"group-title="INFANTIS", BABYTV
+http://org.sp1.cdnrdn.com:2200/BR/babytv-br/index.m3u8?token=fwBlCndpe3JheQYXN3Vge3FhfnJgegVhenNjDgUtenVgenVmeXtkfA==
+#EXTINF:- tvg-logo="https://static.wixstatic.com/media/9d08ac_9bf9eb44727540489369901eaef24e89~mv2.png/v1/fill/w_1000,h_563,al_c,usm_0.66_1.00_0.01/9d08ac_9bf9eb44727540489369901eaef24e89~mv2.png"group-title="MÚSICA", BIS
+http://org.sp1.cdnrdn.com:2200/BR/BIS_HD-br/index.m3u8?token=fwBlCndpe3JheQYXN3Vge3FhfnJgegVhenNjDgUtenVgenVmeXtkfA==
+#EXTINF:- tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png"group-title="INFANTIS", BOOMERANG
+http://org.sp1.cdnrdn.com:2200/BR/Boomerang_HD-br/index.m3u8?token=fwBlCndpe3JheQYXN3Vge3FhfnJgegVhenNjDgUtenVgenVmeXtkfA==
+#EXTINF:- tvg-logo="https://static.wixstatic.com/media/0fc3e3_ac6812d6e98b44d285e3a0177e512e72~mv2.png/v1/fill/w_682,h_200,al_c/0fc3e3_ac6812d6e98b44d285e3a0177e512e72~mv2.png"group-title="INFANTIS", CARTOON NETWORK
+http://org.sp1.cdnrdn.com:2200/BR/Cartoon_HD-br/index.m3u8?token=fwBlCndpe3JheQYXN3Vge3FhfnJgegVhenNjDgUtenVgenVmeXtkfA==
+#EXTINF:- tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png"group-title="FILMES", CINEMAX
+http://org.sp1.cdnrdn.com:2200/BR/Cinemax_HD-br/index.m3u8?token=fwBlCndpe3JheQYXN3Vge3FhfnJgegVhenNjDgUtenVgenVmeXtkfA==
+#EXTINF:- tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/400px-Comedy_Central_2018.svg.png"group-title="VARIEDADES", COMEDY CENTRAL
+http://org.sp1.cdnrdn.com:2200/BR/Comedy_Central_HD-br/index.m3u8?token=fwBlCndpe3JheQYXN3Vge3FhfnJgegVhenNjDgUtenVgenVmeXtkfA==
+#EXTINF:- tvg-logo="https://logodownload.org/wp-content/uploads/2018/05/canal-combate-logo.png"group-title="ESPORTES", COMBATE
+http://org.sp1.cdnrdn.com:2200/BR/Combate_HD-br/index.m3u8?token=fwBlCndpe3JheQYXN3Vge3FhfnJgegVhenNjDgUtenVgenVmeXtkfA==
+#EXTINF:- tvg-logo="https://logodownload.org/wp-content/uploads/2019/07/cnn-brasil-logo-2.png"group-title="NOTICIAS", CNN BRASIL
+http://org.sp1.cdnrdn.com:2200/BR/CNN_Brasil_HD-br/index.m3u8?token=fwBlCndpe3JheQYXN3Vge3FhfnJgegVhenNjDgUtenVgenVmeXtkfA==
+#EXTINF:- tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-brasil-logo-2.png"group-title="FILMES", CANAL BRASIL
+http://org.sp1.cdnrdn.com:2200/BR/Canal_Brasil_HD-br/index.m3u8?token=fwBlCndpe3JheQYXN3Vge3FhfnJgegVhenNjDgUtenVgenVmeXtkfA==
+#EXTINF:- tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Logo_of_Curta%21.svg/1280px-Logo_of_Curta%21.svg.png"group-title="DOCUMENTARIOS", CURTA!
+http://org.sp1.cdnrdn.com:2200/BR/Curta_HD-br/index.m3u8?token=fwBlCndpe3JheQYXN3Vge3FhfnJgegVhenNjDgUtenVgenVmeXtkfA==
+#EXTINF:- tvg-logo="https://seeklogo.com/images/C/canal-rural-logo-09763010E8-seeklogo.com.png"group-title="ABERTOS", CANAL RURAL
+http://org.sp1.cdnrdn.com:2200/BR/canalrural-br/index.m3u8?token=fwBlCndpe3JheQYXN3Vge3FhfnJgegVhenNjDgUtenVgenVmeXtkfA==
+#EXTINF:- tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-8-768x159.png"group-title="DOCUMENTARIOS", DISCOVERY CHANNEL
+http://org.sp1.cdnrdn.com:2200/BR/Discovery_Channel_HD-br/index.m3u8?token=fwBlCndpe3JheQYXN3Vge3FhfnJgegVhenNjDgUtenVgenVmeXtkfA==
+#EXTINF:- tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo.png"group-title="DOCUMENTARIOS", DISCOVERY H&H
+http://org.sp1.cdnrdn.com:2200/BR/Disc-_Home_Health_HD-br/index.m3u8?token=fwBlCndpe3JheQYXN3Vge3FhfnJgegVhenNjDgUtenVgenVmeXtkfA==
+#EXTINF:- tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1280px-World_Discovery_HD_logo.svg.png"group-title="DOCUMENTARIOS", DISCOVERY WORLD
+http://org.sp1.cdnrdn.com:2200/BR/Discovery_World_HD-br/index.m3u8?token=fwBlCndpe3JheQYXN3Vge3FhfnJgegVhenNjDgUtenVgenVmeXtkfA==
+#EXTINF:- tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1280px-Discovery_Turbo_logo.svg.png"group-title="DOCUMENTARIOS", DISCOVERY TURBO
+http://org.sp1.cdnrdn.com:2200/BR/Discovery_Turbo_HD-br/index.m3u8?token=fwBlCndpe3JheQYXN3Vge3FhfnJgegVhenNjDgUtenVgenVmeXtkfA==
+#EXTINF:- tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/1280px-2015_Discovery_theater_HD_logo.svg.png"group-title="DOCUMENTARIOS", DISCOVERY THEATER
+http://org.sp1.cdnrdn.com:2200/BR/Discovery_Theater_HD-br/index.m3u8?token=fwBlCndpe3JheQYXN3Vge3FhfnJgegVhenNjDgUtenVgenVmeXtkfA==
+#EXTINF:- tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a8/LOGO_DISCOVERY_SCIENCE.png"group-title="DOCUMENTARIOS", DISCOVERY SCIENCE
+http://org.sp1.cdnrdn.com:2200/BR/Discovery_Science_HD-br/index.m3u8?token=fwBlCndpe3JheQYXN3Vge3FhfnJgegVhenNjDgUtenVgenVmeXtkfA==
+#EXTINF:- tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/ID_-_Investiga%C3%A7%C3%A3o_Discovery.png"group-title="DOCUMENTARIOS",INVESTIGAÇÃO DISCOVERY
+http://org.sp1.cdnrdn.com:2200/BR/ID_-_Investi_Discovery_HD/index.m3u8?token=fwBlCndpe3JheQYXN3Vge3FhfnJgegVhenNjDgUtenVgenVmeXtkfA==
+#EXTINF:- tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/discovery-kids-logo.png"group-title="INFANTIS", DISCOVERY KIDS
+http://org.sp1.cdnrdn.com:2200/BR/Discovery_Ks_HD-br/index.m3u8?token=fwBlCndpe3JheQYXN3Vge3FhfnJgegVhenNjDgUtenVgenVmeXtkfA==
+#EXTINF:- tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/Disney_channel_2019.png"group-title="INFANTIS", DISNEY CHANNEL
+http://org.sp1.cdnrdn.com:2200/BR/Disney_Channel_HD-br/index.m3u8?token=fwBlCndpe3JheQYXN3Vge3FhfnJgegVhenNjDgUtenVgenVmeXtkfA==
+#EXTINF:- tvg-logo="https://static.wikia.nocookie.net/disney/images/8/83/Disney_Junior_Logo.png/revision/latest?cb=20180904084738"group-title="INFANTIS", DISNEY JUNIOR
+http://org.sp1.cdnrdn.com:2200/BR/disneyjunior-br/index.m3u8?token=fwBlCndpe3JheQYXN3Vge3FhfnJgegVhenNjDgUtenVgenVmeXtkfA==
+#EXTINF:- tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo_Disney_XD.png/640px-Logo_Disney_XD.png"group-title="INFANTIS", DISNEY XD
+http://org.sp1.cdnrdn.com:2200//BR/disneyxd-br/index.m3u8?token=fwBlCndpe3JheQYXN3Vge3FhfnJgegVhenNjDgUtenVgenVmeXtkfA==
+#EXTINF:- tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/67/EPTV.png"group-title="ABERTOS", EPTV CAMPINAS
+http://org.sp1.cdnrdn.com:2200/BR/EPTV_HD_Campinas-br/index.m3u8?token=fwBlCndpe3JheQYXN3Vge3FhfnJgegVhenNjDgUtenVgenVmeXtkfA==
+#EXTINF:- tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-2-599x148.png"group-title="ESPORTES", ESPN
+http://org.sp1.cdnrdn.com:2200/BR/ESPN_HD-br/index.m3u8?token=fwBlCndpe3JheQYXN3Vge3FhfnJgegVhenNjDgUtenVgenVmeXtkfA==
+#EXTINF:- tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png"group-title="ESPORTES", ESPN 2 
+http://org.sp1.cdnrdn.com:2200/BR/ESPN2_HD-br/index.m3u8?token=fwBlCndpe3JheQYXN3Vge3FhfnJgegVhenNjDgUtenVgenVmeXtkfA==
+#EXTINF:- tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTupTMwdLu-c3pT7uoSYfxGMVxHCqALW6tFSQ&usqp=CAU"group-title="ESPORTES", ESPN EXTRA
+
+#EXTINF:- tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo-599x247.png"group-title="ESPORTES", ESPN BRASIL
+http://org.sp1.cdnrdn.com:2200/BR/ESPN_Brasil_HD-br/index.m3u8?token=fwBlCndpe3JheQYXN3Vge3FhfnJgegVhenNjDgUtenVgenVmeXtkfA==
+#EXTINF:- tvg-logo="https://i.pinimg.com/originals/4e/fd/fd/4efdfddc6dafa48064a41f9b6f1d6293.png"group-title="VARIEDADES", E!
+http://org.sp1.cdnrdn.com:2200/BR/E_HD-br/index.m3u8?token=fwBlCndpe3JheQYXN3Vge3FhfnJgegVhenNjDgUtenVgenVmeXtkfA==
+#EXTINF:- tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Fox_Channel_logo.svg/200px-Fox_Channel_logo.svg.png"group-title="FILMES", FOX CHANNEL
+http://org.sp1.cdnrdn.com:2200/BR/Fox_HD-br/index.m3u8?token=fwBlCndpe3JheQYXN3Vge3FhfnJgegVhenNjDgUtenVgenVmeXtkfA==
+#EXTINF:- tvg-logo="https://help.foxplay.com/hc/article_attachments/360023498192/FOX_Premium_1_HD.png"group-title="FILMES", FOX PREMIUM 1
+http://org.sp1.cdnrdn.com:2200/BR/Fox_Premium_1_HD-br/index.m3u8?token=fwBlCndpe3JheQYXN3Vge3FhfnJgegVhenNjDgUtenVgenVmeXtkfA==
+#EXTINF:- tvg-logo="https://help.foxplay.com/hc/article_attachments/360023498272/FOX_Premium_2_HD.png"group-title="FILMES", FOX PREMIUM 2
+http://org.sp1.cdnrdn.com:2200/BR/Fox_Premium_2_HD-br/index.m3u8?token=fwBlCndpe3JheQYXN3Vge3FhfnJgegVhenNjDgUtenVgenVmeXtkfA==
+#EXTINF:- tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Fox_life_logo.png"group-title="FILMES", FOX LIFE
+http://org.sp1.cdnrdn.com:2200/BR/Fox_Life_HD-br/index.m3u8?token=fwBlCndpe3JheQYXN3Vge3FhfnJgegVhenNjDgUtenVgenVmeXtkfA==
+#EXTINF:- tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1200px-FX_International_logo.svg.png"group-title="FILMES", FX
+http://org.sp1.cdnrdn.com:2200/BR/FX_HD-br/index.m3u8?token=fwBlCndpe3JheQYXN3Vge3FhfnJgegVhenNjDgUtenVgenVmeXtkfA==
+#EXTINF:- tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/fox-sports-logo.png"group-title="ESPORTES", FOX SPORTS
+http://org.sp1.cdnrdn.com:2200/BR/Fox_Sports_HD-br/index.m3u8?token=fwBlCndpe3JheQYXN3Vge3FhfnJgegVhenNjDgUtenVgenVmeXtkfA==
+#EXTINF:- tvg-logo="https://seeklogo.com/images/F/fox-sports-2-logo-876FE0A3C1-seeklogo.com.png"group-title="ESPORTES", FOX SPORTS 2 
+http://org.sp1.cdnrdn.com:2200/BR/Fox_Sports_2_HD-br/index.m3u8?token=fwBlCndpe3JheQYXN3Vge3FhfnJgegVhenNjDgUtenVgenVmeXtkfA==
+#EXTINF:- tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Canal_Futura.png/1034px-Canal_Futura.png"group-title="ABERTOS", FUTURA
+http://org.sp1.cdnrdn.com:2200/BR/Futura_HD-br/index.m3u8?token=fwBlCndpe3JheQYXN3Vge3FhfnJgegVhenNjDgUtenVgenVmeXtkfA==
+#EXTINF:- tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-1-1.png"group-title="ABERTOS", GLOBO RJ
+http://org.sp1.cdnrdn.com:2200/BR/Globo_HD_RJ-br/index.m3u8?token=fwBlCndpe3JheQYXN3Vge3FhfnJgegVhenNjDgUtenVgenVmeXtkfA==
+#EXTINF:- tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-1-1.png"group-title="ABERTOS", GLOBO SP
+http://org.sp1.cdnrdn.com:2200/BR/Globo_Nordeste_HD-br/index.m3u8?token=fwBlCndpe3JheQYXN3Vge3FhfnJgegVhenNjDgUtenVgenVmeXtkfA==
+#EXTINF:- tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-1-1.png"group-title="ABERTOS", GLOBO MINAS
+http://org.sp1.cdnrdn.com:2200/BR/Globo_HD_Minas-br/index.m3u8?token=fwBlCndpe3JheQYXN3Vge3FhfnJgegVhenNjDgUtenVgenVmeXtkfA==
+#EXTINF:- tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-1-1.png"group-title="ABERTOS", GLOBO BRASÍLIA
+http://org.sp1.cdnrdn.com:2200/BR/Globo_Brasilia_HD-br/index.m3u8?token=fwBlCndpe3JheQYXN3Vge3FhfnJgegVhenNjDgUtenVgenVmeXtkfA==
+#EXTINF:- tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-1-1.png"group-title="ABERTOS", GLOBO BAHIA
+http://org.sp1.cdnrdn.com:2200/BR/TV_Bahia_HD-br/index.m3u8?token=fwBlCndpe3JheQYXN3Vge3FhfnJgegVhenNjDgUtenVgenVmeXtkfA==
+#EXTINF:- tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-1-1.png"group-title="ABERTOS", GLOBO NORDESTE
+http://org.sp1.cdnrdn.com:2200/BR/Globo_Nordeste_HD-br/index.m3u8?token=fwBlCndpe3JheQYXN3Vge3FhfnJgegVhenNjDgUtenVgenVmeXtkfA==
+#EXTINF:- tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/globo-news-logo.png"group-title="NOTICIAS", GLOBONEWS
+http://org.sp1.cdnrdn.com:2200/BR/Globo_News_HD-br/index.m3u8?token=fwBlCndpe3JheQYXN3Vge3FhfnJgegVhenNjDgUtenVgenVmeXtkfA==
+#EXTINF:- tvg-logo="https://logodownload.org/wp-content/uploads/2018/05/gloob-logo-2.png"group-title="INFANTIS", GLOOB
+http://org.sp1.cdnrdn.com:2200/BR/Gloob_HD-br/index.m3u8?token=fwBlCndpe3JheQYXN3Vge3FhfnJgegVhenNjDgUtenVgenVmeXtkfA==
+#EXTINF:- tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-1-1.png"group-title="INFANTIS", GLOOBINHO
+
+#EXTINF:- tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/GNT_logo-roxo.svg/1322px-GNT_logo-roxo.svg.png"group-title="VARIEDADES", GNT
+http://org.sp1.cdnrdn.com:2200/BR/GNT_HD-br/index.m3u8?token=fwBlCndpe3JheQYXN3Vge3FhfnJgegVhenNjDgUtenVgenVmeXtkfA==
+#EXTINF:- tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1024px-HBO_logo.svg.png"group-title="FILMES", HBO
+http://org.sp1.cdnrdn.com:2200/BR/HBO_HD-br/index.m3u8?token=fwBlCndpe3JheQYXN3Vge3FhfnJgegVhenNjDgUtenVgenVmeXtkfA==
+#EXTINF:- tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png"group-title="FILMES", HBO 2
+http://org.sp1.cdnrdn.com:2200/BR/HBO_2_HD-br/index.m3u8?token=fwBlCndpe3JheQYXN3Vge3FhfnJgegVhenNjDgUtenVgenVmeXtkfA==
+#EXTINF:- tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png"group-title="FILMES", HBO XTREME
+http://org.sp1.cdnrdn.com:2200/BR/HBO_Xtreme_HD-br/index.m3u8?token=fwBlCndpe3JheQYXN3Vge3FhfnJgegVhenNjDgUtenVgenVmeXtkfA==
+#EXTINF:- tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1200px-HBO_Pop.svg.png"group-title="FILMES", HBO POP
+http://org.sp1.cdnrdn.com:2200/BR/HBO_POP_HD-br/index.m3u8?token=fwBlCndpe3JheQYXN3Vge3FhfnJgegVhenNjDgUtenVgenVmeXtkfA==
+#EXTINF:- tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png"group-title="FILMES", HBO SIGNATURE
+http://org.sp1.cdnrdn.com:2200/BR/HBO_Signature_HD-br/index.m3u8?token=fwBlCndpe3JheQYXN3Vge3FhfnJgegVhenNjDgUtenVgenVmeXtkfA==
+#EXTINF:- tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1200px-HBO_Mundi.svg.png"group-title="FILMES", HBO MUNDI
+http://org.sp1.cdnrdn.com:2200/BR/HBO_MUNDI_HD-br/index.m3u8?token=fwBlCndpe3JheQYXN3Vge3FhfnJgegVhenNjDgUtenVgenVmeXtkfA==
+#EXTINF:- tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png"group-title="FILMES", HBO FAMILY
+http://org.sp1.cdnrdn.com:2200/BR/HBO_Family_HD-br/index.m3u8?token=fwBlCndpe3JheQYXN3Vge3FhfnJgegVhenNjDgUtenVgenVmeXtkfA==
+#EXTINF:- tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/HBO_Plus.png/200px-HBO_Plus.png"group-title="FILMES", HBO PLUS
+http://org.sp1.cdnrdn.com:2200/BR/HBO_Plus_HD-br/index.m3u8?token=fwBlCndpe3JheQYXN3Vge3FhfnJgegVhenNjDgUtenVgenVmeXtkfA==
+#EXTINF:- tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1000px-History_Logo.svg.png"group-title="DOCUMENTARIOS", HISTORY
+http://org.sp1.cdnrdn.com:2200/BR/The_History_Channel_HD-br/index.m3u8?token=fwBlCndpe3JheQYXN3Vge3FhfnJgegVhenNjDgUtenVgenVmeXtkfA==
+#EXTINF:- tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png"group-title="DOCUMENTARIOS",  H2
+http://org.sp1.cdnrdn.com:2200/BR/History_2_HD-br/index.m3u8?token=fwBlCndpe3JheQYXN3Vge3FhfnJgegVhenNjDgUtenVgenVmeXtkfA==
+#EXTINF:- tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQE9Qnepdw65GLV99dh4oWJ7U2nmXtDqD1AdQ&usqp=CAU"group-title="ESPORTES", PREMIERE CLUBES
+http://org.sp1.cdnrdn.com:2200/BR/Premiere_Clubes_HD-br/index.m3u8?token=fwBlCndpe3JheQYXN3Vge3FhfnJgegVhenNjDgUtenVgenVmeXtkfA==
+#EXTINF:- tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQE9Qnepdw65GLV99dh4oWJ7U2nmXtDqD1AdQ&usqp=CAU"group-title="ESPORTES", PREMIERE 2
+http://org.sp1.cdnrdn.com:2200/BR/Premiere_7_HD-br/index.m3u8?token=fwBlCndpe3JheQYXN3Vge3FhfnJgegVhenNjDgUtenVgenVmeXtkfA==
+#EXTINF:- tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQE9Qnepdw65GLV99dh4oWJ7U2nmXtDqD1AdQ&usqp=CAU"group-title="ESPORTES", PREMIERE 3
+http://org.sp1.cdnrdn.com:2200/BR/Premiere_3_HD-br/index.m3u8?token=fwBlCndpe3JheQYXN3Vge3FhfnJgegVhenNjDgUtenVgenVmeXtkfA==
+#EXTINF:- tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQE9Qnepdw65GLV99dh4oWJ7U2nmXtDqD1AdQ&usqp=CAU"group-title="ESPORTES", PREMIERE 4
+http://org.sp1.cdnrdn.com:2200/BR/Premiere_4_HD-br/index.m3u8?token=fwBlCndpe3JheQYXN3Vge3FhfnJgegVhenNjDgUtenVgenVmeXtkfA==
+#EXTINF:- tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQE9Qnepdw65GLV99dh4oWJ7U2nmXtDqD1AdQ&usqp=CAU"group-title="ESPORTES", PREMIERE 5
+http://org.sp1.cdnrdn.com:2200/BR/Premiere_5_HD-br/index.m3u8?token=fwBlCndpe3JheQYXN3Vge3FhfnJgegVhenNjDgUtenVgenVmeXtkfA==
+#EXTINF:- tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQE9Qnepdw65GLV99dh4oWJ7U2nmXtDqD1AdQ&usqp=CAU"group-title="ESPORTES", PREMIERE 6
+http://org.sp1.cdnrdn.com:2200/BR/Premiere_6_HD-br/index.m3u8?token=fwBlCndpe3JheQYXN3Vge3FhfnJgegVhenNjDgUtenVgenVmeXtkfA==
+#EXTINF:- tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Paramount.png"group-title="FILMES", PARAMOUNT
+http://org.sp1.cdnrdn.com:2200/BR/Paramount_HD-br/index.m3u8?token=fwBlCndpe3JheQYXN3Vge3FhfnJgegVhenNjDgUtenVgenVmeXtkfA==
+#EXTINF:- tvg-logo="https://boxbrazil.tv.br/wp-content/uploads/2019/06/logo-prime.png"group-title="VARIEDADES", PRIME BOX
+http://org.sp1.cdnrdn.com:2200/BR/Prime_Box_HD-br/index.m3u8?token=fwBlCndpe3JheQYXN3Vge3FhfnJgegVhenNjDgUtenVgenVmeXtkfA==
+#EXTINF:- tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/500px-TNT_Logo_2016.svg.png"group-title="FILMES", TNT
+http://org.sp1.cdnrdn.com:2200/BR/TNT_HD-br/index.m3u8?token=fwBlCndpe3JheQYXN3Vge3FhfnJgegVhenNjDgUtenVgenVmeXtkfA==
+#EXTINF:- tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/TNT_Series_Logo_2016.png/200px-TNT_Series_Logo_2016.png"group-title="FILMES", TNT SERIES
+http://org.sp1.cdnrdn.com:2200/BR/TNT_Series_HD-br/index.m3u8?token=fwBlCndpe3JheQYXN3Vge3FhfnJgegVhenNjDgUtenVgenVmeXtkfA==
+#EXTINF:-1 tvg-logo="https://cdn.telecineplay.com.br/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%27194214.png%27&ImageUrl=%27194214.png%27&EntityType=%27Item%27&EntityId=%278966%27&Width=3055&Height=2159&device=web_browser&subscriptions=Anonymous78867%27&Width=3055&Height=2159&device=web_browser&subscriptions=Anonymous"group-title="FILMES" ,TELECINE ACTION
+http://org.sp1.cdnrdn.com:2200/BR/Telecine_Action_HD-br/index.m3u8?token=fwBlCndpe3JheQYXN3Vge3FhfnJgegVhenNjDgUtenVgenVmeXtkfA==
+#EXTINF:-1 tvg-logo="https://cdn.telecineplay.com.br/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%27194222.png%27&ImageUrl=%27194222.png%27&EntityType=%27Item%27&EntityId=%278900%27&Width=3055&Height=2159&device=web_browser&subscriptions=Anonymous"group-title="FILMES" , TELECINE CULT
+http://org.sp1.cdnrdn.com:2200/BR/Telecine_Cult_HD-br/index.m3u8?token=fwBlCndpe3JheQYXN3Vge3FhfnJgegVhenNjDgUtenVgenVmeXtkfA==
+#EXTINF:-1 tvg-logo="https://cdn.telecineplay.com.br/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%27194218.png%27&ImageUrl=%27194218.png%27&EntityType=%27Item%27&EntityId=%278933%27&Width=3055&Height=2159&device=web_browser&subscriptions=Anonymous"group-title="FILMES" ,TELECINE FUN
+http://org.sp1.cdnrdn.com:2200/BR/Telecine_Fun_HD-br/index.m3u8?token=fwBlCndpe3JheQYXN3Vge3FhfnJgegVhenNjDgUtenVgenVmeXtkfA==
+#EXTINF:-1 tvg-logo="https://cdn.telecineplay.com.br/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%27194220.png%27&ImageUrl=%27194220.png%27&EntityType=%27Item%27&EntityId=%278801%27&Width=3055&Height=2159&device=web_browser&subscriptions=Anonymous"group-title="FILMES" ,  TELECINE PIPOCA 
+http://org.sp1.cdnrdn.com:2200/BR/Telecine_Pipoca_HD-br/index.m3u8?token=fwBlCndpe3JheQYXN3Vge3FhfnJgegVhenNjDgUtenVgenVmeXtkfA==
+#EXTINF:-1 tvg-logo="https://cdn.telecineplay.com.br/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%27194212.png%27&ImageUrl=%27194212.png%27&EntityType=%27Item%27&EntityId=%278867%27&Width=3055&Height=2159&device=web_"group-title="FILMES" ,TELECINE PREMIUM
+http://org.sp1.cdnrdn.com:2200/BR/Telecine_Premium_HD-br/index.m3u8?token=fwBlCndpe3JheQYXN3Vge3FhfnJgegVhenNjDgUtenVgenVmeXtkfA==
+#EXTINF:-1 tvg-logo="https://cdn.telecineplay.com.br/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%27194216.png%27&ImageUrl=%27194216.png%27&EntityType=%27Item%27&EntityId=%278834%27&Width=3055&Height=2159&device=web_browser&subscriptions=Anonymous"group-title="FILMES" ,TELECINE TOUCH 
+http://org.sp1.cdnrdn.com:2200/BR/Telecine_Touch_HD-br/index.m3u8?token=fwBlCndpe3JheQYXN3Vge3FhfnJgegVhenNjDgUtenVgenVmeXtkfA==
+#EXTINF:- tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/TLC-Logo_2016.png/800px-TLC-Logo_2016.png"group-title="DOCUMENTARIOS", TLC
+http://org.sp1.cdnrdn.com:2200/BR/TLC_HD-br/index.m3u8?token=fwBlCndpe3JheQYXN3Vge3FhfnJgegVhenNjDgUtenVgenVmeXtkfA==
+#EXTINF:- tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png"group-title="FILMES", TCM
+http://org.sp1.cdnrdn.com:2200/BR/tcm-br/index.m3u8?token=fwBlCndpe3JheQYXN3Vge3FhfnJgegVhenNjDgUtenVgenVmeXtkfA==
+#EXTINF:- tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1024px-TBS_logo_2016.svg.png"group-title="FILMES", TBS
+http://org.sp1.cdnrdn.com:2200/BR/TBS_HD-br/index.m3u8?token=fwBlCndpe3JheQYXN3Vge3FhfnJgegVhenNjDgUtenVgenVmeXtkfA==
+#EXTINF:- tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/500px-Tooncast_logo.svg.png"group-title="INFANTIS", TOONCAST
+http://org.sp1.cdnrdn.com:2200/BR/Tooncast-br/index.m3u8?token=fwBlCndpe3JheQYXN3Vge3FhfnJgegVhenNjDgUtenVgenVmeXtkfA==
+#EXTINF:- tvg-logo="https://lh3.googleusercontent.com/proxy/zjiOPeqYfKKCsa9W1fvD0JbwuZz4ARpgIxYOmq2WBDjfGsZMy1a6G3s10l3c6MaIfvWhFmAhiBwgMcHycyiwBv5tN1xeTVHA3SyX1UDC2_QORXYDn-oete8CpuTJs1aJOW6YQVrGExGCn9lNfEzbFF-zKbJ7rBsH8VXXwMAU7LS1scFGjfYqxZIFfFvntzjvk_sDve3Ohw"group-title="INFANTIS", TV RA TIM BUM
+http://org.sp1.cdnrdn.com:2200/BR/TV_RA_Tim_Bum_HD-br/index.m3u8?token=fwBlCndpe3JheQYXN3Vge3FhfnJgegVhenNjDgUtenVgenVmeXtkfA==
+#EXTINF:- tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-1-1.png"group-title="ABERTOS", GLOBO GOIANIA
+http://org.sp1.cdnrdn.com:2200/BR/TV_Anhanguera_Gonia_HD-br/index.m3u8?token=fwBlCndpe3JheQYXN3Vge3FhfnJgegVhenNjDgUtenVgenVmeXtkfA==
+#EXTINF:- tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/8e/Logotipo_da_TV_Verdes_Mares.png"group-title="ABERTOS", TV VERDES MARES
+http://org.sp1.cdnrdn.com:2200/BR/TV_Verdes_Mares_HD_Fortaleza-br/index.m3u8?token=fwBlCndpe3JheQYXN3Vge3FhfnJgegVhenNjDgUtenVgenVmeXtkfA==
+#EXTINF:- tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/tv-cultura-logo.png"group-title="ABERTOS", TV CULTURA
+http://org.sp1.cdnrdn.com:2200/BR/cultura-br/index.m3u8?token=fwBlCndpe3JheQYXN3Vge3FhfnJgegVhenNjDgUtenVgenVmeXtkfA==
+#EXTINF:- tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Polishop.jpg/200px-Polishop.jpg"group-title="VARIEDADES", TV POLISHOP
+http://org.sp1.cdnrdn.com:2200/BR/polishoptv-br/index.m3u8?token=fwBlCndpe3JheQYXN3Vge3FhfnJgegVhenNjDgUtenVgenVmeXtkfA==
+#EXTINF:- tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TV_Gazeta.svg/500px-TV_Gazeta.svg.png"group-title="ABERTOS", TV GAZETA
+http://org.sp1.cdnrdn.com:2200/BR/Gazeta-br/index.m3u8?token=fwBlCndpe3JheQYXN3Vge3FhfnJgegVhenNjDgUtenVgenVmeXtkfA==
+#EXTINF:- tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/tv-senado-logo.png"group-title="NOTICIAS", TV SENADO
+http://org.sp1.cdnrdn.com:2200/BR/tvsenado-br/index.m3u8?token=fwBlCndpe3JheQYXN3Vge3FhfnJgegVhenNjDgUtenVgenVmeXtkfA==
+#EXTINF:- tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png"group-title="ABERTOS", TV APARECIDA
+http://org.sp1.cdnrdn.com:2200/BR/tvaparecida-br/index.m3u8?token=fwBlCndpe3JheQYXN3Vge3FhfnJgegVhenNjDgUtenVgenVmeXtkfA==
+#EXTINF:- tvg-logo="https://lh3.googleusercontent.com/proxy/K1ueLTxEo5TpvhGPf9ZW-U8uE4S65DLWZ_fcpcbEKJRW_6vPyRjlVKhrxHKKpC7bmBgfNmdmAXn6OkOTaxnPZLcP2It-1a9zX_s"group-title="NOTICIAS", TV JUSTIÇA
+http://org.sp1.cdnrdn.com:2200/BR/tvjustica-br/index.m3u8?token=fwBlCndpe3JheQYXN3Vge3FhfnJgegVhenNjDgUtenVgenVmeXtkfA==
+#EXTINF:- tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/TV_Escola.png"group-title="ABERTOS", TV ESCOLA
+http://org.sp1.cdnrdn.com:2200/BR/tvescola-br/index.m3u8?token=fwBlCndpe3JheQYXN3Vge3FhfnJgegVhenNjDgUtenVgenVmeXtkfA==
+#EXTINF:- tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1c/Logotipo_da_TV_Brasil.png"group-title="ABERTOS", TV BRASIL
+http://org.sp1.cdnrdn.com:2200/BR/tvbrasil-br/index.m3u8?token=fwBlCndpe3JheQYXN3Vge3FhfnJgegVhenNjDgUtenVgenVmeXtkfA==
+#EXTINF:- tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH6pnpVozA1gTx6PjFarNl3edQEVLBgN-G8g&usqp=CAU"group-title="ABERTOS", LOADING TV
+http://org.sp1.cdnrdn.com:2200/BR/Loading_TV_-br/index.m3u8?token=fwBlCndpe3JheQYXN3Vge3FhfnJgegVhenNjDgUtenVgenVmeXtkfA==
+#EXTINF:- tvg-logo="https://2.bp.blogspot.com/-WXbh7TcBGoo/W4WLHuVLzLI/AAAAAAABLvM/yUaNuY9jgaQ1tm44c1x_ScT0A3U15oudQCLcBGAs/w1200-h630-p-k-no-nu/brand_love-nature.jpg"group-title="DOCUMENTARIOS", LOVE NATURE
+http://org.sp1.cdnrdn.com:2200/BR/Lovenature_-br/index.m3u8?token=fwBlCndpe3JheQYXN3Vge3FhfnJgegVhenNjDgUtenVgenVmeXtkfA==
+#EXTINF:- tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Canal_Viva_2018_wordmark.svg/400px-Canal_Viva_2018_wordmark.svg.png"group-title="VARIEDADES", VIVA
+http://org.sp1.cdnrdn.com:2200/BR/Viva_HD-br/index.m3u8?token=fwBlCndpe3JheQYXN3Vge3FhfnJgegVhenNjDgUtenVgenVmeXtkfA==
+#EXTINF:- tvg-logo="https://logodownload.org/wp-content/uploads/2018/11/canal-space-logo.png"group-title="FILMES", SPACE
+http://org.sp1.cdnrdn.com:2200/BR/Space_HD-br/index.m3u8?token=fwBlCndpe3JheQYXN3Vge3FhfnJgegVhenNjDgUtenVgenVmeXtkfA==
+#EXTINF:- tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SYFY.svg/1280px-SYFY.svg.png"group-title="FILMES", SYFY
+http://org.sp1.cdnrdn.com:2200/BR/SyFy_HD-br/index.m3u8?token=fwBlCndpe3JheQYXN3Vge3FhfnJgegVhenNjDgUtenVgenVmeXtkfA==
+#EXTINF:- tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png"group-title="ABERTOS", RECORDTV SP
+http://playplusspo-lh.akamaihd.net:80/i/pp_sp@350176/index_720_av-p.m3u8
+#EXTINF:- tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png"group-title="ABERTOS", RECORDTV RJ
+https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/master.m3u8
+#EXTINF:- tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png"group-title="ABERTOS", RECORDTV MG
+https://playplusbh-lh.akamaihd.net/i/pp_bh@377862/master.m3u8
+#EXTINF:- tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png"group-title="ABERTOS", RECORDTV BRASÍLIA
+https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_720_av-p.m3u8?sd=10&rebase=on
+#EXTINF:- tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c7/Logotipo_da_Record_News_%282016%29.png"group-title="NOTICIAS", RECORD NEWS
+http://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_720_av-p.m3u8
+#EXTINF:- tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png"group-title="ABERTOS", REDETV!
+http://org.sp1.cdnrdn.com:2200/BR/Rede_TV_HD-br/index.m3u8?token=fwBlCndpe3JheQYXN3Vge3FhfnJgegVhenNjDgUtenVgenVmeXtkfA==
+#EXTINF:- tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Rede_Vida_logo.png/666px-Rede_Vida_logo.png"group-title="ABERTOS", REDE VIDA
+http://org.sp1.cdnrdn.com:2200/BR/Rede_Va_HD-br/index.m3u8?token=fwBlCndpe3JheQYXN3Vge3FhfnJgegVhenNjDgUtenVgenVmeXtkfA==
+#EXTINF:- tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/76/Logotipo_da_RPC.png"group-title="ABERTOS", RPC CURITIBA
+http://org.sp1.cdnrdn.com:2200/BR/RPC_TV_Curitiba_HD-br/index.m3u8?token=fwBlCndpe3JheQYXN3Vge3FhfnJgegVhenNjDgUtenVgenVmeXtkfA==
+#EXTINF:- tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c3/RBS_TV.png"group-title="ABERTOS", RBS TV
+http://org.sp1.cdnrdn.com:2200/BR/RBS_TV_HD_Porto_Alegre-br/index.m3u8?token=fwBlCndpe3JheQYXN3Vge3FhfnJgegVhenNjDgUtenVgenVmeXtkfA==
+#EXTINF:- tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1200px-Logotipo_do_SBT.svg.png"group-title="ABERTOS", SBT
+http://org.sp1.cdnrdn.com:2200/BR/SBT_HD-br/index.m3u8?token=fwBlCndpe3JheQYXN3Vge3FhfnJgegVhenNjDgUtenVgenVmeXtkfA==
+#EXTINF:- tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcToKRVupcvrsjxCGzC59-mkX-y9D7LrjxslYg&usqp=CAU"group-title="ESPORTES", SPORTV
+http://org.sp1.cdnrdn.com:2200/BR/Sportv_HD-br/index.m3u8?token=fwBlCndpe3JheQYXN3Vge3FhfnJgegVhenNjDgUtenVgenVmeXtkfA==
+#EXTINF:- tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/SporTV_2_2017_logo.svg/1328px-SporTV_2_2017_logo.svg.png"group-title="ESPORTES", SPORTV 2
+http://org.sp1.cdnrdn.com:2200/BR/Sportv_2_HD-br/index.m3u8?token=fwBlCndpe3JheQYXN3Vge3FhfnJgegVhenNjDgUtenVgenVmeXtkfA==
+#EXTINF:- tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT-44V4b5OkLnBI8ceG1WCphbmScg3DiqSmpg&usqp=CAU"group-title="ESPORTES", SPORTV 3
+http://org.sp1.cdnrdn.com:2200/BR/Sportv_3_HD-br/index.m3u8?token=fwBlCndpe3JheQYXN3Vge3FhfnJgegVhenNjDgUtenVgenVmeXtkfA==
+#EXTINF:- tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1200px-Logo_Studio_Universal.svg.png"group-title="FILMES", STUDIO UNIVERSAL
+http://org.sp1.cdnrdn.com:2200/BR/Studio_Universal_HD-br/index.m3u8?token=fwBlCndpe3JheQYXN3Vge3FhfnJgegVhenNjDgUtenVgenVmeXtkfA==
+#EXTINF:- tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lifetime_logo17.svg/1024px-Lifetime_logo17.svg.png"group-title="VARIEDADES", LIFETIME
+http://org.sp1.cdnrdn.com:2200/BR/Lifetime_HD-br/index.m3u8?token=fwBlCndpe3JheQYXN3Vge3FhfnJgegVhenNjDgUtenVgenVmeXtkfA==_q5eGJuNUL5MRPQ3-pYt4fA==,1603186944.6886740429&c=BR&r=62&t=0&s=12&p=1
+#EXTINF:- tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/megapix-logo.png"group-title="FILMES", MEGAPIX
+http://org.sp1.cdnrdn.com:2200/BR/Megapix_HD-br/index.m3u8?token=fwBlCndpe3JheQYXN3Vge3FhfnJgegVhenNjDgUtenVgenVmeXtkfA==
+#EXTINF:- tvg-logo="https://logodownload.org/wp-content/uploads/2017/03/multishow-logo.png"group-title="MÚSICA", MULTISHOW
+http://org.sp1.cdnrdn.com:2200/BR/Multishow_HD-br/index.m3u8?token=fwBlCndpe3JheQYXN3Vge3FhfnJgegVhenNjDgUtenVgenVmeXtkfA==
+#EXTINF:- tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MTV_Logo_2010.svg/1472px-MTV_Logo_2010.svg.png"group-title="MÚSICA", MTV
+http://org.sp1.cdnrdn.com:2200/BR/MTV_HD-br/index.m3u8?token=fwBlCndpe3JheQYXN3Vge3FhfnJgegVhenNjDgUtenVgenVmeXtkfA==
+#EXTINF:- tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/MTV_Live_HD_2017_logo.svg/614px-MTV_Live_HD_2017_logo.svg.png"group-title="MÚSICA", MTV LIVE
+http://org.sp1.cdnrdn.com:2200/BR/MTV_LIVE_HD_-br/mpegts?token=fwBlCndpe3JheQYXN3Vge3FhfnJgegVhenNjDgUtenVgenVmeXtkfA==
+#EXTINF:- tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/LogoMusicRoxo.png"group-title="MÚSICA", MUSIC BOX
+http://org.sp1.cdnrdn.com:2200/BR/Music_Box_HD-br/index.m3u8?token=fwBlCndpe3JheQYXN3Vge3FhfnJgegVhenNjDgUtenVgenVmeXtkfA==
+#EXTINF:- tvg-logo="https://logos-download.com/wp-content/uploads/2016/07/National_Geographic_logo.png"group-title="DOCUMENTARIOS", NATGEO
+http://org.sp1.cdnrdn.com:2200/BR/Nat_Geo_HD-br/index.m3u8?token=fwBlCndpe3JheQYXN3Vge3FhfnJgegVhenNjDgUtenVgenVmeXtkfA==
+#EXTINF:- tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1280px-National_Geographic_Wild_logo.svg.png"group-title="DOCUMENTARIOS", NATGEO WILD
+http://org.sp1.cdnrdn.com:2200/BR/NatGeo_Wild_HD-br/index.m3u8?token=fwBlCndpe3JheQYXN3Vge3FhfnJgegVhenNjDgUtenVgenVmeXtkfA==
+#EXTINF:- tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Natgeo_Kids_logo.svg/1280px-Natgeo_Kids_logo.svg.png"group-title="INFANTIS", NATGEO KIDS
+http://org.sp1.cdnrdn.com:2200/BR/NatGeoKidsHD-br/index.m3u8?token=fwBlCndpe3JheQYXN3Vge3FhfnJgegVhenNjDgUtenVgenVmeXtkfA==
+#EXTINF:- tvg-logo="https://lh4.googleusercontent.com/proxy/giI54G4RYwDeokpumiiuhU9LN2EsnjxdMZXFrkNnY8w5zcKFlDax_wir7uRidY7J6XiI018K9wWWQ737omdiN36xGishkfqKchMHCh3xMjRAvexn77Z3Lhs5m2wnaUh4Ow=w615-h239"group-title="INFANTIS", NICK
+http://org.sp1.cdnrdn.com:2200/BR/Nickelodeon_HD-br/index.m3u8?token=fwBlCndpe3JheQYXN3Vge3FhfnJgegVhenNjDgUtenVgenVmeXtkfA==
+#EXTINF:- tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/1280px-Nick_Jr._logo_2009.svg.png"group-title="INFANTIS", NICK JR
+http://org.sp1.cdnrdn.com:2200/BR/Nick_Jr_HD-br/index.m3u8?token=fwBlCndpe3JheQYXN3Vge3FhfnJgegVhenNjDgUtenVgenVmeXtkfA==
+#EXTINF:- tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/07/Logo_2015_-_TV_Novo_Tempo.png"group-title="ABERTOS", NOVO TEMPO
+http://org.sp1.cdnrdn.com:2200/BR/tvnovotempo-br/index.m3u8?token=fwBlCndpe3JheQYXN3Vge3FhfnJgegVhenNjDgUtenVgenVmeXtkfA==
+#EXTINF:- tvg-logo="https://logodownload.org/wp-content/uploads/2017/08/canal-off-logo.png"group-title="ESPORTES", OFF
+http://org.sp1.cdnrdn.com:2200/BR/OFF_HD-br/index.m3u8?token=fwBlCndpe3JheQYXN3Vge3FhfnJgegVhenNjDgUtenVgenVmeXtkfA==
+#EXTINF:- tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1200px-VH1_logonew.svg.png"group-title="MÚSICA", VH1
+http://org.sp1.cdnrdn.com:2200/BR/VH1_HD-br/index.m3u8?token=fwBlCndpe3JheQYXN3Vge3FhfnJgegVhenNjDgUtenVgenVmeXtkfA==
+#EXTINF:- tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRdFmr4AU0B2pcm5mcgHL0rEN3FqoKAPNsj9g&usqp=CAU"group-title="FILMES", CANAL SONY
+http://org.sp1.cdnrdn.com:2200/BR/Canal_Sony_HD-br/index.m3u8?token=fwBlCndpe3JheQYXN3Vge3FhfnJgegVhenNjDgUtenVgenVmeXtkfA==
+#EXTINF:- tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/1200px-Warner_Channel.svg.png"group-title="FILMES", WARNER
+http://org.sp1.cdnrdn.com:2200/BR/Warner_Channel_HD-br/index.m3u8?token=fwBlCndpe3JheQYXN3Vge3FhfnJgegVhenNjDgUtenVgenVmeXtkfA==
+#EXTINF:- tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Woohoo.png"group-title="ESPORTES", WOOHOO
+http://org.sp1.cdnrdn.com:2200/BR/Woohoo_HD-br/index.m3u8?token=fwBlCndpe3JheQYXN3Vge3FhfnJgegVhenNjDgUtenVgenVmeXtkfA==
+#EXTINF:- tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/1200px-ZooMoo_logo.svg.png"group-title="INFANTIS", ZOOMOO
+http://org.sp1.cdnrdn.com:2200/BR/ZooMoo_HD-br/index.m3u8?token=fwBlCndpe3JheQYXN3Vge3FhfnJgegVhenNjDgUtenVgenVmeXtkfA==
