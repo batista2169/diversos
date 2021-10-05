@@ -1,0 +1,1323 @@
+﻿#EXTM3U
+
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | GLOBOS" tvg-name="RBS TV PORTO ALEGRE",RBS TV POA HD
+http://199.127.62.234:2082/streams/259_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | GLOBOS" tvg-name="RPC CURITIBA",RPC CURITIBA SD
+http://199.127.62.234:2082/streams/246_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | GLOBOS" tvg-name="EPTV RIBEIRAO",EPTV RIBEIRAO SD
+http://199.127.62.234:2082/streams/440_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | GLOBOS" tvg-name="TV BAHIA",TV BAHIA SD
+http://199.127.62.234:2082/streams/25_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | GLOBOS" tvg-name="TV GLOBO MINAS",TV GLOBO MINAS SD
+http://199.127.62.234:2082/streams/315_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | GLOBOS" tvg-name="TV GLOBO NORDESTE",TV GLOBO NORDESTE SD
+http://199.127.62.234:2082/streams/24_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | GLOBOS" tvg-name="TV GLOBO NORDESTE",TV GLOBO NORDESTE SD¹
+http://199.127.62.234:2082/streams/316_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | GLOBOS" tvg-name="TV GLOBO RIO DE JANEIRO",TV GLOBO RJ SD
+http://199.127.62.234:2082/streams/26_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | GLOBOS" tvg-name="TV GLOBO SAO PAULO",TV GLOBO SP SD
+http://199.127.62.234:2082/streams/2_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | GLOBOS" tvg-name="TV GLOBO SAO PAULO",TV GLOBO SP SD¹
+http://199.127.62.234:2082/streams/22_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | GLOBOS" tvg-name="TV LIBERAL BELEM",TV LIBERAL BELEM HD
+http://199.127.62.234:2082/streams/258_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | GLOBOS" tvg-name="TV MIRANTE SAO LUIS",TV MIRANTE SAO LUIS SD
+http://199.127.62.234:2082/streams/23_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | GLOBOS" tvg-name="TV TEM SOROCABA",TV TEM SOROCABA SD
+http://199.127.62.234:2082/streams/45_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | GLOBOS" tvg-name="TV VERDES MARES",TV VERDES MARES SD
+http://199.127.62.234:2082/streams/318_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | GLOBOS" tvg-name="TV GLOBO ",TV GLOBO SD
+http://199.127.62.234:2082/streams/317_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | GLOBOS" tvg-name="TV GLOBO ",TV GLOBO SD¹
+http://199.127.62.234:2082/streams/254_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | ABERTOS" tvg-name="TV ABERTA",TV ABERTA HD
+http://199.127.62.234:2082/streams/16_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | ABERTOS" tvg-name="BAND",BAND HD
+http://199.127.62.234:2082/streams/13_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | ABERTOS" tvg-name="BAND",BAND HD¹
+http://199.127.62.234:2082/streams/14_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | ABERTOS" tvg-name="BAND",BAND HD²
+http://199.127.62.234:2082/streams/257_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | ABERTOS" tvg-name="BAND",BAND CLUBE HD
+http://199.127.62.234:2082/streams/260_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | ABERTOS" tvg-name="CANAL RURAL",CANAL RURAL HD¹
+http://199.127.62.234:2082/streams/17_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | ABERTOS" tvg-name="CNU",CNU HD
+http://199.127.62.234:2082/streams/18_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | ABERTOS" tvg-name="FUTURA",FUTURA HD
+http://199.127.62.234:2082/streams/244_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | ABERTOS" tvg-name="LOADING",LOADING HD
+http://199.127.62.234:2082/streams/343_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | ABERTOS" tvg-name="PLAY PLUS",PLAY PLUS HD
+http://199.127.62.234:2082/streams/307_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | ABERTOS" tvg-name="POLISHOP TV",POLISHOP TV HD
+http://199.127.62.234:2082/streams/10_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | ABERTOS" tvg-name="RECORD TV",RECORD TV SD
+http://199.127.62.234:2082/streams/29_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | ABERTOS" tvg-name="RECORD TV",RECORD TV SD¹
+http://199.127.62.234:2082/streams/30_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | ABERTOS" tvg-name="REDE TV",REDE TV HD
+http://199.127.62.234:2082/streams/33_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | ABERTOS" tvg-name="REDE TV",REDE TV HD¹
+http://199.127.62.234:2082/streams/34_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | ABERTOS" tvg-name="SBT",SBT HD
+http://199.127.62.234:2082/streams/1_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | ABERTOS" tvg-name="SBT",SBT HD¹
+http://199.127.62.234:2082/streams/37_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | ABERTOS" tvg-name="SHOPTIME",SHOPTIME HD
+http://199.127.62.234:2082/streams/152_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | ABERTOS" tvg-name="TV CULTURA",TV CULTURA HD
+http://199.127.62.234:2082/streams/19_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | ABERTOS" tvg-name="TV GAZETA",TV GAZETA HD
+http://199.127.62.234:2082/streams/220_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | ABERTOS" tvg-name="TV GAZETA",TV GAZETA HD¹
+http://199.127.62.234:2082/streams/221_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | CULTURA" tvg-name="ANIMAL PLANET",ANIMAL PLANET HD
+http://199.127.62.234:2082/streams/98_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | CULTURA" tvg-name="ANIMAL PLANET",ANIMAL PLANET HD¹
+http://199.127.62.234:2082/streams/99_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | CULTURA" tvg-name="ARTE 1",ARTE 1 HD
+http://199.127.62.234:2082/streams/147_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | CULTURA" tvg-name="DISCOVERY CHANNEL",DISCOVERY CHANNEL HD
+http://199.127.62.234:2082/streams/102_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | CULTURA" tvg-name="DISCOVERY CHANNEL",DISCOVERY CHANNEL HD¹
+http://199.127.62.234:2082/streams/103_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | CULTURA" tvg-name="DISCOVERY SCIENCE ",DISCOVERY SCIENCE HD
+http://199.127.62.234:2082/streams/121_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | CULTURA" tvg-name="DISCOVERY THEATER",THEATER HD
+http://199.127.62.234:2082/streams/104_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | CULTURA" tvg-name="DISCOVERY THEATER",THEATER HD¹
+http://199.127.62.234:2082/streams/105_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | CULTURA" tvg-name="DISCOVERY WORLD",WORLD HD
+http://199.127.62.234:2082/streams/108_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | CULTURA" tvg-name="HISTORY CHANNEL",HISTORY HD
+http://199.127.62.234:2082/streams/114_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | CULTURA" tvg-name="HISTORY CHANNEL",HISTORY HD¹
+http://199.127.62.234:2082/streams/115_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | CULTURA" tvg-name="HISTORY CHANNEL 2",HISTORY 2 HD
+http://199.127.62.234:2082/streams/223_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | CULTURA" tvg-name="HOME & GARDEN TELEVISION",HGTV HD
+http://199.127.62.234:2082/streams/123_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | CULTURA" tvg-name="NATIONAL GEOGRAPHIC CHANNEL",NAT GEO HD
+http://199.127.62.234:2082/streams/117_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | CULTURA" tvg-name="NATIONAL GEOGRAPHIC CHANNEL",NAT GEO HD¹
+http://199.127.62.234:2082/streams/118_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | CULTURA" tvg-name="NAT GEO WILD",NAT GEO WILD HD
+http://199.127.62.234:2082/streams/119_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | CULTURA" tvg-name="NAT GEO WILD",NAT GEO WILD HD¹
+http://199.127.62.234:2082/streams/120_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | ESPORTES" tvg-name="BAND SPORTS",BAND SPORTS HD
+http://199.127.62.234:2082/streams/46_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | ESPORTES" tvg-name="BAND SPORTS",BAND SPORTS HD¹
+http://199.127.62.234:2082/streams/47_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | ESPORTES" tvg-name="COMBATE",COMBATE HD
+http://199.127.62.234:2082/streams/48_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | ESPORTES" tvg-name="COMBATE",COMBATE HD¹
+http://199.127.62.234:2082/streams/49_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | ESPORTES" tvg-name="CONMEBOL TV",CONMEBOL TV HD
+http://199.127.62.234:2082/streams/308_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | ESPORTES" tvg-name="CONMEBOL TV",CONMEBOL TV HD¹
+http://199.127.62.234:2082/streams/309_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | ESPORTES" tvg-name="CONMEBOL TV",CONMEBOL TV HD²
+http://199.127.62.234:2082/streams/311_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | ESPORTES" tvg-name="ESPN",ESPN HD
+http://199.127.62.234:2082/streams/51_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | ESPORTES" tvg-name="ESPN",ESPN HD¹
+http://199.127.62.234:2082/streams/52_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | ESPORTES" tvg-name="ESPN 2",ESPN 2 HD
+http://199.127.62.234:2082/streams/241_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | ESPORTES" tvg-name="ESPN BRASIL",ESPN BRASIL HD
+http://199.127.62.234:2082/streams/53_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | ESPORTES" tvg-name="ESPN BRASIL",ESPN BRASIL HD¹
+http://199.127.62.234:2082/streams/54_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | ESPORTES" tvg-name="ESPN EXTRA",ESPN EXTRA HD
+http://199.127.62.234:2082/streams/50_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | ESPORTES" tvg-name="ESPORTE INTERATIVO",ESPORTE INTERATIVO HD
+http://199.127.62.234:2082/streams/466_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | ESPORTES" tvg-name="ESPORTE INTERATIVO",ESPORTE INTERATIVO HD¹
+http://199.127.62.234:2082/streams/467_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | ESPORTES" tvg-name="FOX SPORTS",FOX SPORTS HD
+http://199.127.62.234:2082/streams/55_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | ESPORTES" tvg-name="FOX SPORTS",FOX SPORTS HD¹
+http://199.127.62.234:2082/streams/56_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | ESPORTES" tvg-name="FOX SPORTS 2",FOX SPORTS 2 HD
+http://199.127.62.234:2082/streams/57_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | ESPORTES" tvg-name="FOX SPORTS 2",FOX SPORTS 2 HD¹
+http://199.127.62.234:2082/streams/58_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | ESPORTES" tvg-name="PREMIERE CLUBES",PREMIERE CLUBES HD
+http://199.127.62.234:2082/streams/61_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | ESPORTES" tvg-name="PREMIERE CLUBES",PREMIERE CLUBES HD¹
+http://199.127.62.234:2082/streams/62_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | ESPORTES" tvg-name="PREMIERE",PREMIERE 1 HD
+http://199.127.62.234:2082/streams/468_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | ESPORTES" tvg-name="PREMIERE",PREMIERE 2 HD
+http://199.127.62.234:2082/streams/63_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | ESPORTES" tvg-name="PREMIERE",PREMIERE 3 HD
+http://199.127.62.234:2082/streams/64_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | ESPORTES" tvg-name="PREMIERE",PREMIERE 4 HD
+http://199.127.62.234:2082/streams/65_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | ESPORTES" tvg-name="PREMIERE",PREMIERE 5 HD
+http://199.127.62.234:2082/streams/66_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | ESPORTES" tvg-name="PREMIERE",PREMIERE 6 HD
+http://199.127.62.234:2082/streams/67_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | ESPORTES" tvg-name="PREMIERE",PREMIERE 7 HD
+http://199.127.62.234:2082/streams/68_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | ESPORTES" tvg-name="PREMIERE",PREMIERE 8 HD
+http://199.127.62.234:2082/streams/69_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | ESPORTES" tvg-name="SPORTV",SPORTV HD
+http://199.127.62.234:2082/streams/70_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | ESPORTES" tvg-name="SPORTV",SPORTV HD¹
+http://199.127.62.234:2082/streams/71_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | ESPORTES" tvg-name="SPORTV 2",SPORTV 2 HD
+http://199.127.62.234:2082/streams/72_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | ESPORTES" tvg-name="SPORTV 2",SPORTV 2 HD¹
+http://199.127.62.234:2082/streams/73_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | ESPORTES" tvg-name="SPORTV 3",SPORTV 3 HD
+http://199.127.62.234:2082/streams/74_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | ESPORTES II" tvg-name="BEIN SPORTS 1",BEIN SPORTS 1 HD
+http://199.127.62.234:2082/streams/86_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | ESPORTES II" tvg-name="BEIN SPORTS 2",BEIN SPORTS 2 HD
+http://199.127.62.234:2082/streams/87_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | ESPORTES II" tvg-name="BEIN SPORTS 3",BEIN SPORTS 3 HD
+http://199.127.62.234:2082/streams/88_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | ESPORTES II" tvg-name="BEIN SPORTS 4",BEIN SPORTS 4 HD
+http://199.127.62.234:2082/streams/89_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | ESPORTES II" tvg-name="BEIN SPORTS 5",BEIN SPORTS 5 HD
+http://199.127.62.234:2082/streams/90_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | ESPORTES II" tvg-name="BEIN SPORTS 6",BEIN SPORTS 6 HD
+http://199.127.62.234:2082/streams/91_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | ESPORTES II" tvg-name="BEIN SPORTS 7",BEIN SPORTS 7 HD
+http://199.127.62.234:2082/streams/92_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | ESPORTES II" tvg-name="ELEVEN SPORTS 1",ELEVEN SPORTS 1 FHD
+http://199.127.62.234:2082/streams/327_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | ESPORTES II" tvg-name="ELEVEN SPORTS 2",ELEVEN SPORTS 2 FHD
+http://199.127.62.234:2082/streams/328_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | ESPORTES II" tvg-name="ELEVEN SPORTS 3",ELEVEN SPORTS 3 SD
+http://199.127.62.234:2082/streams/329_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | ESPORTES II" tvg-name="ELEVEN SPORTS 4",ELEVEN SPORTS 4 FHD
+http://199.127.62.234:2082/streams/330_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | ESPORTES II" tvg-name="SPORT*TV 1",SPORT*TV 1 HD
+http://199.127.62.234:2082/streams/434_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | ESPORTES II" tvg-name="SPORT*TV 2",SPORT*TV 2 HD
+http://199.127.62.234:2082/streams/433_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | ESPORTES II" tvg-name="SPORT*TV 3",SPORT*TV 3 HD
+http://199.127.62.234:2082/streams/435_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | ESPORTES II" tvg-name="SPORT*TV 4",SPORT*TV 4 HD
+http://199.127.62.234:2082/streams/436_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | FILMES & SERIES" tvg-name="A&E",A&E HD
+http://199.127.62.234:2082/streams/157_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | FILMES & SERIES" tvg-name="AMC",AMC HD
+http://199.127.62.234:2082/streams/158_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | FILMES & SERIES" tvg-name="AMC",AMC HD¹
+http://199.127.62.234:2082/streams/3_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | FILMES & SERIES" tvg-name="AXN",AXN HD
+http://199.127.62.234:2082/streams/181_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | FILMES & SERIES" tvg-name="AXN",AXN HD¹
+http://199.127.62.234:2082/streams/265_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | FILMES & SERIES" tvg-name="CANAL BRASIL",CANAL BRASIL HD
+http://199.127.62.234:2082/streams/15_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | FILMES & SERIES" tvg-name="CINEMAX",CINEMAX HD
+http://199.127.62.234:2082/streams/242_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | FILMES & SERIES" tvg-name="CINEMAX",CINEMAX HD¹
+http://199.127.62.234:2082/streams/280_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | FILMES & SERIES" tvg-name="FILM&ARTS",FILM&ARTS HD
+http://199.127.62.234:2082/streams/125_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | FILMES & SERIES" tvg-name="FX",FX HD
+http://199.127.62.234:2082/streams/112_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | FILMES & SERIES" tvg-name="FX",FX HD¹
+http://199.127.62.234:2082/streams/113_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | FILMES & SERIES" tvg-name="HBO",HBO HD
+http://199.127.62.234:2082/streams/185_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | FILMES & SERIES" tvg-name="HBO",HBO HD¹
+http://199.127.62.234:2082/streams/186_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | FILMES & SERIES" tvg-name="HBO 2",HBO 2 HD
+http://199.127.62.234:2082/streams/187_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | FILMES & SERIES" tvg-name="HBO 2",HBO 2 HD¹
+http://199.127.62.234:2082/streams/188_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | FILMES & SERIES" tvg-name="HBO FAMILY",HBO FAMILY HD
+http://199.127.62.234:2082/streams/193_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | FILMES & SERIES" tvg-name="HBO FAMILY",HBO FAMILY HD¹
+http://199.127.62.234:2082/streams/194_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | FILMES & SERIES" tvg-name="HBO MUNDI",HBO MUNDI HD
+http://199.127.62.234:2082/streams/195_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | FILMES & SERIES" tvg-name="HBO MUNDI",HBO MUNDI HD¹
+http://199.127.62.234:2082/streams/196_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | FILMES & SERIES" tvg-name="HBO PLUS",HBO PLUS HD
+http://199.127.62.234:2082/streams/189_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | FILMES & SERIES" tvg-name="HBO PLUS",HBO PLUS HD¹
+http://199.127.62.234:2082/streams/190_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | FILMES & SERIES" tvg-name="HBO POP",HBO POP HD
+http://199.127.62.234:2082/streams/183_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | FILMES & SERIES" tvg-name="HBO POP",HBO POP HD¹
+http://199.127.62.234:2082/streams/198_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | FILMES & SERIES" tvg-name="HBO SIGNATURE",HBO SIGNATURE HD
+http://199.127.62.234:2082/streams/191_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | FILMES & SERIES" tvg-name="HBO SIGNATURE",HBO SIGNATURE HD¹
+http://199.127.62.234:2082/streams/192_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | FILMES & SERIES" tvg-name="HBO XTREME",HBO XTREME HD
+http://199.127.62.234:2082/streams/7_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | FILMES & SERIES" tvg-name="HBO XTREME",HBO XTREME HD¹
+http://199.127.62.234:2082/streams/197_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | FILMES & SERIES" tvg-name="MEGAPIX",MEGAPIX HD
+http://199.127.62.234:2082/streams/171_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | FILMES & SERIES" tvg-name="MEGAPIX",MEGAPIX HD¹
+http://199.127.62.234:2082/streams/182_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | FILMES & SERIES" tvg-name="PARAMOUNT CHANNEL",PARAMOUNT HD
+http://199.127.62.234:2082/streams/172_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | FILMES & SERIES" tvg-name="SONY CHANNEL",SONY CHANNEL HD
+http://199.127.62.234:2082/streams/159_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | FILMES & SERIES" tvg-name="SONY CHANNEL",SONY CHANNEL HD¹
+http://199.127.62.234:2082/streams/160_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | FILMES & SERIES" tvg-name="SPACE",SPACE HD
+http://199.127.62.234:2082/streams/200_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | FILMES & SERIES" tvg-name="SPACE",SPACE HD¹
+http://199.127.62.234:2082/streams/305_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | FILMES & SERIES" tvg-name="STAR CHANNEL",STAR CHANNEL HD
+http://199.127.62.234:2082/streams/161_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | FILMES & SERIES" tvg-name="STAR CHANNEL",STAR CHANNEL HD¹
+http://199.127.62.234:2082/streams/162_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | FILMES & SERIES" tvg-name="STAR HITS",STAR HITS HD
+http://199.127.62.234:2082/streams/165_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | FILMES & SERIES" tvg-name="STAR HITS",STAR HITS HD¹
+http://199.127.62.234:2082/streams/166_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | FILMES & SERIES" tvg-name="STAR HITS 2",STAR HITS 2 HD
+http://199.127.62.234:2082/streams/167_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | FILMES & SERIES" tvg-name="STAR HITS 2",STAR HITS 2 HD¹
+http://199.127.62.234:2082/streams/168_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | FILMES & SERIES" tvg-name="STAR LIFE",STAR LIFE HD
+http://199.127.62.234:2082/streams/163_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | FILMES & SERIES" tvg-name="STAR LIFE",STAR LIFE HD¹
+http://199.127.62.234:2082/streams/164_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | FILMES & SERIES" tvg-name="STUDIO UNIVERSAL",STUDIO UNIVERSAL HD
+http://199.127.62.234:2082/streams/173_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | FILMES & SERIES" tvg-name="SYFY",SYFY HD
+http://199.127.62.234:2082/streams/174_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | FILMES & SERIES" tvg-name="TBS",TBS HD
+http://199.127.62.234:2082/streams/175_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | FILMES & SERIES" tvg-name="TC ACTION",TC ACTION HD
+http://199.127.62.234:2082/streams/213_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | FILMES & SERIES" tvg-name="TC ACTION",TC ACTION HD¹
+http://199.127.62.234:2082/streams/214_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | FILMES & SERIES" tvg-name="TC CULT",TC CULT HD
+http://199.127.62.234:2082/streams/203_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | FILMES & SERIES" tvg-name="TC CULT",TC CULT HD¹
+http://199.127.62.234:2082/streams/204_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | FILMES & SERIES" tvg-name="TC FUN",TC FUN HD
+http://199.127.62.234:2082/streams/205_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | FILMES & SERIES" tvg-name="TC FUN",TC FUN HD¹
+http://199.127.62.234:2082/streams/206_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | FILMES & SERIES" tvg-name="TC PIPOCA",TC PIPOCA HD
+http://199.127.62.234:2082/streams/207_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | FILMES & SERIES" tvg-name="TC PIPOCA",TC PIPOCA HD¹
+http://199.127.62.234:2082/streams/208_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | FILMES & SERIES" tvg-name="TC PREMIUM",TC PREMIUM HD
+http://199.127.62.234:2082/streams/209_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | FILMES & SERIES" tvg-name="TC PREMIUM",TC PREMIUM HD¹
+http://199.127.62.234:2082/streams/210_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | FILMES & SERIES" tvg-name="TC TOUCH",TC TOUCH HD
+http://199.127.62.234:2082/streams/211_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | FILMES & SERIES" tvg-name="TC TOUCH",TC TOUCH HD¹
+http://199.127.62.234:2082/streams/212_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | FILMES & SERIES" tvg-name="TNT",TNT HD
+http://199.127.62.234:2082/streams/5_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | FILMES & SERIES" tvg-name="TNT",TNT HD¹
+http://199.127.62.234:2082/streams/202_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | FILMES & SERIES" tvg-name="TNT SERIES",TNT SERIES HD
+http://199.127.62.234:2082/streams/6_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | FILMES & SERIES" tvg-name="TNT SERIES",TNT SERIES HD¹
+http://199.127.62.234:2082/streams/176_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | FILMES & SERIES" tvg-name="UNIVERSAL CHANNEL",UNIVERSAL CHANNEL HD
+http://199.127.62.234:2082/streams/177_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | FILMES & SERIES" tvg-name="UNIVERSAL CHANNEL",UNIVERSAL CHANNEL HD¹
+http://199.127.62.234:2082/streams/178_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | FILMES & SERIES" tvg-name="WARNER BROS CHANNEL",WARNER CHANNEL HD
+http://199.127.62.234:2082/streams/179_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | FILMES & SERIES" tvg-name="WARNER BROS CHANNEL",WARNER CHANNEL HD¹
+http://199.127.62.234:2082/streams/180_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INFANTIS" tvg-name="BABY TV",BABY TV HD
+http://199.127.62.234:2082/streams/126_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INFANTIS" tvg-name="BOOMERANG",BOOMERANG HD
+http://199.127.62.234:2082/streams/127_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INFANTIS" tvg-name="CARTOON NETWORK",CARTOON NETWORK HD
+http://199.127.62.234:2082/streams/128_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INFANTIS" tvg-name="DISCOVERY KIDS",DISCOVERY KIDS HD
+http://199.127.62.234:2082/streams/138_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INFANTIS" tvg-name="DISNEY CHANNEL",DISNEY CHANNEL HD
+http://199.127.62.234:2082/streams/129_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INFANTIS" tvg-name="DISNEY JUNIOR",DISNEY JR HD
+http://199.127.62.234:2082/streams/130_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INFANTIS" tvg-name="DISNEY XD",DISNEY XD HD
+http://199.127.62.234:2082/streams/131_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INFANTIS" tvg-name="GLOOB",GLOOB HD
+http://199.127.62.234:2082/streams/132_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INFANTIS" tvg-name="GLOOB",GLOOB HD¹
+http://199.127.62.234:2082/streams/133_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INFANTIS" tvg-name="GLOOBINHO",GLOOBINHO HD
+http://199.127.62.234:2082/streams/344_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INFANTIS" tvg-name="NAT GEO KIDS.",NAT GEO KIDS HD
+http://199.127.62.234:2082/streams/134_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INFANTIS" tvg-name="NICKELODEON",NICK HD
+http://199.127.62.234:2082/streams/135_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INFANTIS" tvg-name="NICK JR.",NICK JR HD
+http://199.127.62.234:2082/streams/139_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INFANTIS" tvg-name="TV RA TIM BUM",TV RA TIM BUM HD
+http://199.127.62.234:2082/streams/136_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INFANTIS" tvg-name="ZOOMOO",ZOOMOO HD
+http://199.127.62.234:2082/streams/137_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | NOTICIAS" tvg-name="BAND NEWS",BAND NEWS HD
+http://199.127.62.234:2082/streams/85_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | NOTICIAS" tvg-name="CNN BRASIL",CNN BRASIL HD
+http://199.127.62.234:2082/streams/240_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | NOTICIAS" tvg-name="GLOBO NEWS",GLOBO NEWS HD
+http://199.127.62.234:2082/streams/84_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | NOTICIAS" tvg-name="RECORD NEWS",RECORD NEWS HD
+http://199.127.62.234:2082/streams/80_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | PUBLICOS" tvg-name="TV BRASIL",TV BRASIL HD
+http://199.127.62.234:2082/streams/39_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | PUBLICOS" tvg-name="TV CAMARA",TV CAMARA HD
+http://199.127.62.234:2082/streams/40_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | PUBLICOS" tvg-name="TV ESCOLA",TV ESCOLA HD
+http://199.127.62.234:2082/streams/41_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | PUBLICOS" tvg-name="TV JUSTICA",TV JUSTICA HD
+http://199.127.62.234:2082/streams/42_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | PUBLICOS" tvg-name="TV SENADO",TV SENADO HD
+http://199.127.62.234:2082/streams/44_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | RELIGIOSOS" tvg-name="CANCAO NOVA",CANCAO NOVA HD
+http://199.127.62.234:2082/streams/470_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | RELIGIOSOS" tvg-name="NOVO TEMPO",NOVO TEMPO HD
+http://199.127.62.234:2082/streams/43_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | RELIGIOSOS" tvg-name="REDE GOSPEL",REDE GOSPEL HD
+http://199.127.62.234:2082/streams/247_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | RELIGIOSOS" tvg-name="REDE VIDA",REDE VIDA HD
+http://199.127.62.234:2082/streams/35_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | RELIGIOSOS" tvg-name="TV APARECIDA",TV APARECIDA HD
+http://199.127.62.234:2082/streams/38_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | VARIEDADES" tvg-name="BIS",BIS HD
+http://199.127.62.234:2082/streams/140_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | VARIEDADES" tvg-name="COMEDY CENTRAL",COMEDY CENTRAL HD
+http://199.127.62.234:2082/streams/148_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | VARIEDADES" tvg-name="COMEDY CENTRAL",COMEDY CENTRAL HD¹
+http://199.127.62.234:2082/streams/149_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | VARIEDADES" tvg-name="CURTA!",CURTA! HD
+http://199.127.62.234:2082/streams/20_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | VARIEDADES" tvg-name="DISCOVERY HOME & HEALTH",HOME & HEALTH HD
+http://199.127.62.234:2082/streams/100_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | VARIEDADES" tvg-name="DISCOVERY HOME & HEALTH",HOME & HEALTH HD¹
+http://199.127.62.234:2082/streams/101_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | VARIEDADES" tvg-name="DISCOVERY TURBO",TURBO HD
+http://199.127.62.234:2082/streams/106_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | VARIEDADES" tvg-name="DISCOVERY TURBO",TURBO HD¹
+http://199.127.62.234:2082/streams/107_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | VARIEDADES" tvg-name="ENTERTAINMENT TELEVISION",E! HD
+http://199.127.62.234:2082/streams/155_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | VARIEDADES" tvg-name="FASHION TV BRASIL",FASHION TV BRASIL HD
+http://199.127.62.234:2082/streams/156_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | VARIEDADES" tvg-name="DISCOVERY FISH TV",FISH TV HD
+http://199.127.62.234:2082/streams/109_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | VARIEDADES" tvg-name="FOOD NETWORK",FOOD NETWORK HD
+http://199.127.62.234:2082/streams/110_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | VARIEDADES" tvg-name="FOOD NETWORK",FOOD NETWORK HD¹
+http://199.127.62.234:2082/streams/111_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | VARIEDADES" tvg-name="GNT",GNT HD
+http://199.127.62.234:2082/streams/150_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | VARIEDADES" tvg-name="INVESTIGATION DISCOVERY",ID HD
+http://199.127.62.234:2082/streams/116_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | VARIEDADES" tvg-name="LIFETIME CHANNEL",LIFETIME HD
+http://199.127.62.234:2082/streams/169_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | VARIEDADES" tvg-name="MAIS NA TELA",MAIS NA TELA HD
+http://199.127.62.234:2082/streams/151_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | VARIEDADES" tvg-name="MAIS NA TELA",MAIS NA TELA HD¹
+http://199.127.62.234:2082/streams/320_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | VARIEDADES" tvg-name="MTV",MTV HD
+http://199.127.62.234:2082/streams/141_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | VARIEDADES" tvg-name="MTV",MTV HD¹
+http://199.127.62.234:2082/streams/145_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | VARIEDADES" tvg-name="MTV LIVE",MTV LIVE HD
+http://199.127.62.234:2082/streams/142_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | VARIEDADES" tvg-name="MULTISHOW",MULTISHOW HD
+http://199.127.62.234:2082/streams/143_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | VARIEDADES" tvg-name="MUSIC BOX BRAZIL",MUSIC BOX BRAZIL HD
+http://199.127.62.234:2082/streams/144_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | VARIEDADES" tvg-name="OFF",OFF HD
+http://199.127.62.234:2082/streams/59_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | VARIEDADES" tvg-name="OFF",OFF HD¹
+http://199.127.62.234:2082/streams/60_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | VARIEDADES" tvg-name="PRIME BOX BRAZIL",PRIME BOX BRAZIL HD
+http://199.127.62.234:2082/streams/199_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | VARIEDADES" tvg-name="SMITHSONIAN CHANNEL",SMITHSONIAN CHANNEL HD
+http://199.127.62.234:2082/streams/124_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | VARIEDADES" tvg-name="TLC",TLC HD
+http://199.127.62.234:2082/streams/122_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | VARIEDADES" tvg-name="TRACE BRAZUCA",TRACE BRAZUCA HD
+http://199.127.62.234:2082/streams/312_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | VARIEDADES" tvg-name="VIVA",VIVA HD
+http://199.127.62.234:2082/streams/153_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | VARIEDADES" tvg-name="WOOHOO",WOOHOO HD
+http://199.127.62.234:2082/streams/154_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:RD | BAHIA" tvg-name="ABROLHOS FM 104.5 [MUCURI]",ABROLHOS FM 104.5
+http://shout35.crossradio.com.br:8066/stream
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:RD | BAHIA" tvg-name="ADUSTINA FM 104.9 [ADUSTINA]",ADUSTINA FM 104.9
+http://07.stmip.in:9054/stream
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:RD | BAHIA" tvg-name="AGUA VIVA WEB [JUAZEIRO]",AGUA VIVA WEB
+http://suaradio1.dyndns.ws:13548/stream
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:RD | BAHIA" tvg-name="ALELUIA FM 97.9 [ILHEUS]",ALELUIA FM 97.9
+https://224398c.ha.azioncdn.net/primary/radio96fm.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:RD | BAHIA" tvg-name="ALIANCA FM 98.1 [MACARANI]",ALIANCA FM 98.1
+http://216.245.204.228:8338/live
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:RD | BAHIA" tvg-name="ALTERNATIVA FM 87.5 [NAZARE]",ALTERNATIVA FM 87.5
+http://servidor30.brlogic.com:8060/live
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:RD | BAHIA" tvg-name="ALTERNATIVA FM 97,9 [BRUMADO]",ALTERNATIVA FM 97,9
+http://158.69.7.169:8080/stream
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:RD | BAHIA" tvg-name="ALTERNATIVA FM 104.9 [SERRA DOURADA]",ALTERNATIVA FM 104.9
+
+http://stream3.bul.net.br:7584/stream
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:RD | BAHIA" tvg-name="ALVORADA FM 87.9 [BELO CAMPO]",ALVORADA FM 87.9
+http://streaming30.hstbr.net:8100/live
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:RD | BAHIA" tvg-name="ALVORADA FM 87.9 [JEREMOABO]",ALVORADA FM 87.9
+https://s38.hstbr.net:8288/live
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:RD | BAHIA" tvg-name="ALVORADA FM 90.9 [GUANAMBI]",ALVORADA FM 90.9
+http://on.sucesso.fm:8020/alvorada
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:RD | BAHIA" tvg-name="ANDAIA FM 104.3 [SANTO ANTONIO DE JESUS]",ANDAIA FM 104.3
+http://jaraguarfm-mp3.html5player.acessaradios.com.br:8270/andaiafm-mp3
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:RD | BAHIA" tvg-name="ANGUERA FM 104.9 [ANGUERA]",ANGUERA FM 104.9
+http://01.stmip.in:27148/stream
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:RD | BAHIA" tvg-name="ARRAIANA FM 104.9 [PORTO SEGURO]",ARRAIANA FM 104.9
+http://stm1.streaminghd.net.br:17824/stream
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:RD | BAHIA" tvg-name="ATALAIA FM 87.9 [CACULE]",ATALAIA FM 87.9
+http://158.69.7.169:8034/stream
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:RD | BAHIA" tvg-name="ATALAIA FM 104.9 [CRISOPOLIS]",ATALAIA FM 104.9
+http://s09.w3bserver.com:8180//stream
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:RD | BAHIA" tvg-name="ATIVA FM 92.7 [EUNAPOLIS]",ATIVA FM 92.7
+https://streaming.bluegestao.com.br:9443/stream
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:RD | BAHIA" tvg-name="ATIVIDADE FM 107.9 [LAPAO]",ATIVIDADE FM 107.9
+http://streaming.smghosting.com.br:7222/stream
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:RD | BAHIA" tvg-name="AYMORE FM 96.3 [PIRITIBA]",AYMORE FM 96.3
+http://suaradio1.dyndns.ws:10278/stream
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:RD | BAHIA" tvg-name="BAHIA SUL FM 102.1 [ITABUNA]",BAHIA SUL FM 102.1
+http://r10.ciclano.io:9206/stream
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:RD | BAHIA" tvg-name="BAHIANA FM 92.5 [BOM JESUS DA LAPA]",BAHIANA FM 92.5
+https://ssl.studiorenascer.com:7072/stream
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:RD | BAHIA" tvg-name="BAHIANA FM 99.7 [ITABERABA]",BAHIANA FM 99.7
+http://230.stm-ip.com:9110/stream
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:RD | BAHIA" tvg-name="BAND FM 99.1 [VITORIA DA CONQUISTA]",BAND FM 99.1
+http://bandfm991.flashplayer.acessaradios.com.br:8004/bandfm991
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:RD | BAHIA" tvg-name="BARREIRAS AM 790 [BARREIRAS]",BARREIRAS AM 790
+http://servidor26.brlogic.com:8034/live
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:RD | BAHIA" tvg-name="BEIJA FLOR FM 98.7 [VARZEA DO POCO]",BEIJA FLOR FM 98.7
+http://srv.radioproarte.com.br:7088/stream
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:RD | BAHIA" tvg-name="BETEL FM 87.9 [FEIRA DE SANTANA]",BETEL FM 87.9
+http://stm3.xcast.com.br:12634/stream
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:RD | BAHIA" tvg-name="BETEL FM 104.9 [PAULO AFONSO]",BETEL FM 104.9
+http://stream.zeno.fm/a4rzqfht1bruv
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:RD | BAHIA" tvg-name="BOM JESUS FM 98.1 [BOM JESUS DA LAPA]",BOM JESUS FM 98.1
+http://stream19.streamingdevideo.com.br:28050/stream
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:RD | BAHIA" tvg-name="BRASIL FM 107.7 [VITORIA DA CONQUISTA]",BRASIL FM 107.7
+
+https://8533.brasilstream.com.br/stream
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:RD | BAHIA" tvg-name="BRAVO FM 104.9 [SERRA PRETA]",BRAVO FM 104.9
+http://stm13.xcast.com.br:7688/stream
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:RD | BAHIA" tvg-name="BRILHANTE FM 100.3 [MORRO DO CHAPEU]",BRILHANTE FM 100.3
+http://servidor29.brlogic.com:8118/live
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:RD | BAHIA" tvg-name="BRISA MAR FM 96.5 [ESPLANADA]",BRISA MAR FM 96.5
+http://12.stmip.net:8548/stream
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:RD | BAHIA" tvg-name="BUQUEIRAO FM 104.9 [CICERO DANTAS]",BUQUEIRAO FM 104.9
+http://stm43.conectastm.com:7992/stream
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:RD | BAHIA" tvg-name="CACAU FM 88.5 [IBICARAI]",CACAU FM 88.5
+https://player.srvaudio.com.br/player-ssl/11090
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:RD | BAHIA" tvg-name="CACTUS FM 87.9 [XIQUE-XIQUE]",CACTUS FM 87.9
+http://198.15.86.162:8804/stream
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:RD | BAHIA" tvg-name="CANABRAVA FM 104.9 [RIBEIRA DO POMBAL]",CANABRAVA FM 104.9
+http://stm11.xcast.com.br:11406/app
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:RD | BAHIA" tvg-name="CANCAO NOVA FM 90.9 [VITORIA DA CONQUISTA]",CANCAO NOVA FM 90.9
+http://rdconquista-lh.akamaihd.net/i/rdconquista_1@190562/master.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:RD | BAHIA" tvg-name="CANSANCAO FM 87.9 [CANSANCAO]",CANSANCAO FM 87.9
+http://euroticast5.euroti.com.br:8126
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:RD | BAHIA" tvg-name="CAPITAL FM 95.9 [SALVADOR]",CAPITAL FM 95.9
+http://autodj.com.br:9072
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:RD | BAHIA" tvg-name="CARAIPE FM 100.5 [TEIXEIRA DE FREITAS]",CARAIPE FM 100.5
+http://05.stmip.net:7808
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:RD | BAHIA" tvg-name="CASTRO ALVES FM 96.7 [CASTRO ALVES]",CASTRO ALVES FM 96.7
+http://r13.ciclano.io:8338/live
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:RD | BAHIA" tvg-name="CENTRAL FM 104.9 [CENTRAL]",CENTRAL FM 104.9
+https://www.radios.com.br/old_php/players/load/silence.mp3
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:RD | BAHIA" tvg-name="CIDADE AM 870 [JUAZEIRO]",CIDADE AM 870
+http://r13.ciclano.io:8414/live
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:RD | BAHIA" tvg-name="CIDADE FM 87.9 [FORMOSA DO RIO PRETO]",CIDADE FM 87.9
+http://suaradio2.dyndns.ws:13445/stream
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:RD | BAHIA" tvg-name="CIDADE FM 91.1 [IRECE]",CIDADE FM 91.1
+https://servidor37-3.brlogic.com:8276/live
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:RD | BAHIA" tvg-name="CIDADE FM 104.9 [GUANAMBI]",CIDADE FM 104.9
+http://192.99.98.79:8002/stream
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:RD | BAHIA" tvg-name="CIDADE FM 104.9 [SANTA BRIGIDA]",CIDADE FM 104.9
+http://08.stmip.net:9988/stream
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:RD | BAHIA" tvg-name="CIDADE FM 104.9 [URUCUCA]",CIDADE FM 104.9
+http://stm5.xcast.com.br:12478/stream
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:RD | BAHIA" tvg-name="CIDADE NOVA FM 104 [ITAJUIPE]",CIDADE NOVA FM 104
+http://10.fm5.com.br:8420/stream
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | SKY" tvg-name="SKY SPORTS",SKY SPORTS HD
+http://199.127.62.234:2082/streams/263_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | SKY" tvg-name="SKY SPORTS",SKY SPORTS HD¹
+http://199.127.62.234:2082/streams/335_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | SKY" tvg-name="SKY SPORTS",SKY SPORTS HD²
+http://199.127.62.234:2082/streams/354_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | SKY" tvg-name="SKY SPORTS",SKY SPORTS FHD
+http://199.127.62.234:2082/streams/357_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | SKY" tvg-name="SKY CINEMA FAMILY",SKY CINEMA FAMILY HD
+http://199.127.62.234:2082/streams/365_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | ESTRANGEIROS" tvg-name="BBC ENTERTAINMENT",BBC ENTERTAINMENT HD
+http://199.127.62.234:2082/streams/437_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | ESTRANGEIROS" tvg-name="BLOOMBERG",BLOOMBERG HD
+http://199.127.62.234:2082/streams/76_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | ESTRANGEIROS" tvg-name="CNNI",CNNI HD
+http://199.127.62.234:2082/streams/77_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | ESTRANGEIROS" tvg-name="DEUTSCHE WELLE",DW HD
+http://199.127.62.234:2082/streams/78_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | ESTRANGEIROS" tvg-name="EURO CHANNEL",EURO CHANNEL HD
+http://199.127.62.234:2082/streams/97_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | ESTRANGEIROS" tvg-name="NBA",NBA FHD
+http://199.127.62.234:2082/streams/262_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | ESTRANGEIROS" tvg-name="NHK WORLD JAPAN",NHK HD
+http://199.127.62.234:2082/streams/79_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | ESTRANGEIROS" tvg-name="RAI ITALIA",RAI ITALIA HD
+http://199.127.62.234:2082/streams/313_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | ESTRANGEIROS" tvg-name="RAI 1",RAI 1 HD
+http://199.127.62.234:2082/streams/338_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | ESTRANGEIROS" tvg-name="RAI 2",RAI 2 HD
+http://199.127.62.234:2082/streams/339_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | ESTRANGEIROS" tvg-name="SIC INTERNACIONAL",SIC HD
+http://199.127.62.234:2082/streams/81_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | ESTRANGEIROS" tvg-name="TVE",TVE HD
+http://199.127.62.234:2082/streams/83_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | ESTRANGEIROS" tvg-name="TV5 MONDE",TV5 MONDE HD
+http://199.127.62.234:2082/streams/82_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | ESTRANGEIROS" tvg-name="TSN 1",TSN 1 SD
+http://199.127.62.234:2082/streams/375_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | ESTRANGEIROS" tvg-name="TSN 2",TSN 2 HD
+http://199.127.62.234:2082/streams/376_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | ESTRANGEIROS" tvg-name="TSN 3",TSN 3 HD
+http://199.127.62.234:2082/streams/377_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | ESTRANGEIROS" tvg-name="TSN 4",TSN 4 SD
+http://199.127.62.234:2082/streams/378_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | ESTRANGEIROS" tvg-name="TSN 5",TSN 5 SD
+http://199.127.62.234:2082/streams/379_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | ESTRANGEIROS" tvg-name="MTV",MTV HD
+http://199.127.62.234:2082/streams/406_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | ESTRANGEIROS" tvg-name="VOXI",VOXI HD
+http://199.127.62.234:2082/streams/352_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | OUTROS" tvg-name="ARABE",ARABE MBC5 SD
+http://199.127.62.234:2082/streams/346_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | OUTROS" tvg-name="ARABE",ARABE HD
+http://199.127.62.234:2082/streams/219_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | OUTROS" tvg-name="ARABE",ARABE SD
+http://199.127.62.234:2082/streams/229_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | OUTROS" tvg-name="ARABE",ARABE SD¹
+http://199.127.62.234:2082/streams/230_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | OUTROS" tvg-name="ARABE",ARABE SD²
+http://199.127.62.234:2082/streams/233_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | OUTROS" tvg-name="ARABE",ARABE HD¹
+http://199.127.62.234:2082/streams/234_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | OUTROS" tvg-name="ARABE",ARABE SD³
+http://199.127.62.234:2082/streams/235_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | OUTROS" tvg-name="ARABE",ARABE FHD
+http://199.127.62.234:2082/streams/236_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | OUTROS" tvg-name="ARABE",ARABE SDª
+http://199.127.62.234:2082/streams/237_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | OUTROS" tvg-name="ARABE",ARABE FHD¹
+http://199.127.62.234:2082/streams/238_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | OUTROS" tvg-name="ARABE",ARABE SDº
+http://199.127.62.234:2082/streams/297_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | OUTROS" tvg-name="ARABE",ARABE FHD²
+http://199.127.62.234:2082/streams/299_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | OUTROS" tvg-name="TV 01",CH VER NOME01 HD
+http://199.127.62.234:2082/streams/361_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | OUTROS" tvg-name="TV 01",CH VER NOME02 HD
+http://199.127.62.234:2082/streams/362_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | OUTROS" tvg-name="TV 01",CH VER NOME03 HD
+http://199.127.62.234:2082/streams/363_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | OUTROS" tvg-name="TV 01",CH VER NOME04 HD
+http://199.127.62.234:2082/streams/364_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | OUTROS" tvg-name="TV 01",CH VER NOME05 HD
+http://199.127.62.234:2082/streams/366_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | OUTROS" tvg-name="TV 01",CH VER NOME06 HD
+http://199.127.62.234:2082/streams/367_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | OUTROS" tvg-name="TV 01",CH VER NOME07 HD
+http://199.127.62.234:2082/streams/368_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | OUTROS" tvg-name="TV 01",CH VER NOME08 SD
+http://199.127.62.234:2082/streams/369_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | OUTROS" tvg-name="TV 01",CH VER NOME09 HD
+http://199.127.62.234:2082/streams/370_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | OUTROS" tvg-name="TV 01",CH VER NOME10 HD
+http://199.127.62.234:2082/streams/371_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | OUTROS" tvg-name="TV 01",CH VER NOME11 FHD
+http://199.127.62.234:2082/streams/372_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | OUTROS" tvg-name="TV 01",CH VER NOME12 FHD
+http://199.127.62.234:2082/streams/387_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | OUTROS" tvg-name="TV 01",CH VER NOME13 SD
+http://199.127.62.234:2082/streams/388_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | OUTROS" tvg-name="TV 01",CH VER NOME14 FHD
+http://199.127.62.234:2082/streams/389_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | OUTROS" tvg-name="TV 01",CH VER NOME15 HD
+http://199.127.62.234:2082/streams/395_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | OUTROS" tvg-name="TV 01",CH VER NOME16 HD
+http://199.127.62.234:2082/streams/396_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | OUTROS" tvg-name="TV 01",CH VER NOME17 HD
+http://199.127.62.234:2082/streams/397_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | OUTROS" tvg-name="VER NOME",VER NOME18 HD
+http://199.127.62.234:2082/streams/438_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | OUTROS" tvg-name="VER NOME",VER NOME19 HD
+http://199.127.62.234:2082/streams/442_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | OUTROS" tvg-name="VER NOME",VER NOME20 HD
+http://199.127.62.234:2082/streams/443_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | OUTROS" tvg-name="VER NOME",VER NOME21 HD
+http://199.127.62.234:2082/streams/444_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | OUTROS" tvg-name="VER NOME",VER NOME22 HD
+http://199.127.62.234:2082/streams/453_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 04¹
+http://199.127.62.234:2082/streams/4_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 08¹
+http://199.127.62.234:2082/streams/8_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 09¹
+http://199.127.62.234:2082/streams/9_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 11¹
+http://199.127.62.234:2082/streams/11_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 12¹
+http://199.127.62.234:2082/streams/12_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 21¹
+http://199.127.62.234:2082/streams/21_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 27¹
+http://199.127.62.234:2082/streams/27_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 28¹
+http://199.127.62.234:2082/streams/28_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 31¹
+http://199.127.62.234:2082/streams/31_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 32¹
+http://199.127.62.234:2082/streams/32_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 36¹
+http://199.127.62.234:2082/streams/36_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 75¹
+http://199.127.62.234:2082/streams/75_.m3u8
+
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 93¹
+http://199.127.62.234:2082/streams/93_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 94¹
+http://199.127.62.234:2082/streams/94_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 95¹
+http://199.127.62.234:2082/streams/95_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 96¹
+http://199.127.62.234:2082/streams/96_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 146¹
+http://199.127.62.234:2082/streams/146_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 170¹
+http://199.127.62.234:2082/streams/170_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 184¹
+http://199.127.62.234:2082/streams/184_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 201¹
+http://199.127.62.234:2082/streams/201_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 215ª
+http://199.127.62.234:2082/streams/0_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 216ª
+http://199.127.62.234:2082/streams/0_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 217ª
+http://199.127.62.234:2082/streams/0_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 218ª
+http://199.127.62.234:2082/streams/0_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 222¹
+http://199.127.62.234:2082/streams/222_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 224¹
+http://199.127.62.234:2082/streams/224_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 225¹
+http://199.127.62.234:2082/streams/225_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 226¹
+http://199.127.62.234:2082/streams/226_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 227¹
+http://199.127.62.234:2082/streams/227_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 228¹
+http://199.127.62.234:2082/streams/228_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 231¹
+http://199.127.62.234:2082/streams/231_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 232¹
+http://199.127.62.234:2082/streams/232_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 239¹
+http://199.127.62.234:2082/streams/239_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 243¹
+http://199.127.62.234:2082/streams/243_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 245¹
+http://199.127.62.234:2082/streams/245_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 248¹
+http://199.127.62.234:2082/streams/248_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 249¹
+http://199.127.62.234:2082/streams/249_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 250¹
+http://199.127.62.234:2082/streams/250_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 251¹
+http://199.127.62.234:2082/streams/251_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 252¹
+http://199.127.62.234:2082/streams/252_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 253¹
+http://199.127.62.234:2082/streams/253_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 255¹
+http://199.127.62.234:2082/streams/255_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 256¹
+http://199.127.62.234:2082/streams/256_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 261¹
+http://199.127.62.234:2082/streams/261_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 264¹
+http://199.127.62.234:2082/streams/264_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 266¹
+http://199.127.62.234:2082/streams/266_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 267¹
+http://199.127.62.234:2082/streams/267_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 268¹
+http://199.127.62.234:2082/streams/268_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 269¹
+http://199.127.62.234:2082/streams/269_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 270¹
+http://199.127.62.234:2082/streams/270_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 271¹
+http://199.127.62.234:2082/streams/271_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 272¹
+http://199.127.62.234:2082/streams/272_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 273¹
+http://199.127.62.234:2082/streams/273_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 274¹
+http://199.127.62.234:2082/streams/274_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 275¹
+http://199.127.62.234:2082/streams/275_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 276¹
+http://199.127.62.234:2082/streams/276_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 277¹
+http://199.127.62.234:2082/streams/277_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 278¹
+http://199.127.62.234:2082/streams/278_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 279¹
+http://199.127.62.234:2082/streams/279_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 281¹
+http://199.127.62.234:2082/streams/281_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 282¹
+http://199.127.62.234:2082/streams/282_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 283¹
+http://199.127.62.234:2082/streams/283_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 284¹
+http://199.127.62.234:2082/streams/284_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 285¹
+http://199.127.62.234:2082/streams/285_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 286¹
+http://199.127.62.234:2082/streams/286_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 287¹
+http://199.127.62.234:2082/streams/287_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 288¹
+http://199.127.62.234:2082/streams/288_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 289¹
+http://199.127.62.234:2082/streams/289_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 290¹
+http://199.127.62.234:2082/streams/290_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 291¹
+http://199.127.62.234:2082/streams/291_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 292¹
+http://199.127.62.234:2082/streams/292_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 293¹
+http://199.127.62.234:2082/streams/293_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 294¹
+http://199.127.62.234:2082/streams/294_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 295¹
+http://199.127.62.234:2082/streams/295_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 296¹
+http://199.127.62.234:2082/streams/296_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 298¹
+http://199.127.62.234:2082/streams/298_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 300¹
+http://199.127.62.234:2082/streams/300_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 301¹
+http://199.127.62.234:2082/streams/301_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 302¹
+http://199.127.62.234:2082/streams/302_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 303¹
+http://199.127.62.234:2082/streams/303_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 304¹
+http://199.127.62.234:2082/streams/304_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 306¹
+http://199.127.62.234:2082/streams/306_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 310¹
+http://199.127.62.234:2082/streams/310_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 314¹
+http://199.127.62.234:2082/streams/314_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 319¹
+http://199.127.62.234:2082/streams/319_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 321¹
+http://199.127.62.234:2082/streams/321_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 322¹
+http://199.127.62.234:2082/streams/322_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 323¹
+http://199.127.62.234:2082/streams/323_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 324¹
+http://199.127.62.234:2082/streams/324_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 325¹
+http://199.127.62.234:2082/streams/325_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 326¹
+http://199.127.62.234:2082/streams/326_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 331¹
+http://199.127.62.234:2082/streams/331_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 332¹
+http://199.127.62.234:2082/streams/332_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 333¹
+http://199.127.62.234:2082/streams/333_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 334¹
+http://199.127.62.234:2082/streams/334_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 336¹
+http://199.127.62.234:2082/streams/336_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 337¹
+http://199.127.62.234:2082/streams/337_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 340¹
+http://199.127.62.234:2082/streams/340_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 341¹
+http://199.127.62.234:2082/streams/341_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 342¹
+http://199.127.62.234:2082/streams/342_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 345¹
+http://199.127.62.234:2082/streams/345_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 347¹
+http://199.127.62.234:2082/streams/347_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 348¹
+http://199.127.62.234:2082/streams/348_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 349¹
+http://199.127.62.234:2082/streams/349_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 350¹
+http://199.127.62.234:2082/streams/350_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 351¹
+http://199.127.62.234:2082/streams/351_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 353¹
+http://199.127.62.234:2082/streams/353_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 355¹
+http://199.127.62.234:2082/streams/355_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 356¹
+http://199.127.62.234:2082/streams/356_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 358¹
+http://199.127.62.234:2082/streams/358_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 359¹
+http://199.127.62.234:2082/streams/359_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 360¹
+http://199.127.62.234:2082/streams/360_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 373¹
+http://199.127.62.234:2082/streams/373_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 374¹
+http://199.127.62.234:2082/streams/374_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 380¹
+http://199.127.62.234:2082/streams/380_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 381¹
+http://199.127.62.234:2082/streams/381_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 382¹
+http://199.127.62.234:2082/streams/382_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 383¹
+http://199.127.62.234:2082/streams/383_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 384¹
+http://199.127.62.234:2082/streams/384_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 385¹
+http://199.127.62.234:2082/streams/385_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 386¹
+http://199.127.62.234:2082/streams/386_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 390¹
+http://199.127.62.234:2082/streams/390_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 391¹
+http://199.127.62.234:2082/streams/391_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 392¹
+http://199.127.62.234:2082/streams/392_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 393¹
+http://199.127.62.234:2082/streams/393_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 394¹
+http://199.127.62.234:2082/streams/394_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 398¹
+http://199.127.62.234:2082/streams/398_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 399¹
+http://199.127.62.234:2082/streams/399_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 400¹
+http://199.127.62.234:2082/streams/400_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 401¹
+http://199.127.62.234:2082/streams/401_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 402¹
+http://199.127.62.234:2082/streams/402_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 403¹
+http://199.127.62.234:2082/streams/403_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 404¹
+http://199.127.62.234:2082/streams/404_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 405¹
+http://199.127.62.234:2082/streams/405_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 407¹
+http://199.127.62.234:2082/streams/407_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 408¹
+http://199.127.62.234:2082/streams/408_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 409¹
+http://199.127.62.234:2082/streams/408_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 410¹
+http://199.127.62.234:2082/streams/410_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 411¹
+http://199.127.62.234:2082/streams/411_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 412¹
+http://199.127.62.234:2082/streams/412_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 413¹
+http://199.127.62.234:2082/streams/413_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 414¹
+http://199.127.62.234:2082/streams/414_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 415¹
+http://199.127.62.234:2082/streams/415_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 416¹
+http://199.127.62.234:2082/streams/416_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 417¹
+http://199.127.62.234:2082/streams/417_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 418¹
+http://199.127.62.234:2082/streams/418_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 419¹
+http://199.127.62.234:2082/streams/419_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 420¹
+http://199.127.62.234:2082/streams/420_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 421¹
+http://199.127.62.234:2082/streams/421_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 422¹
+http://199.127.62.234:2082/streams/422_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 423¹
+http://199.127.62.234:2082/streams/423_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 424¹
+http://199.127.62.234:2082/streams/424_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 425¹
+http://199.127.62.234:2082/streams/425_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 426¹
+http://199.127.62.234:2082/streams/426_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 427¹
+http://199.127.62.234:2082/streams/427_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 428¹
+http://199.127.62.234:2082/streams/428_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 429¹
+http://199.127.62.234:2082/streams/429_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 430¹
+http://199.127.62.234:2082/streams/430_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 431¹
+http://199.127.62.234:2082/streams/431_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 432¹
+http://199.127.62.234:2082/streams/432_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 439¹
+http://199.127.62.234:2082/streams/439_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 441¹
+http://199.127.62.234:2082/streams/441_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 445¹
+http://199.127.62.234:2082/streams/445_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 446¹
+http://199.127.62.234:2082/streams/446_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 447ª
+http://199.127.62.234:2082/streams/0_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 448¹
+http://199.127.62.234:2082/streams/448_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 449¹
+http://199.127.62.234:2082/streams/449_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 450¹
+http://199.127.62.234:2082/streams/450_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 451¹
+http://199.127.62.234:2082/streams/451_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 452¹
+http://199.127.62.234:2082/streams/452_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 454¹
+http://199.127.62.234:2082/streams/454_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 455¹
+http://199.127.62.234:2082/streams/455_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 456¹
+http://199.127.62.234:2082/streams/456_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 457¹
+http://199.127.62.234:2082/streams/457_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 458¹
+http://199.127.62.234:2082/streams/458_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 459¹
+http://199.127.62.234:2082/streams/459_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 460¹
+http://199.127.62.234:2082/streams/460_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 461¹
+http://199.127.62.234:2082/streams/461_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 462¹
+http://199.127.62.234:2082/streams/462_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 463¹
+http://199.127.62.234:2082/streams/463_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 464¹
+http://199.127.62.234:2082/streams/464_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 465¹
+http://199.127.62.234:2082/streams/465_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 469¹
+http://199.127.62.234:2082/streams/469_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 471¹
+http://199.127.62.234:2082/streams/471_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 472¹
+http://199.127.62.234:2082/streams/472_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 473¹
+http://199.127.62.234:2082/streams/473_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 474¹
+http://199.127.62.234:2082/streams/474_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 475¹
+http://199.127.62.234:2082/streams/475_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 476¹
+http://199.127.62.234:2082/streams/476_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 477¹
+http://199.127.62.234:2082/streams/477_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 478¹
+http://199.127.62.234:2082/streams/478_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 479¹
+http://199.127.62.234:2082/streams/479_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 480¹
+http://199.127.62.234:2082/streams/480_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 481¹
+http://199.127.62.234:2082/streams/481_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 482¹
+http://199.127.62.234:2082/streams/482_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 483¹
+http://199.127.62.234:2082/streams/483_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 484¹
+http://199.127.62.234:2082/streams/484_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 485¹
+http://199.127.62.234:2082/streams/485_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 486¹
+http://199.127.62.234:2082/streams/486_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 487¹
+http://199.127.62.234:2082/streams/487_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 488¹
+http://199.127.62.234:2082/streams/488_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 489¹
+http://199.127.62.234:2082/streams/489_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 490¹
+http://199.127.62.234:2082/streams/490_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 491¹
+http://199.127.62.234:2082/streams/491_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 492¹
+http://199.127.62.234:2082/streams/492_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 493¹
+http://199.127.62.234:2082/streams/493_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 494¹
+http://199.127.62.234:2082/streams/494_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 495¹
+http://199.127.62.234:2082/streams/495_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 496¹
+http://199.127.62.234:2082/streams/496_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 497¹
+http://199.127.62.234:2082/streams/497_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 498¹
+http://199.127.62.234:2082/streams/498_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 499¹
+http://199.127.62.234:2082/streams/499_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 500¹
+http://199.127.62.234:2082/streams/500_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 501¹
+http://199.127.62.234:2082/streams/501_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 502¹
+http://199.127.62.234:2082/streams/502_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 503¹
+http://199.127.62.234:2082/streams/503_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 504¹
+http://199.127.62.234:2082/streams/504_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 505¹
+http://199.127.62.234:2082/streams/505_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 506¹
+http://199.127.62.234:2082/streams/506_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 507¹
+http://199.127.62.234:2082/streams/507_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 508¹
+http://199.127.62.234:2082/streams/508_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 509¹
+http://199.127.62.234:2082/streams/509_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 510¹
+http://199.127.62.234:2082/streams/510_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 511¹
+http://199.127.62.234:2082/streams/511_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 512¹
+http://199.127.62.234:2082/streams/512_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 513¹
+http://199.127.62.234:2082/streams/513_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 514¹
+http://199.127.62.234:2082/streams/514_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 515¹
+http://199.127.62.234:2082/streams/515_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 516¹
+http://199.127.62.234:2082/streams/516_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 517¹
+http://199.127.62.234:2082/streams/517_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 518¹
+http://199.127.62.234:2082/streams/518_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 519¹
+http://199.127.62.234:2082/streams/519_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 520¹
+http://199.127.62.234:2082/streams/520_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 521¹
+http://199.127.62.234:2082/streams/521_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 522¹
+http://199.127.62.234:2082/streams/522_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 523¹
+http://199.127.62.234:2082/streams/523_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 524¹
+http://199.127.62.234:2082/streams/524_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 525¹
+http://199.127.62.234:2082/streams/525_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 526¹
+http://199.127.62.234:2082/streams/526_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 527¹
+http://199.127.62.234:2082/streams/527_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 528¹
+http://199.127.62.234:2082/streams/528_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 529¹
+http://199.127.62.234:2082/streams/529_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 530¹
+http://199.127.62.234:2082/streams/530_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 531¹
+http://199.127.62.234:2082/streams/531_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 532¹
+http://199.127.62.234:2082/streams/532_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 533¹
+http://199.127.62.234:2082/streams/533_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 534¹
+http://199.127.62.234:2082/streams/534_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 535¹
+http://199.127.62.234:2082/streams/535_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 536¹
+http://199.127.62.234:2082/streams/536_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 537¹
+http://199.127.62.234:2082/streams/537_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 538¹
+http://199.127.62.234:2082/streams/538_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 539¹
+http://199.127.62.234:2082/streams/539_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 540¹
+http://199.127.62.234:2082/streams/540_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 541¹
+http://199.127.62.234:2082/streams/541_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 542¹
+http://199.127.62.234:2082/streams/542_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 543¹
+http://199.127.62.234:2082/streams/543_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 544¹
+http://199.127.62.234:2082/streams/544_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 545¹
+http://199.127.62.234:2082/streams/545_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 546¹
+http://199.127.62.234:2082/streams/546_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 547¹
+http://199.127.62.234:2082/streams/547_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 548¹
+http://199.127.62.234:2082/streams/548_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 549¹
+http://199.127.62.234:2082/streams/549_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 550¹
+http://199.127.62.234:2082/streams/550_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 551¹
+http://199.127.62.234:2082/streams/551_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 552¹
+http://199.127.62.234:2082/streams/552_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 553¹
+http://199.127.62.234:2082/streams/553_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 554¹
+http://199.127.62.234:2082/streams/554_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 555¹
+http://199.127.62.234:2082/streams/555_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 556¹
+http://199.127.62.234:2082/streams/556_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 557¹
+http://199.127.62.234:2082/streams/557_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 558¹
+http://199.127.62.234:2082/streams/558_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 559¹
+http://199.127.62.234:2082/streams/559_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 560¹
+http://199.127.62.234:2082/streams/560_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 561¹
+http://199.127.62.234:2082/streams/561_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 562¹
+http://199.127.62.234:2082/streams/562_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 563¹
+http://199.127.62.234:2082/streams/563_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 564¹
+http://199.127.62.234:2082/streams/564_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 565¹
+http://199.127.62.234:2082/streams/565_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 566¹
+http://199.127.62.234:2082/streams/566_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 567¹
+http://199.127.62.234:2082/streams/567_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 568¹
+http://199.127.62.234:2082/streams/568_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 569¹
+http://199.127.62.234:2082/streams/569_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 570¹
+http://199.127.62.234:2082/streams/570_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 571¹
+http://199.127.62.234:2082/streams/571_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 572¹
+http://199.127.62.234:2082/streams/572_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 573¹
+http://199.127.62.234:2082/streams/573_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 574¹
+http://199.127.62.234:2082/streams/574_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 575¹
+http://199.127.62.234:2082/streams/575_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 576¹
+http://199.127.62.234:2082/streams/576_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 577¹
+http://199.127.62.234:2082/streams/577_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 578¹
+http://199.127.62.234:2082/streams/578_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 579¹
+http://199.127.62.234:2082/streams/579_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 580¹
+http://199.127.62.234:2082/streams/580_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 581¹
+http://199.127.62.234:2082/streams/581_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 582¹
+http://199.127.62.234:2082/streams/582_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 583¹
+http://199.127.62.234:2082/streams/583_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 584¹
+http://199.127.62.234:2082/streams/584_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 585¹
+http://199.127.62.234:2082/streams/585_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 586¹
+http://199.127.62.234:2082/streams/586_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 587¹
+http://199.127.62.234:2082/streams/587_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 588¹
+http://199.127.62.234:2082/streams/588_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 589¹
+http://199.127.62.234:2082/streams/589_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 590¹
+http://199.127.62.234:2082/streams/590_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 591¹
+http://199.127.62.234:2082/streams/591_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 592¹
+http://199.127.62.234:2082/streams/592_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 593¹
+http://199.127.62.234:2082/streams/593_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 594¹
+http://199.127.62.234:2082/streams/594_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 595¹
+http://199.127.62.234:2082/streams/595_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 596¹
+http://199.127.62.234:2082/streams/596_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 597¹
+http://199.127.62.234:2082/streams/597_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 598¹
+http://199.127.62.234:2082/streams/598_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 599¹
+http://199.127.62.234:2082/streams/599_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 600¹
+http://199.127.62.234:2082/streams/600_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 601¹
+http://199.127.62.234:2082/streams/601_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 602¹
+http://199.127.62.234:2082/streams/602_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 603¹
+http://199.127.62.234:2082/streams/603_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 604¹
+http://199.127.62.234:2082/streams/604_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 605¹
+http://199.127.62.234:2082/streams/605_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 606¹
+http://199.127.62.234:2082/streams/606_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 607¹
+http://199.127.62.234:2082/streams/607_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 608¹
+http://199.127.62.234:2082/streams/608_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 609¹
+http://199.127.62.234:2082/streams/609_.m3u8
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/2J8TGB1" group-title="BR:CH | INATIVO" tvg-name="TV 01",CH 610¹
+http://199.127.62.234:2082/streams/610_.m3u8
