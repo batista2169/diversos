@@ -1,0 +1,200 @@
+﻿#EXTM3U
+
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/Logo-tv" group-title="BR:CH | ABERTOS" tvg-name="SBT",SBT HD
+http://189.91.128.150:4444/udp/227.10.20.120:1234
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/Logo-tv" group-title="BR:CH | ABERTOS" tvg-name="REDE TV",REDE TV HD
+http://189.91.128.150:4444/udp/227.10.20.122:1234
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/Logo-tv" group-title="BR:CH | ABERTOS" tvg-name="UNIVALE TV",UNIVALE TV SD
+http://189.91.128.150:4444/udp/227.10.20.103:1234
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/Logo-tv" group-title="BR:CH | ABERTOS" tvg-name="TV GLOBO MINAS",TV GLOBO MINAS SD
+http://189.91.128.150:4444/udp/227.10.20.109:1234
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/Logo-tv" group-title="BR:CH | ABERTOS" tvg-name="CNT",CNT HD
+http://189.91.128.150:4444/udp/227.10.20.111:1234
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/Logo-tv" group-title="BR:CH | ABERTOS" tvg-name="CANAL RURAL",CANAL RURAL HD
+http://189.91.128.150:4444/udp/227.10.20.125:1234
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/Logo-tv" group-title="BR:CH | ABERTOS" tvg-name="TV GLOBO MINAS",TV GLOBO MINAS SD¹
+http://189.91.128.150:4444/udp/227.10.20.150:1234
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/Logo-tv" group-title="BR:CH | ABERTOS" tvg-name="RECORD TV",RECORD TV HD
+http://189.91.128.150:4444/udp/227.10.20.151:1234
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/Logo-tv" group-title="BR:CH | ABERTOS" tvg-name="TERRAVIVA",TERRAVIVA HD
+http://189.91.128.150:4444/udp/227.10.20.142:1234
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/Logo-tv" group-title="BR:CH | ABERTOS" tvg-name="LOADING",LOADING HD
+http://189.91.128.150:4444/udp/227.10.20.143:1234
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/Logo-tv" group-title="BR:CH | ABERTOS" tvg-name="TV CULTURA",TV CULTURA HD
+http://189.91.128.150:4444/udp/227.10.20.145:1234
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/Logo-tv" group-title="BR:CH | ABERTOS" tvg-name="RECORD TV",RECORD TV SD¹
+http://189.91.128.150:4444/udp/227.10.20.147:1234
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/Logo-tv" group-title="BR:CH | ABERTOS" tvg-name="POLISHOP TV",POLISHOP TV HD
+http://189.91.128.150:4444/udp/227.10.20.162:1234
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/Logo-tv" group-title="BR:CH | ABERTOS" tvg-name="REDE TV",REDE TV HD¹
+http://189.91.128.150:4444/udp/227.10.20.164:1234
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/Logo-tv" group-title="BR:CH | ABERTOS" tvg-name="FUTURA",FUTURA HD
+http://189.91.128.150:4444/udp/227.10.20.165:1234
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/Logo-tv" group-title="BR:CH | CULTURA" tvg-name="DISCOVERY CHANNEL",DISCOVERY CHANNEL HD
+http://189.91.128.150:4444/udp/227.10.20.80:1234
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/Logo-tv" group-title="BR:CH | CULTURA" tvg-name="ANIMAL PLANET",ANIMAL PLANET HD
+http://189.91.128.150:4444/udp/227.10.20.118:1234
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/Logo-tv" group-title="BR:CH | CULTURA" tvg-name="DISCOVERY SCIENCE ",DISCOVERY SCIENCE HD
+http://189.91.128.150:4444/udp/227.10.20.92:1234
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/Logo-tv" group-title="BR:CH | CULTURA" tvg-name="HISTORY CHANNEL",HISTORY HD
+http://189.91.128.150:4444/udp/227.10.20.130:1234
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/Logo-tv" group-title="BR:CH | CULTURA" tvg-name="HOME & GARDEN TELEVISION",HGTV HD
+http://189.91.128.150:4444/udp/227.10.20.177:1234
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/Logo-tv" group-title="BR:CH | ESPORTES" tvg-name="BAND SPORTS",BAND SPORTS HD
+http://189.91.128.150:4444/udp/227.10.20.119:1234
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/Logo-tv" group-title="BR:CH | ESPORTES" tvg-name="COMBATE",COMBATE HD
+http://189.91.128.150:4444/udp/227.10.20.172:1234
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/Logo-tv" group-title="BR:CH | ESPORTES" tvg-name="EI",EI HD
+http://189.91.128.150:4444/udp/227.10.20.121:1234
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/Logo-tv" group-title="BR:CH | ESPORTES" tvg-name="ESPN",ESPN HD
+http://189.91.128.150:4444/udp/227.10.20.86:1234
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/Logo-tv" group-title="BR:CH | ESPORTES" tvg-name="ESPN",ESPN HD¹
+http://189.91.128.150:4444/udp/227.10.20.128:1234
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/Logo-tv" group-title="BR:CH | ESPORTES" tvg-name="ESPN",ESPN HD²
+http://189.91.128.150:4444/udp/227.10.20.152:1234
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/Logo-tv" group-title="BR:CH | ESPORTES" tvg-name="ESPN 2",ESPN 2 HD
+http://189.91.128.150:4444/udp/227.10.20.153:1234
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/Logo-tv" group-title="BR:CH | ESPORTES" tvg-name="ESPN BRASIL",ESPN BRASIL HD
+http://189.91.128.150:4444/udp/227.10.20.81:1234
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/Logo-tv" group-title="BR:CH | ESPORTES" tvg-name="FOX SPORTS",FOX SPORTS HD
+http://189.91.128.150:4444/udp/227.10.20.116:1234
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/Logo-tv" group-title="BR:CH | ESPORTES" tvg-name="FOX SPORTS 2",FOX SPORTS 2 HD
+http://189.91.128.150:4444/udp/227.10.20.132:1234
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/Logo-tv" group-title="BR:CH | ESPORTES" tvg-name="PREMIERE CLUBES",PREMIERE CLUBES HD
+http://189.91.128.150:4444/udp/227.10.20.102:1234
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/Logo-tv" group-title="BR:CH | ESPORTES" tvg-name="PREMIERE",PREMIERE 2 HD
+http://189.91.128.150:4444/udp/227.10.20.104:1234
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/Logo-tv" group-title="BR:CH | ESPORTES" tvg-name="PREMIERE",PREMIERE 3 HD
+http://189.91.128.150:4444/udp/227.10.20.105:1234
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/Logo-tv" group-title="BR:CH | ESPORTES" tvg-name="PREMIERE",PREMIERE 4 HD
+http://189.91.128.150:4444/udp/227.10.20.106:1234
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/Logo-tv" group-title="BR:CH | ESPORTES" tvg-name="PREMIERE",PREMIERE 5 HD
+http://189.91.128.150:4444/udp/227.10.20.107:1234
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/Logo-tv" group-title="BR:CH | ESPORTES" tvg-name="PREMIERE",PREMIERE 6 HD
+http://189.91.128.150:4444/udp/227.10.20.123:1234
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/Logo-tv" group-title="BR:CH | FILMES & SERIES" tvg-name="STUDIO UNIVERSAL",STUDIO UNIVERSAL HD
+http://189.91.128.150:4444/udp/227.10.20.88:1234
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/Logo-tv" group-title="BR:CH | FILMES & SERIES" tvg-name="MEGAPIX",MEGAPIX HD
+http://189.91.128.150:4444/udp/227.10.20.89:1234
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/Logo-tv" group-title="BR:CH | FILMES & SERIES" tvg-name="HBO",HBO HD
+http://189.91.128.150:4444/udp/227.10.20.133:1234
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/Logo-tv" group-title="BR:CH | FILMES & SERIES" tvg-name="HBO",HBO HD¹
+http://189.91.128.150:4444/udp/227.10.20.94:1234
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/Logo-tv" group-title="BR:CH | FILMES & SERIES" tvg-name="HBO 2",HBO 2 HD
+http://189.91.128.150:4444/udp/227.10.20.95:1234
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/Logo-tv" group-title="BR:CH | FILMES & SERIES" tvg-name="HBO PLUS",HBO PLUS HD
+http://189.91.128.150:4444/udp/227.10.20.96:1234
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/Logo-tv" group-title="BR:CH | FILMES & SERIES" tvg-name="HBO FAMILY",HBO FAMILY HD
+http://189.91.128.150:4444/udp/227.10.20.97:1234
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/Logo-tv" group-title="BR:CH | FILMES & SERIES" tvg-name="HBO SIGNATURE",HBO SIGNATURE HD
+http://189.91.128.150:4444/udp/227.10.20.98:1234
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/Logo-tv" group-title="BR:CH | FILMES & SERIES" tvg-name="HBO",HBO HD²
+http://189.91.128.150:4444/udp/227.10.20.154:1234
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/Logo-tv" group-title="BR:CH | FILMES & SERIES" tvg-name="HBO 2",HBO 2 HD¹
+http://189.91.128.150:4444/udp/227.10.20.155:1234
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/Logo-tv" group-title="BR:CH | FILMES & SERIES" tvg-name="HBO PLUS",HBO PLUS HD¹
+http://189.91.128.150:4444/udp/227.10.20.156:1234
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/Logo-tv" group-title="BR:CH | FILMES & SERIES" tvg-name="HBO FAMILY",HBO FAMILY HD¹
+http://189.91.128.150:4444/udp/227.10.20.157:1234
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/Logo-tv" group-title="BR:CH | FILMES & SERIES" tvg-name="HBO SIGNATURE",HBO SIGNATURE HD¹
+http://189.91.128.150:4444/udp/227.10.20.158:1234
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/Logo-tv" group-title="BR:CH | FILMES & SERIES" tvg-name="MAX UP",MAX UP HD
+http://189.91.128.150:4444/udp/227.10.20.99:1234
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/Logo-tv" group-title="BR:CH | FILMES & SERIES" tvg-name="MAX PRIME",MAX PRIME HD
+http://189.91.128.150:4444/udp/227.10.20.100:1234
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/Logo-tv" group-title="BR:CH | FILMES & SERIES" tvg-name="CINEMAX",CINEMAX HD
+http://189.91.128.150:4444/udp/227.10.20.101:1234
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/Logo-tv" group-title="BR:CH | FILMES & SERIES" tvg-name="CINEMAX",CINEMAX HD¹
+http://189.91.128.150:4444/udp/227.10.20.159:1234
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/Logo-tv" group-title="BR:CH | FILMES & SERIES" tvg-name="TCM",TCM HD
+http://189.91.128.150:4444/udp/227.10.20.124:1234
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/Logo-tv" group-title="BR:CH | FILMES & SERIES" tvg-name="WARNER BROS CHANNEL",WARNER CHANNEL HD
+http://189.91.128.150:4444/udp/227.10.20.126:1234
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/Logo-tv" group-title="BR:CH | FILMES & SERIES" tvg-name="SONY CHANNEL",SONY CHANNEL HD
+http://189.91.128.150:4444/udp/227.10.20.127:1234
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/Logo-tv" group-title="BR:CH | FILMES & SERIES" tvg-name="A&E",A&E HD
+http://189.91.128.150:4444/udp/227.10.20.129:1234
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/Logo-tv" group-title="BR:CH | FILMES & SERIES" tvg-name="TC PIPOCA",TC PIPOCA HD
+http://189.91.128.150:4444/udp/227.10.20.87:1234
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/Logo-tv" group-title="BR:CH | FILMES & SERIES" tvg-name="TC PREMIUM",TC PREMIUM HD
+http://189.91.128.150:4444/udp/227.10.20.134:1234
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/Logo-tv" group-title="BR:CH | FILMES & SERIES" tvg-name="TC ACTION",TC ACTION HD
+http://189.91.128.150:4444/udp/227.10.20.135:1234
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/Logo-tv" group-title="BR:CH | FILMES & SERIES" tvg-name="TC TOUCH",TC TOUCH HD
+http://189.91.128.150:4444/udp/227.10.20.136:1234
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/Logo-tv" group-title="BR:CH | FILMES & SERIES" tvg-name="TC FUN",TC FUN HD
+http://189.91.128.150:4444/udp/227.10.20.137:1234
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/Logo-tv" group-title="BR:CH | FILMES & SERIES" tvg-name="STAR CHANNEL",STAR CHANNEL HD
+http://189.91.128.150:4444/udp/227.10.20.139:1234
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/Logo-tv" group-title="BR:CH | FILMES & SERIES" tvg-name="PARAMOUNT CHANNEL",PARAMOUNT HD
+http://189.91.128.150:4444/udp/227.10.20.140:1234
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/Logo-tv" group-title="BR:CH | FILMES & SERIES" tvg-name="FX",FX HD
+http://189.91.128.150:4444/udp/227.10.20.138:1234
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/Logo-tv" group-title="BR:CH | FILMES & SERIES" tvg-name="TNT",TNT HD
+http://189.91.128.150:4444/udp/227.10.20.166:1234
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/Logo-tv" group-title="BR:CH | FILMES & SERIES" tvg-name="CANAL BRASIL",CANAL BRASIL HD
+http://189.91.128.150:4444/udp/227.10.20.171:1234
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/Logo-tv" group-title="BR:CH | INFANTIS" tvg-name="DISCOVERY KIDS",DISCOVERY KIDS HD
+http://189.91.128.150:4444/udp/227.10.20.83:1234
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/Logo-tv" group-title="BR:CH | INFANTIS" tvg-name="DISNEY CHANNEL",DISNEY CHANNEL HD
+http://189.91.128.150:4444/udp/227.10.20.90:1234
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/Logo-tv" group-title="BR:CH | INFANTIS" tvg-name="GLOOB",GLOOB HD
+http://189.91.128.150:4444/udp/227.10.20.91:1234
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/Logo-tv" group-title="BR:CH | INFANTIS" tvg-name="DISNEY XD",DISNEY XD HD
+http://189.91.128.150:4444/udp/227.10.20.110:1234
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/Logo-tv" group-title="BR:CH | INFANTIS" tvg-name="NICKELODEON",NICK HD
+http://189.91.128.150:4444/udp/227.10.20.149:1234
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/Logo-tv" group-title="BR:CH | INFANTIS" tvg-name="NICK JR.",NICK JR HD
+http://189.91.128.150:4444/udp/227.10.20.167:1234
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/Logo-tv" group-title="BR:CH | NOTICIAS" tvg-name="CNN BRASIL",CNN BRASIL HD
+http://189.91.128.150:4444/udp/227.10.20.160:1234
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/Logo-tv" group-title="BR:CH | NOTICIAS" tvg-name="BAND NEWS",BAND NEWS HD
+http://189.91.128.150:4444/udp/227.10.20.131:1234
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/Logo-tv" group-title="BR:CH | NOTICIAS" tvg-name="CNN",CNN HD
+http://189.91.128.150:4444/udp/227.10.20.168:1234
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/Logo-tv" group-title="BR:CH | NOTICIAS" tvg-name="RECORD NEWS",RECORD NEWS HD
+http://189.91.128.150:4444/udp/227.10.20.170:1234
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/Logo-tv" group-title="BR:CH | NOTICIAS" tvg-name="CNN BRASIL",CNN BRASIL HD¹
+http://189.91.128.150:4444/udp/227.10.20.176:1234
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/Logo-tv" group-title="BR:CH | NOTICIAS" tvg-name="JOVEM PAN NEWS",JOVEM PAN NEWS HD
+http://189.91.128.150:4444/udp/227.10.20.180:1234
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/Logo-tv" group-title="BR:CH | RELIGIOSOS" tvg-name="REDE PLENITUDE",REDE PLENITUDE HD
+http://189.91.128.150:4444/udp/227.10.20.173:1234
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/Logo-tv" group-title="BR:CH | VARIEDADES" tvg-name="DISCOVERY TURBO",TURBO HD
+http://189.91.128.150:4444/udp/227.10.20.82:1234
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/Logo-tv" group-title="BR:CH | VARIEDADES" tvg-name="TLC",TLC HD
+http://189.91.128.150:4444/udp/227.10.20.84:1234
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/Logo-tv" group-title="BR:CH | VARIEDADES" tvg-name="DISCOVERY HOME & HEALTH",HOME & HEALTH HD
+http://189.91.128.150:4444/udp/227.10.20.85:1234
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/Logo-tv" group-title="BR:CH | VARIEDADES" tvg-name="INVESTIGATION DISCOVERY",ID HD
+http://189.91.128.150:4444/udp/227.10.20.93:1234
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/Logo-tv" group-title="BR:CH | VARIEDADES" tvg-name="WOOHOO",WOOHOO HD
+http://189.91.128.150:4444/udp/227.10.20.112:1234
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/Logo-tv" group-title="BR:CH | VARIEDADES" tvg-name="FASHION TV BRASIL",FASHION TV BRASIL HD
+http://189.91.128.150:4444/udp/227.10.20.113:1234
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/Logo-tv" group-title="BR:CH | VARIEDADES" tvg-name="PRIME BOX BRAZIL",PRIME BOX BRAZIL HD
+http://189.91.128.150:4444/udp/227.10.20.114:1234
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/Logo-tv" group-title="BR:CH | VARIEDADES" tvg-name="TRAVEL BOX BRAZIL",TRAVEL BOX BRAZIL HD
+http://189.91.128.150:4444/udp/227.10.20.115:1234
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/Logo-tv" group-title="BR:CH | VARIEDADES" tvg-name="DISCOVERY FISH TV",FISH TV SD
+http://189.91.128.150:4444/udp/227.10.20.117:1234
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/Logo-tv" group-title="BR:CH | ESTRANGEIROS" tvg-name="CCTV",CCTV HD
+http://189.91.128.150:4444/udp/227.10.20.144:1234
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/Logo-tv" group-title="BR:CH | ESTRANGEIROS" tvg-name="RTP",RTP HD
+http://189.91.128.150:4444/udp/227.10.20.146:1234
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/Logo-tv" group-title="BR:CH | ESTRANGEIROS" tvg-name="BLOOMBERG",BLOOMBERG HD
+http://189.91.128.150:4444/udp/227.10.20.161:1234
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/Logo-tv" group-title="BR:CH | ESTRANGEIROS" tvg-name="TV5",TV5 HD
+http://189.91.128.150:4444/udp/227.10.20.163:1234
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/Logo-tv" group-title="BR:CH | ESTRANGEIROS" tvg-name="RAI ITALIA",RAI ITALIA HD
+http://189.91.128.150:4444/udp/227.10.20.174:1234
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/Logo-tv" group-title="BR:CH | RADIOS" tvg-name="RADIO",RADIO
+http://189.91.128.150:4444/udp/227.10.20.108:1234
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/Logo-tv" group-title="BR:CH | RADIOS" tvg-name="RADIO",RADIO¹
+http://189.91.128.150:4444/udp/227.10.20.141:1234
+#EXTINF:-1 tvg-id="JBF" tvg-logo="https://bit.ly/Logo-tv" group-title="BR:CH | RADIOS" tvg-name="RADIO",RADIO²
+http://189.91.128.150:4444/udp/227.10.20.175:1234
+#EXTINF:-1,FORA DO AR
+http://189.91.128.150:4444/udp/227.10.20.148:1234
+#EXTINF:-1,FORA DO AR¹
+http://189.91.128.150:4444/udp/227.10.20.169:1234
