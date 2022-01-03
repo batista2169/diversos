@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<playlist version="1" xmlns="http://xspf.org/ns/0/">
+<title>BGM playlist</title>
+<tracklist>
+
+<track>
+<title>숫자송 (by Entoi)</title>
+<creator>Entoi</creator>
+<location>http://www.youtube.com/watch?v=-Tl9G8LZKgk</location>
+<annotation>Entoi에서 만든 숫자송</annotation>
+</track>
+
+<track>
+<title>원츄송 (by Entoi)</title>
+<creator>Entoi</creator>
+<location>http://www.youtube.com/watch?v=Dn2o7jHxx_Y</location>
+<annotation>Entoi에서 만든 원츄송</annotation>
+</track>
+
+</tracklist>
+</playlist>
