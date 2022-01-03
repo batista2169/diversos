@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<rss xmlns:media="http://search.yahoo.com/mrss/"xmlns:jwplayer="http://developer.longtailvideo.com/trac/" version="2.0">
+<Channel>
+  <Title>MRSS Playlist Playlist</Title>
+    <item>
+      <title>04:48</title>
+      <media:content url="https://github.com/batista2169/diversos/raw/master/PDDE-Gerenciador%20BB.mp4"></media:content>
+      <media:thumbnail url="https://github.com/batista2169/diversos/raw/master/logotv.png"></media:thumbnail>
+      <description>5 minute cardio with handweights</description>
+      <jwplayer:duration>288</jwplayer:duration>
+      <jwplayer:start>0</jwplayer:start>
+    </item>
+    <item>
+      <title>R15</title>
+      <media:content url="nothing"></media:content>
+      <media:thumbnail url="nothing"></media:thumbnail>
+      <description>rest option</description>
+      <jwplayer:duration>15</jwplayer:duration>
+      <jwplayer:start>0</jwplayer:start>
+    </item>
+    <item>
+      <title>01:20</title>
+      <media:content url="https://github.com/batista2169/diversos/raw/master/PDDE-Gerenciador%20BB.mp4"></media:content>
+      <media:thumbnail url="https://github.com/batista2169/diversos/raw/master/logotv.png"></media:thumbnail>
+      <description>harder than what it looks</description>
+      <jwplayer:duration>580</jwplayer:duration>
+      <jwplayer:start>500</jwplayer:start>
+    </item>
+</Channel>
+</rss>
