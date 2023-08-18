@@ -1,0 +1,255 @@
+#EXTM3U url-tvg="http://acstatic.co/epg/epg.xml"
+#EXTINF:-1,WOOHOO
+https://cdn-1.nxplay.com.br/WOOHOO_TK/tracks-v1a1/mono.m3u8
+#EXTINF:-1,GLOBO SP
+https://cdn-1.nxplay.com.br/GLOBO_SP_TK/tracks-v1a1/mono.m3u8
+#EXTINF:-1,AMC BRASIL
+http://cdn-1.nxplay.com.br/AMC_BRASIL_TK/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Film Arts Brasil
+http://cdn-1.nxplay.com.br/Film_Arts_Brasil_TK/tracks-v1a1/mono.m3u8
+#EXTINF:-1,TV APARECIDA
+http://cdn-1.nxplay.com.br/TV_APARECIDA_TK/tracks-v1a1/mono.m3u8
+#EXTINF:-1,CANCAO NOVA
+http://cdn-1.nxplay.com.br/CANCAO_NOVA_TK/tracks-v1a1/mono.m3u8
+#EXTINF:-1,TV SAUDE
+http://cdn-1.nxplay.com.br/TV_SAUDE_TK/tracks-v1a1/mono.m3u8
+#EXTINF:-1,CANAL DO BOI
+http://cdn-1.nxplay.com.br/CANAL_DO_BOI_TK/tracks-v1a1/mono.m3u8
+#EXTINF:-1,BAND
+http://cdn-1.nxplay.com.br/BAND_HD_PFZ/tracks-v1a1/mono.m3u8
+#EXTINF:-1,TV BRASIL 2
+http://cdn-1.nxplay.com.br/TV_BRASIL_2_TK/tracks-v1a1/mono.m3u8
+#EXTINF:-1,FUTURA
+http://cdn-1.nxplay.com.br/FUTURA_NX/tracks-v1a1/mono.m3u8
+#EXTINF:-1,RECORD PAULISTA
+http://cdn-1.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/tracks-v1a1/mono.m3u8
+#EXTINF:-1,TV TROPICAL
+http://cdn-1.nxplay.com.br/TV_TROPICAL_TK/tracks-v1a1/mono.m3u8
+#EXTINF:-1,FISH TV
+http://cdn-1.nxplay.com.br/FISH_TV_NX/tracks-v1a1/mono.m3u8
+#EXTINF:-1,ZOOMOO
+http://cdn-1.nxplay.com.br/ZOOMOO_HD_NX_01/tracks-v1a1/mono.m3u8
+#EXTINF:-1,CNN Brazil
+http://cdn-1.nxplay.com.br/CNN_Brazil_TK/tracks-v1a1/mono.m3u8
+#EXTINF:-1,ARTE1
+http://cdn-1.nxplay.com.br/ARTE1_TK/tracks-v1a1/mono.m3u8
+#EXTINF:-1,PLAY TV
+http://cdn-1.nxplay.com.br/PLAY_TV_NXPLAY/tracks-v1a1/mono.m3u8
+#EXTINF:-1,MUSIC
+http://cdn-1.nxplay.com.br/MUSIC_HD_TK/tracks-v1a1/mono.m3u8
+#EXTINF:-1,PRIME
+http://cdn-1.nxplay.com.br/PRIME_HD_TK/tracks-v1a1/mono.m3u8
+#EXTINF:-1,AGROBRASIL TV
+http://cdn-1.nxplay.com.br/AGROBRASIL_TV_TK/tracks-v1a1/mono.m3u8
+#EXTINF:-1,MULTICULTURA
+http://cdn-1.nxplay.com.br/MULTICULTURA_PFZ/tracks-v1a1/mono.m3u8
+#EXTINF:-1,TRAVEL
+http://cdn-1.nxplay.com.br/TRAVEL_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,AMERICOLATINO
+http://cdn-1.nxplay.com.br/AMERICOLATINO_TK/tracks-v1a1/mono.m3u8
+#EXTINF:-1,HITTS
+http://cdn-1.nxplay.com.br/HITTS_TK/tracks-v1a1/mono.m3u8
+#EXTINF:-1,MEGA
+http://cdn-1.nxplay.com.br/MEGA_TK/tracks-v1a1/mono.m3u8
+#EXTINF:-1,TV TEM
+http://cdn-1.nxplay.com.br/TV_TEM_TK/tracks-v1a1/mono.m3u8
+#EXTINF:-1,TV BRASIL
+http://cdn-1.nxplay.com.br/TV_BRASIL_NX_/tracks-v1a1/mono.m3u8
+#EXTINF:-1,REDE VIDA
+http://cdn-1.nxplay.com.br/REDE_VIDA_TK/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Cult
+http://cdn-1.nxplay.com.br/Cult_TK/tracks-v1a1/mono.m3u8
+#EXTINF:-1,SCH
+http://cdn-1.nxplay.com.br/SCH_TK/tracks-v1a1/mono.m3u8
+#EXTINF:-1,BRAmusic
+http://cdn-1.nxplay.com.br/BRAmusic_TK/tracks-v1a1/mono.m3u8
+#EXTINF:-1,BANDSPORTS
+http://cdn-1.nxplay.com.br/BAND_SPORTS/tracks-v1a1/mono.m3u8
+#EXTINF:-1,BANDNEWS
+http://cdn-1.nxplay.com.br/BAND_NEWS_TK/tracks-v1a1/mono.m3u8
+#EXTINF:-1,GLOBO Bahia
+https://transcoder.proxy.tokplay.com.br:443/videos/REDEGLOBO/format720p_REDEGLOBO.m3u8
+#EXTINF:-1,DUBAI RACING 2
+http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
+#EXTINF:-1,Music Top
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+#EXTINF:-1,Dw
+https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/stream05/streamPlaylist.m3u8
+#EXTINF:-1,Tv Evangelizar
+https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8
+#EXTINF:-1, 🇵🇹 SIC ᴴᴰ
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
+#EXTINF:-1, 🇺🇸 FOX NEWS ᴴᴰ
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1, RED BULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+#EXTINF:-1,Combate HD
+http://209.222.97.92:16493
+#EXTINF:-1,Premiere 2
+http://185.150.190.225:16464
+#EXTINF:-1,Premiere 3
+http://185.150.190.225:16468
+#EXTINF:-1,Premiere 4
+http://185.150.190.225:16472
+#EXTINF:-1,Premiere 5
+http://185.150.190.225:16476
+#EXTINF:-1,"Premiere 6
+http://185.150.190.225:16482
+#EXTINF:-1,Viva FHD
+http://199.127.60.83:16884
+#EXTINF:-1,ANIMAL PLANET SD
+http://199.127.60.83:16192
+#EXTINF:-1,CARTOONITO HD
+http://199.127.60.83:14682
+#EXTINF:-1,"CARTOONNETWORK HD
+http://199.127.60.83:14687/
+#EXTINF:-1,"FX HD
+http://199.127.60.83:16043/
+#EXTINF:-1,"A&E HD
+http://199.127.60.83:16002/
+#EXTINF:-1,AMC
+http://199.127.60.83:16004
+#EXTINF:-1,GLOBO
+http://199.127.60.83:16020
+#EXTINF:-1,SBT HD
+http://209.222.97.92:16173
+#EXTINF:-1,Globo News HD
+http://209.222.97.92:16436
+#EXTINF:-1,RedeVIVA
+http://185.150.190.225:14071
+#EXTINF:-1,FashionTV
+http://185.150.190.225:14961
+#EXTINF:-1,Globo HD
+http://15.235.55.115:14107
+#EXTINF:-1,SBT HD
+http://199.127.60.83:16170
+#EXTINF:-1,DUBAI RACING 2
+http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
+#EXTINF:-1,Music Top
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+#EXTINF:-1, TV Evangelizar | BR
+https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,GLOBO BA HD
+https://transcoder.proxy.tokplay.com.br:443/videos/REDEGLOBO/format720p_REDEGLOBO.m3u8
+#EXTINF:-1,GLOBO NSC HD
+http://191.37.250.169:8801/live/NSC/720p.m3u8
+#EXTINF:-1,RBC HD
+http://rbc.directradios.com:1935/rbc/rbc_720p/chunklist_w1402236873.m3u8
+#EXTINF:-1,REDETV TO HD
+https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
+#EXTINF:-1,TERRA VIVA HD
+http://evpp.mm.uol.com.br:1935/band_live/terraviva/chunklist_w1040118666.m3u8
+#EXTINF:-1,TV CULTURA PR HD
+https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1027478611.m3u8
+#EXTINF:-1,TVE RS FHD
+http://streaming.procergs.com.br:1935/tve/stve/chunklist_w246282235.m3u8
+#EXTINF:-1,TV GAZETA PA HD
+https://video01.kshost.com.br:4443/moises3834/moises3834/chunklist_w1759650936.m3u8
+#EXTINF:-1,COMBATE HD
+http://191.37.250.169:8801/live/CombateHD/720p.m3u8
+#EXTINF:-1,NICK HD
+http://cdn.connectbr.com.br/Nickelodeon/index.m3u8
+#EXTINF:-1,RETRÔ CARTOON SD
+https://stmv1.srvif.com:443/retrotv/retrotv/chunklist_w1171135282.m3u8
+#EXTINF:-1,CANÇÃO NOVA HD
+https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova/chunklist_w1781839972.m3u8
+#EXTINF:-1,TV EVANGELIZAR HD
+https://5f593df7851db.streamlock.net:443/evangelizar/tv/chunklist_w1362209305.m3u8
+#EXTINF:-1,TV NOVO TEMPO HD
+https://stream.live.novotempo.com:443/tv/smil:tvnovotempo.smil/chunklist_b3628000_slpor.m3u8
+#EXTINF:-1,NICK
+http://15.235.55.115:14542
+#EXTINF:-1,NICK
+http://15.235.55.115:14544
+#EXTINF:-1,TCM
+http://37.49.230.42:8080/Jhgsdf/3f140eff/8853
+#EXTINF:-1,gnt
+http://37.49.230.42:8080/Jhgsdf/3f140eff/8856
+#EXTINF:-1,Paramount
+http://37.49.230.42:8080/Jhgsdf/3f140eff/8859
+#EXTINF:-1,Food Netword
+http://37.49.230.42:8080/Jhgsdf/3f140eff/8863
+#EXTINF:-1,MEZZO
+http://37.49.230.42:8080/Jhgsdf/3f140eff/8099
+#EXTINF:-1,A&E
+http://187.95.95.243/AE/index.m3u8
+#EXTINF:-1,cNN Brasil
+https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
+#EXTINF:-1,MTV
+http://187.95.95.243/mtv/mono.m3u8
+#EXTINF:-1,AXN
+http://45.58.126.146:14299/axn
+#EXTINF:-1,Record news
+http://cdn2.connectbr.com.br:80/Record-News-HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,History
+http://cdn2.connectbr.com.br:80/History/tracks-v1a1/mono.m3u8
+#EXTINF:-1,History
+http://cdn2.connectbr.com.br/History/video.m3u8
+#EXTINF:-1,Nick
+http://cdn2.connectbr.com.br:80/Nickelodeon/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Nick
+http://cdn2.connectbr.com.br/Nickelodeon/index.m3u8
+#EXTINF:-1,Paramount
+http://cdn2.connectbr.com.br:80/paramount/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Paramount
+http://cdn2.connectbr.com.br/paramount/index.m3u8
+#EXTINF:-1,Cinecanal
+http://cdn2.connectbr.com.br:80/cinecanal/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Cinecanal
+http://cdn2.connectbr.com.br/cinecanal/index.m3u8
+#EXTINF:-1,BandNews
+http://cdn2.connectbr.com.br:80/Band-News/tracks-v1a1/mono.m3u8
+#EXTINF:-1,BandNews
+http://cdn2.connectbr.com.br/Band-News/index.m3u8
+#EXTINF:-1,BandSports
+http://cdn2.connectbr.com.br:80/Band-Sports/tracks-v1a1/mono.m3u8
+#EXTINF:-1,BandSports
+http://cdn2.connectbr.com.br/Band-Sports/index.m3u8
+#EXTINF:-1,Arte 1
+http://187.95.95.243/ArteHD/mono.m3u8
+#EXTINF:-1,H2
+http://187.95.95.247/h2/index.m3u8
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | GLOBO",GLOBO SP FHD
+http://joao-1-us.mainbkonline.shop:80/363414831673BL/363414998112/715
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | GLOBO",GLOBO RJ FHD
+http://joao-1-us.mainbkonline.shop:80/363414831673BL/363414998112/362
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E FHD" tvg-logo="https://i.imgur.com/f2pJ8uW.png" group-title="CANAIS  | FILMES E SERIES",A&E FHD
+http://joao-1-us.mainbkonline.shop:80/363414831673BL/363414998112/851
+#EXTINF:-1 tvg-id="" tvg-name="ALL SPORTS FHD" tvg-logo="https://i.imgur.com/1rVjgI3.png" group-title="CANAIS | ESPORTES",ALL SPORTS FHD
+http://joao-1-us.mainbkonline.shop:80/363414831673BL/363414998112/31745
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC FHD" tvg-logo="https://i.imgur.com/5ID1n5P.png" group-title="CANAIS  | FILMES E SERIES",AMC FHD
+http://joao-1-us.mainbkonline.shop:80/363414831673BL/363414998112/840
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET FHD" tvg-logo="https://i.imgur.com/uMpJuHE.png" group-title="CANAIS | DOCUMENTARIOS",ANIMAL PLANET FHD
+http://joao-1-us.mainbkonline.shop:80/363414831673BL/363414998112/804
+#EXTINF:-1 tvg-id="" tvg-name="ANTENA 1 FM ( RADIOS)" tvg-logo="https://i.imgur.com/LepXwRM.png" group-title="RADIOS",ANTENA 1 FM ( RADIOS)
+http://joao-1-us.mainbkonline.shop:80/363414831673BL/363414998112/177
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 FHD" tvg-logo="https://imgur.com/1dKnSXj.png" group-title="CANAIS | DOCUMENTARIOS",ARTE 1 FHD
+http://joao-1-us.mainbkonline.shop:80/363414831673BL/363414998112/876
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN FHD" tvg-logo="https://i.imgur.com/ctgIH07.png" group-title="CANAIS  | FILMES E SERIES",AXN FHD
+http://joao-1-us.mainbkonline.shop:80/363414831673BL/363414998112/835
+#EXTINF:-1 tvg-id="BabyTV.br" tvg-name="BABY TV HD" tvg-logo="https://imgur.com/i69zVaa.png" group-title="CANAIS | INFANTIL",BABY TV HD
+http://joao-1-us.mainbkonline.shop:80/363414831673BL/363414998112/448
+#EXTINF:-1 tvg-id="bandbahia.br" tvg-name="BAND BAHIA HD" tvg-logo="http://ccdnblck.xyz:80/images/0a99bf6f215e20875e74106a7c171dfb.png" group-title="CANAIS | BAND",BAND BAHIA HD
+http://joao-1-us.mainbkonline.shop:80/363414831673BL/363414998112/449
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND BSB HD" tvg-logo="https://i.imgur.com/H8G45iZ.png" group-title="CANAIS | BAND",BAND BSB HD
+http://joao-1-us.mainbkonline.shop:80/363414831673BL/363414998112/319
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND MINAS FHD" tvg-logo="http://ccdnblck.xyz:80/images/0a99bf6f215e20875e74106a7c171dfb.png" group-title="CANAIS | BAND",BAND MINAS FHD
+http://joao-1-us.mainbkonline.shop:80/363414831673BL/363414998112/311
+#EXTINF:-1 tvg-id="0" tvg-name="ABC NEWS" tvg-logo="https://i.imgur.com/AFz0ua8.png" group-title="CANAIS | NOTICIAS",ABC NEWS
+http://joao-1-us.mainbkonline.shop:80/363414831673BL/363414998112/880
+#EXTINF:-1 tvg-id="" tvg-name="BBC WORLD HD" tvg-logo="https://i.imgur.com/zEGeK1I.png" group-title="CANAIS | NOTICIAS",BBC WORLD HD
+http://joao-1-us.mainbkonline.shop:80/363414831673BL/363414998112/134
+#EXTINF:-1 tvg-id="Bishd.br" tvg-name="BIS FHD " tvg-logo="https://imgur.com/3inGYNL.png" group-title="CANAIS | VARIEDADES",BIS FHD 
+http://joao-1-us.mainbkonline.shop:80/363414831673BL/363414998112/881
+#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL FHD" tvg-logo="http://ccdnblck.xyz:80/images/bcaf2bd9da6e4565db5180e3248c118c.png" group-title="CANAIS | ABERTOS",CANAL BRASIL FHD
+http://joao-1-us.mainbkonline.shop:80/363414831673BL/363414998112/883
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY FHD" tvg-logo="https://i.imgur.com/4wYEqW6.png" group-title="CANAIS  | FILMES E SERIES",CANAL SONY FHD
+http://joao-1-us.mainbkonline.shop:80/363414831673BL/363414998112/219
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK FHD" tvg-logo="https://imgur.com/qqxY8co.png" group-title="CANAIS | INFANTIL",CARTOON NETWORK FHD
+http://joao-1-us.mainbkonline.shop:80/363414831673BL/363414998112/823
+#EXTINF:-1 tvg-id="Recordrio.br" tvg-name="RECORD TV RJ FHD" tvg-logo="https://i.imgur.com/CVqgeup.png" group-title="CANAIS | RECORD",RECORD TV RJ FHD
+http://joao-1-us.mainbkonline.shop:80/363414831673BL/363414998112/87102
+#EXTINF:-1 tvg-id="Recordrio.br" tvg-name="RECORD TV RJ HD" tvg-logo="https://i.imgur.com/CVqgeup.png" group-title="CANAIS | RECORD",RECORD TV RJ HD
+http://joao-1-us.mainbkonline.shop:80/363414831673BL/363414998112/345
+#EXTINF:-1 tvg-id="Recordrio.br" tvg-name="RECORD TV RJ SD" tvg-logo="https://i.imgur.com/CVqgeup.png" group-title="CANAIS | RECORD",RECORD TV RJ SD
+http://joao-1-us.mainbkonline.shop:80/363414831673BL/363414998112/76666
