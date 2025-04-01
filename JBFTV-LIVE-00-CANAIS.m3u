@@ -1,0 +1,252 @@
+#EXTM3U url-tvg="https://raw.github.com/Neywerson/GuideTV/BR2/mi.tv_br.xml.gz"
+
+# Created with ❤️ by Neywerson
+# Site: https://github.com/Neywerson
+# Last Update: 20-11-2323 23:45:23
+
+#EXTINF:-1 tvg-id="TV Globo Rio de Janeiro" tvg-logo="https://https://avatars.githubusercontent.com/u/25643032?v=4" group-title="REDE GLOBO", TV Globo Rio de Janeiro - Rio de Janeiro
+http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=-22.9068&long=-43.1729
+#EXTINF:-1 tvg-id="TV Globo São Paulo" tvg-logo="https://https://avatars.githubusercontent.com/u/25643032?v=4" group-title="REDE GLOBO", TV Globo São Paulo - São Paulo
+http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=-23.5505&long=-46.6333
+#EXTINF:-1 tvg-id="TV Globo Minas" tvg-logo="https://https://avatars.githubusercontent.com/u/25643032?v=4" group-title="REDE GLOBO", TV Globo Minas - Belo Horizonte
+http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=-19.8157&long=-43.9542
+#EXTINF:-1 tvg-id="TV Globo Brasília" tvg-logo="https://https://avatars.githubusercontent.com/u/25643032?v=4" group-title="REDE GLOBO", TV Globo Brasília - Brasília
+http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=-15.7801&long=-47.9292
+#EXTINF:-1 tvg-id="TV Globo Pernambuco" tvg-logo="https://https://avatars.githubusercontent.com/u/25643032?v=4" group-title="REDE GLOBO", TV Globo Pernambuco - Recife
+http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=-8.0476&long=-34.8770
+#EXTINF:-1 tvg-id="Rede Amazônica Rio Branco" tvg-logo="https://https://avatars.githubusercontent.com/u/25643032?v=4" group-title="REDE GLOBO", Rede Amazônica Rio Branco - Rio Branco
+http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=-9.0238&long=-67.9068
+#EXTINF:-1 tvg-id="Rede Amazônica Cruzeiro do Sul" tvg-logo="https://https://avatars.githubusercontent.com/u/25643032?v=4" group-title="REDE GLOBO", Rede Amazônica Cruzeiro do Sul - Cruzeiro do Sul
+http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=-7.6296&long=-72.6825
+#EXTINF:-1 tvg-id="TV Gazeta de Alagoas" tvg-logo="https://https://avatars.githubusercontent.com/u/25643032?v=4" group-title="REDE GLOBO", TV Gazeta de Alagoas - Maceió
+http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=-9.6658&long=-35.7350
+#EXTINF:-1 tvg-id="Rede Amazônica Macapá" tvg-logo="https://https://avatars.githubusercontent.com/u/25643032?v=4" group-title="REDE GLOBO", Rede Amazônica Macapá - Macapá
+http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=0.0355&long=-51.0736
+#EXTINF:-1 tvg-id="Rede Amazônica Manaus" tvg-logo="https://https://avatars.githubusercontent.com/u/25643032?v=4" group-title="REDE GLOBO", Rede Amazônica Manaus - Manaus
+http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=-3.1190&long=-60.2406
+#EXTINF:-1 tvg-id="Rede Amazônica Parintins" tvg-logo="https://https://avatars.githubusercontent.com/u/25643032?v=4" group-title="REDE GLOBO", Rede Amazônica Parintins - Parintins
+http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=-2.6292&long=-56.7402
+#EXTINF:-1 tvg-id="Rede Amazônica Itacoatiara" tvg-logo="https://https://avatars.githubusercontent.com/u/25643032?v=4" group-title="REDE GLOBO", Rede Amazônica Itacoatiara - Itacoatiara
+http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=-3.1343&long=-58.4456
+#EXTINF:-1 tvg-id="Rede Amazônica Humaitá" tvg-logo="https://https://avatars.githubusercontent.com/u/25643032?v=4" group-title="REDE GLOBO", Rede Amazônica Humaitá - Humaitá
+http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=-7.5072&long=-64.2161
+#EXTINF:-1 tvg-id="Rede Amazônica Manacapuru" tvg-logo="https://https://avatars.githubusercontent.com/u/25643032?v=4" group-title="REDE GLOBO", Rede Amazônica Manacapuru - Manacapuru
+http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=-3.2664&long=-60.6345
+#EXTINF:-1 tvg-id="Rede Amazônica Coari" tvg-logo="https://https://avatars.githubusercontent.com/u/25643032?v=4" group-title="REDE GLOBO", Rede Amazônica Coari - Coari
+http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=-4.0893&long=-63.1337
+#EXTINF:-1 tvg-id="TV Bahia" tvg-logo="https://https://avatars.githubusercontent.com/u/25643032?v=4" group-title="REDE GLOBO", TV Bahia - Salvador
+http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=-12.9714&long=-38.5014
+#EXTINF:-1 tvg-id="TV Sudoeste" tvg-logo="https://https://avatars.githubusercontent.com/u/25643032?v=4" group-title="REDE GLOBO", TV Sudoeste - Vitória da Conquista
+http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=-14.8666&long=-40.8400
+#EXTINF:-1 tvg-id="TV São Francisco" tvg-logo="https://https://avatars.githubusercontent.com/u/25643032?v=4" group-title="REDE GLOBO", TV São Francisco - Juazeiro
+http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=-9.4280&long=-40.5037
+#EXTINF:-1 tvg-id="TV Oeste" tvg-logo="https://https://avatars.githubusercontent.com/u/25643032?v=4" group-title="REDE GLOBO", TV Oeste - Barreiras
+http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=-12.1506&long=-44.3327
+#EXTINF:-1 tvg-id="TV Santa Cruz" tvg-logo="https://https://avatars.githubusercontent.com/u/25643032?v=4" group-title="REDE GLOBO", TV Santa Cruz - Itabuna
+http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=-14.7874&long=-39.2777
+#EXTINF:-1 tvg-id="TV Subaé" tvg-logo="https://https://avatars.githubusercontent.com/u/25643032?v=4" group-title="REDE GLOBO", TV Subaé - Feira de Santana
+http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=-12.2703&long=-38.9674
+#EXTINF:-1 tvg-id="TV Verdes Mares" tvg-logo="https://https://avatars.githubusercontent.com/u/25643032?v=4" group-title="REDE GLOBO", TV Verdes Mares - Fortaleza
+http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=-3.7172&long=-38.5437
+#EXTINF:-1 tvg-id="TV Verdes Mares Cariri" tvg-logo="https://https://avatars.githubusercontent.com/u/25643032?v=4" group-title="REDE GLOBO", TV Verdes Mares Cariri - Juazeiro do Norte
+http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=-7.2156&long=-39.3196
+#EXTINF:-1 tvg-id="TV Gazeta Vitória" tvg-logo="https://https://avatars.githubusercontent.com/u/25643032?v=4" group-title="REDE GLOBO", TV Gazeta Vitória - Vitória
+http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=-20.3155&long=-40.3128
+#EXTINF:-1 tvg-id="TV Gazeta Norte" tvg-logo="https://https://avatars.githubusercontent.com/u/25643032?v=4" group-title="REDE GLOBO", TV Gazeta Norte - Linhares
+http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=-19.3912&long=-40.0714
+#EXTINF:-1 tvg-id="TV Gazeta Sul" tvg-logo="https://https://avatars.githubusercontent.com/u/25643032?v=4" group-title="REDE GLOBO", TV Gazeta Sul - Cachoeiro de Itapemirim
+http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=-20.8366&long=-41.1265
+#EXTINF:-1 tvg-id="TV Gazeta Noroeste" tvg-logo="https://https://avatars.githubusercontent.com/u/25643032?v=4" group-title="REDE GLOBO", TV Gazeta Noroeste - Colatina
+http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=-19.5442&long=-40.6182
+#EXTINF:-1 tvg-id="TV Anhanguera Goiânia" tvg-logo="https://https://avatars.githubusercontent.com/u/25643032?v=4" group-title="REDE GLOBO", TV Anhanguera Goiânia - Goiânia
+http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=-16.6864&long=-49.2643
+#EXTINF:-1 tvg-id="TV Anhanguera Anápolis" tvg-logo="https://https://avatars.githubusercontent.com/u/25643032?v=4" group-title="REDE GLOBO", TV Anhanguera Anápolis - Anápolis
+http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=-16.3258&long=-48.9517
+#EXTINF:-1 tvg-id="TV Anhanguera Catalão" tvg-logo="https://https://avatars.githubusercontent.com/u/25643032?v=4" group-title="REDE GLOBO", TV Anhanguera Catalão - Catalão
+http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=-18.5857&long=-47.9336
+#EXTINF:-1 tvg-id="TV Anhanguera Itumbiara" tvg-logo="https://https://avatars.githubusercontent.com/u/25643032?v=4" group-title="REDE GLOBO", TV Anhanguera Itumbiara - Itumbiara
+http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=-18.4189&long=-49.2089
+#EXTINF:-1 tvg-id="TV Anhanguera Jataí" tvg-logo="https://https://avatars.githubusercontent.com/u/25643032?v=4" group-title="REDE GLOBO", TV Anhanguera Jataí - Jataí
+http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=-17.8723&long=-51.7110
+#EXTINF:-1 tvg-id="TV Anhanguera Luziânia" tvg-logo="https://https://avatars.githubusercontent.com/u/25643032?v=4" group-title="REDE GLOBO", TV Anhanguera Luziânia - Luziânia
+http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=-16.2565&long=-47.9819
+#EXTINF:-1 tvg-id="TV Anhanguera Porangatu" tvg-logo="https://https://avatars.githubusercontent.com/u/25643032?v=4" group-title="REDE GLOBO", TV Anhanguera Porangatu - Porangatu
+http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=-13.4091&long=-49.1672
+#EXTINF:-1 tvg-id="TV Anhanguera Rio Verde" tvg-logo="https://https://avatars.githubusercontent.com/u/25643032?v=4" group-title="REDE GLOBO", TV Anhanguera Rio Verde - Rio Verde
+http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=-17.7872&long=-50.9147
+#EXTINF:-1 tvg-id="TV Mirante São Luís" tvg-logo="https://https://avatars.githubusercontent.com/u/25643032?v=4" group-title="REDE GLOBO", TV Mirante São Luís - São Luís
+http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=-2.5395&long=-44.2820
+#EXTINF:-1 tvg-id="TV Mirante Imperatriz" tvg-logo="https://https://avatars.githubusercontent.com/u/25643032?v=4" group-title="REDE GLOBO", TV Mirante Imperatriz - Imperatriz
+http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=-5.5267&long=-47.4804
+#EXTINF:-1 tvg-id="TV Mirante Cocais" tvg-logo="https://https://avatars.githubusercontent.com/u/25643032?v=4" group-title="REDE GLOBO", TV Mirante Cocais - Caxias / Codó
+http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=-4.8599&long=-43.3505
+#EXTINF:-1 tvg-id="TV Mirante Balsas" tvg-logo="https://https://avatars.githubusercontent.com/u/25643032?v=4" group-title="REDE GLOBO", TV Mirante Balsas - Balsas
+http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=-7.5293&long=-46.0127
+#EXTINF:-1 tvg-id="TV Centro América" tvg-logo="https://https://avatars.githubusercontent.com/u/25643032?v=4" group-title="REDE GLOBO", TV Centro América - Cuiabá
+http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=-15.6010&long=-56.0970
+#EXTINF:-1 tvg-id="TV Centro América Sul" tvg-logo="https://https://avatars.githubusercontent.com/u/25643032?v=4" group-title="REDE GLOBO", TV Centro América Sul - Rondonópolis
+http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=-16.4692&long=-54.6408
+#EXTINF:-1 tvg-id="TV Centro América Norte" tvg-logo="https://https://avatars.githubusercontent.com/u/25643032?v=4" group-title="REDE GLOBO", TV Centro América Norte - Sinop
+http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=-11.8607&long=-55.5089
+#EXTINF:-1 tvg-id="TV Centro América Tangará da Serra" tvg-logo="https://https://avatars.githubusercontent.com/u/25643032?v=4" group-title="REDE GLOBO", TV Centro América Tangará da Serra - Tangará da Serra
+http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=-14.6196&long=-56.4632
+#EXTINF:-1 tvg-id="TV Morena" tvg-logo="https://https://avatars.githubusercontent.com/u/25643032?v=4" group-title="REDE GLOBO", TV Morena - Campo Grande
+http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=-20.4697&long=-54.6201
+#EXTINF:-1 tvg-id="TV Morena Corumbá" tvg-logo="https://https://avatars.githubusercontent.com/u/25643032?v=4" group-title="REDE GLOBO", TV Morena Corumbá - Corumbá
+http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=-19.0082&long=-57.6494
+#EXTINF:-1 tvg-id="TV Morena Ponta Porã" tvg-logo="https://https://avatars.githubusercontent.com/u/25643032?v=4" group-title="REDE GLOBO", TV Morena Ponta Porã - Ponta Porã
+http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=-22.5385&long=-55.7181
+#EXTINF:-1 tvg-id="TV Integração Uberlândia" tvg-logo="https://https://avatars.githubusercontent.com/u/25643032?v=4" group-title="REDE GLOBO", TV Integração Uberlândia - Uberlândia
+http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=-18.9185&long=-48.2753
+#EXTINF:-1 tvg-id="TV Integração Ituiutaba" tvg-logo="https://https://avatars.githubusercontent.com/u/25643032?v=4" group-title="REDE GLOBO", TV Integração Ituiutaba - Ituiutaba
+http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=-18.9493&long=-49.4532
+#EXTINF:-1 tvg-id="TV Integração Araxá" tvg-logo="https://https://avatars.githubusercontent.com/u/25643032?v=4" group-title="REDE GLOBO", TV Integração Araxá - Divinópolis / Araxá
+http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=-19.5956&long=-46.9449
+#EXTINF:-1 tvg-id="TV Integração Juiz de Fora" tvg-logo="https://https://avatars.githubusercontent.com/u/25643032?v=4" group-title="REDE GLOBO", TV Integração Juiz de Fora - Juiz de Fora
+http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=-21.7643&long=-43.3494
+#EXTINF:-1 tvg-id="TV Integração Uberaba" tvg-logo="https://https://avatars.githubusercontent.com/u/25643032?v=4" group-title="REDE GLOBO", TV Integração Uberaba - Uberaba
+http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=-19.7463&long=-47.9334
+#EXTINF:-1 tvg-id="EPTV Sul de Minas" tvg-logo="https://https://avatars.githubusercontent.com/u/25643032?v=4" group-title="REDE GLOBO", EPTV Sul de Minas - Varginha
+http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=-21.5612&long=-45.4399
+#EXTINF:-1 tvg-id="InterTV Grande Minas" tvg-logo="https://https://avatars.githubusercontent.com/u/25643032?v=4" group-title="REDE GLOBO", InterTV Grande Minas - Montes Claros
+http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=-16.7243&long=-43.8642
+#EXTINF:-1 tvg-id="InterTV dos Vales" tvg-logo="https://https://avatars.githubusercontent.com/u/25643032?v=4" group-title="REDE GLOBO", InterTV dos Vales - Governador Valadares / Coronel Fabriciano
+http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=-18.8510&long=-41.9484
+#EXTINF:-1 tvg-id="TV Liberal Belém" tvg-logo="https://https://avatars.githubusercontent.com/u/25643032?v=4" group-title="REDE GLOBO", TV Liberal Belém - Belém
+http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=-1.4558&long=-48.4902
+#EXTINF:-1 tvg-id="TV Liberal Altamira" tvg-logo="https://https://avatars.githubusercontent.com/u/25643032?v=4" group-title="REDE GLOBO", TV Liberal Altamira - Altamira
+http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=-3.2674&long=-52.2079
+#EXTINF:-1 tvg-id="TV Liberal Castanhal" tvg-logo="https://https://avatars.githubusercontent.com/u/25643032?v=4" group-title="REDE GLOBO", TV Liberal Castanhal - Castanhal
+http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=-2.7047&long=-47.9374
+#EXTINF:-1 tvg-id="TV Liberal Marabá" tvg-logo="https://https://avatars.githubusercontent.com/u/25643032?v=4" group-title="REDE GLOBO", TV Liberal Marabá - Marabá
+http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=-5.3805&long=-49.1311
+#EXTINF:-1 tvg-id="TV Liberal Paragominas" tvg-logo="https://https://avatars.githubusercontent.com/u/25643032?v=4" group-title="REDE GLOBO", TV Liberal Paragominas - Paragominas
+http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=-5.3794&long=-47.4904
+#EXTINF:-1 tvg-id="TV Liberal Parauapebas" tvg-logo="https://https://avatars.githubusercontent.com/u/25643032?v=4" group-title="REDE GLOBO", TV Liberal Parauapebas - Parauapebas
+http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=-6.0529&long=-49.8934
+#EXTINF:-1 tvg-id="TV Liberal Redenção" tvg-logo="https://https://avatars.githubusercontent.com/u/25643032?v=4" group-title="REDE GLOBO", TV Liberal Redenção - Redenção
+http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=-8.0661&long=-50.3180
+#EXTINF:-1 tvg-id="TV Tapajós" tvg-logo="https://https://avatars.githubusercontent.com/u/25643032?v=4" group-title="REDE GLOBO", TV Tapajós - Santarém
+http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=-2.4381&long=-54.7114
+#EXTINF:-1 tvg-id="TV Cabo Branco" tvg-logo="https://https://avatars.githubusercontent.com/u/25643032?v=4" group-title="REDE GLOBO", TV Cabo Branco - João Pessoa
+http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=-7.1157&long=-34.8610
+#EXTINF:-1 tvg-id="TV Paraíba" tvg-logo="https://https://avatars.githubusercontent.com/u/25643032?v=4" group-title="REDE GLOBO", TV Paraíba - Campina Grande
+http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=-7.2255&long=-35.8764
+#EXTINF:-1 tvg-id="RPC Curitiba" tvg-logo="https://https://avatars.githubusercontent.com/u/25643032?v=4" group-title="REDE GLOBO", RPC Curitiba - Curitiba
+http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=-25.4296&long=-49.2715
+#EXTINF:-1 tvg-id="RPC Londrina" tvg-logo="https://https://avatars.githubusercontent.com/u/25643032?v=4" group-title="REDE GLOBO", RPC Londrina - Londrina
+http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=-23.3040&long=-50.1689
+#EXTINF:-1 tvg-id="RPC Maringá" tvg-logo="https://https://avatars.githubusercontent.com/u/25643032?v=4" group-title="REDE GLOBO", RPC Maringá - Maringá
+http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=-23.4209&long=-51.9303
+#EXTINF:-1 tvg-id="RPC Ponta Grossa" tvg-logo="https://https://avatars.githubusercontent.com/u/25643032?v=4" group-title="REDE GLOBO", RPC Ponta Grossa - Ponta Grossa
+http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=-25.0915&long=-50.1506
+#EXTINF:-1 tvg-id="RPC Guarapuava" tvg-logo="https://https://avatars.githubusercontent.com/u/25643032?v=4" group-title="REDE GLOBO", RPC Guarapuava - Guarapuava
+http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=-25.3911&long=-51.4581
+#EXTINF:-1 tvg-id="RPC Paranavaí" tvg-logo="https://https://avatars.githubusercontent.com/u/25643032?v=4" group-title="REDE GLOBO", RPC Paranavaí - Paranavaí
+http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=-23.0824&long=-52.4663
+#EXTINF:-1 tvg-id="RPC Foz do Iguaçu" tvg-logo="https://https://avatars.githubusercontent.com/u/25643032?v=4" group-title="REDE GLOBO", RPC Foz do Iguaçu - Foz do Iguaçu
+http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=-25.5474&long=-54.5884
+#EXTINF:-1 tvg-id="RPC Cascavel" tvg-logo="https://https://avatars.githubusercontent.com/u/25643032?v=4" group-title="REDE GLOBO", RPC Cascavel - Cascavel
+http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=-24.9553&long=-53.4581
+#EXTINF:-1 tvg-id="TV Asa Branca" tvg-logo="https://https://avatars.githubusercontent.com/u/25643032?v=4" group-title="REDE GLOBO", TV Asa Branca - Caruaru
+http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=-8.2805&long=-36.0049
+#EXTINF:-1 tvg-id="TV Grande Rio" tvg-logo="https://https://avatars.githubusercontent.com/u/25643032?v=4" group-title="REDE GLOBO", TV Grande Rio - Petrolina
+http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=-9.3906&long=-40.5021
+#EXTINF:-1 tvg-id="TV Clube" tvg-logo="https://https://avatars.githubusercontent.com/u/25643032?v=4" group-title="REDE GLOBO", TV Clube - Teresina
+http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=-5.0910&long=-42.8034
+#EXTINF:-1 tvg-id="TV Alvorada" tvg-logo="https://https://avatars.githubusercontent.com/u/25643032?v=4" group-title="REDE GLOBO", TV Alvorada - Floriano
+http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=-6.7700&long=-43.0296
+#EXTINF:-1 tvg-id="InterTV Alto Litoral" tvg-logo="https://https://avatars.githubusercontent.com/u/25643032?v=4" group-title="REDE GLOBO", InterTV Alto Litoral - Cabo Frio
+http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=-22.8834&long=-42.0207
+#EXTINF:-1 tvg-id="InterTV Serra+Mar" tvg-logo="https://https://avatars.githubusercontent.com/u/25643032?v=4" group-title="REDE GLOBO", InterTV Serra+Mar - Nova Friburgo
+http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=-22.2852&long=-42.5367
+#EXTINF:-1 tvg-id="InterTV Planície" tvg-logo="https://https://avatars.githubusercontent.com/u/25643032?v=4" group-title="REDE GLOBO", InterTV Planície - Campos dos Goytacazes
+http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=-21.7625&long=-41.3184
+#EXTINF:-1 tvg-id="TV Rio Sul" tvg-logo="https://https://avatars.githubusercontent.com/u/25643032?v=4" group-title="REDE GLOBO", TV Rio Sul - Resende
+http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=-22.4652&long=-44.4380
+#EXTINF:-1 tvg-id="InterTV Cabugi" tvg-logo="https://https://avatars.githubusercontent.com/u/25643032?v=4" group-title="REDE GLOBO", InterTV Cabugi - Natal
+http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=-5.7945&long=-35.2110
+#EXTINF:-1 tvg-id="InterTV Costa Branca" tvg-logo="https://https://avatars.githubusercontent.com/u/25643032?v=4" group-title="REDE GLOBO", InterTV Costa Branca - Mossoró
+http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=-5.1891&long=-37.3435
+#EXTINF:-1 tvg-id="RBS TV Porto Alegre" tvg-logo="https://https://avatars.githubusercontent.com/u/25643032?v=4" group-title="REDE GLOBO", RBS TV Porto Alegre - Porto Alegre
+http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=-30.0346&long=-51.2177
+#EXTINF:-1 tvg-id="RBS TV Bagé" tvg-logo="https://https://avatars.githubusercontent.com/u/25643032?v=4" group-title="REDE GLOBO", RBS TV Bagé - Bagé
+http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=-31.3247&long=-54.1073
+#EXTINF:-1 tvg-id="RBS TV Caxias do Sul" tvg-logo="https://https://avatars.githubusercontent.com/u/25643032?v=4" group-title="REDE GLOBO", RBS TV Caxias do Sul - Caxias do Sul
+http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=-29.1688&long=-51.1796
+#EXTINF:-1 tvg-id="RBS TV Cruz Alta" tvg-logo="https://https://avatars.githubusercontent.com/u/25643032?v=4" group-title="REDE GLOBO", RBS TV Cruz Alta - Cruz Alta
+http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=-28.6339&long=-53.9633
+#EXTINF:-1 tvg-id="RBS TV Erechim" tvg-logo="https://https://avatars.githubusercontent.com/u/25643032?v=4" group-title="REDE GLOBO", RBS TV Erechim - Erechim
+http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=-27.6477&long=-52.2759
+#EXTINF:-1 tvg-id="RBS TV Passo Fundo" tvg-logo="https://https://avatars.githubusercontent.com/u/25643032?v=4" group-title="REDE GLOBO", RBS TV Passo Fundo - Passo Fundo
+http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=-28.2583&long=-52.4096
+#EXTINF:-1 tvg-id="RBS TV Pelotas" tvg-logo="https://https://avatars.githubusercontent.com/u/25643032?v=4" group-title="REDE GLOBO", RBS TV Pelotas - Pelotas
+http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=-31.7747&long=-52.3403
+#EXTINF:-1 tvg-id="RBS TV Rio Grande" tvg-logo="https://https://avatars.githubusercontent.com/u/25643032?v=4" group-title="REDE GLOBO", RBS TV Rio Grande - Rio Grande
+http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=-32.0339&long=-52.0954
+#EXTINF:-1 tvg-id="RBS TV dos Vales" tvg-logo="https://https://avatars.githubusercontent.com/u/25643032?v=4" group-title="REDE GLOBO", RBS TV dos Vales - Santa Cruz do Sul
+http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=-29.7117&long=-52.4232
+#EXTINF:-1 tvg-id="RBS TV Santa Maria" tvg-logo="https://https://avatars.githubusercontent.com/u/25643032?v=4" group-title="REDE GLOBO", RBS TV Santa Maria - Santa Maria
+http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=-29.6861&long=-53.8051
+#EXTINF:-1 tvg-id="RBS TV Santa Rosa" tvg-logo="https://https://avatars.githubusercontent.com/u/25643032?v=4" group-title="REDE GLOBO", RBS TV Santa Rosa - Santa Rosa
+http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=-27.9077&long=-54.5121
+#EXTINF:-1 tvg-id="RBS TV Uruguaiana" tvg-logo="https://https://avatars.githubusercontent.com/u/25643032?v=4" group-title="REDE GLOBO", RBS TV Uruguaiana - Uruguaiana
+http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=-29.7631&long=-57.0899
+#EXTINF:-1 tvg-id="Rede Amazônica Porto Velho" tvg-logo="https://https://avatars.githubusercontent.com/u/25643032?v=4" group-title="REDE GLOBO", Rede Amazônica Porto Velho - Porto Velho
+http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=-8.7615&long=-63.8991
+#EXTINF:-1 tvg-id="Rede Amazônica Ariquemes" tvg-logo="https://https://avatars.githubusercontent.com/u/25643032?v=4" group-title="REDE GLOBO", Rede Amazônica Ariquemes - Ariquemes
+http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=-9.9056&long=-63.0247
+#EXTINF:-1 tvg-id="Rede Amazônica Cacoal" tvg-logo="https://https://avatars.githubusercontent.com/u/25643032?v=4" group-title="REDE GLOBO", Rede Amazônica Cacoal - Cacoal
+http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=-11.4410&long=-61.4483
+#EXTINF:-1 tvg-id="Rede Amazônica Ji-Paraná" tvg-logo="https://https://avatars.githubusercontent.com/u/25643032?v=4" group-title="REDE GLOBO", Rede Amazônica Ji-Paraná - Ji-Paraná
+http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=-10.8964&long=-61.9245
+#EXTINF:-1 tvg-id="Rede Amazônica Vilhena" tvg-logo="https://https://avatars.githubusercontent.com/u/25643032?v=4" group-title="REDE GLOBO", Rede Amazônica Vilhena - Vilhena
+http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=-12.7331&long=-60.1393
+#EXTINF:-1 tvg-id="Rede Amazônica Boa Vista" tvg-logo="https://https://avatars.githubusercontent.com/u/25643032?v=4" group-title="REDE GLOBO", Rede Amazônica Boa Vista - Boa Vista
+http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=2.8192&long=-60.6738
+#EXTINF:-1 tvg-id="Rede Amazônica Rorainópolis" tvg-logo="https://https://avatars.githubusercontent.com/u/25643032?v=4" group-title="REDE GLOBO", Rede Amazônica Rorainópolis - Rorainópolis
+http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=1.9535&long=-60.2631
+#EXTINF:-1 tvg-id="NSC TV Florianópolis" tvg-logo="https://https://avatars.githubusercontent.com/u/25643032?v=4" group-title="REDE GLOBO", NSC TV Florianópolis - Florianópolis
+http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=-27.5954&long=-48.5480
+#EXTINF:-1 tvg-id="NSC TV Blumenau" tvg-logo="https://https://avatars.githubusercontent.com/u/25643032?v=4" group-title="REDE GLOBO", NSC TV Blumenau - Blumenau
+http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=-26.9180&long=-49.0706
+#EXTINF:-1 tvg-id="NSC TV Centro-Oeste" tvg-logo="https://https://avatars.githubusercontent.com/u/25643032?v=4" group-title="REDE GLOBO", NSC TV Centro-Oeste - Joaçaba
+http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=-27.1882&long=-51.5059
+#EXTINF:-1 tvg-id="NSC TV Chapecó" tvg-logo="https://https://avatars.githubusercontent.com/u/25643032?v=4" group-title="REDE GLOBO", NSC TV Chapecó - Chapecó
+http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=-27.0976&long=-52.6195
+#EXTINF:-1 tvg-id="NSC TV Criciúma" tvg-logo="https://https://avatars.githubusercontent.com/u/25643032?v=4" group-title="REDE GLOBO", NSC TV Criciúma - Criciúma
+http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=-28.6725&long=-49.3700
+#EXTINF:-1 tvg-id="NSC TV Joinville" tvg-logo="https://https://avatars.githubusercontent.com/u/25643032?v=4" group-title="REDE GLOBO", NSC TV Joinville - Joinville
+http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=-26.3044&long=-48.8456
+#EXTINF:-1 tvg-id="TV Diário" tvg-logo="https://https://avatars.githubusercontent.com/u/25643032?v=4" group-title="REDE GLOBO", TV Diário - Mogi das Cruzes
+http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=-23.4820&long=-46.1860
+#EXTINF:-1 tvg-id="EPTV Campinas" tvg-logo="https://https://avatars.githubusercontent.com/u/25643032?v=4" group-title="REDE GLOBO", EPTV Campinas - Campinas
+http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=-23.1858&long=-46.8978
+#EXTINF:-1 tvg-id="EPTV Central" tvg-logo="https://https://avatars.githubusercontent.com/u/25643032?v=4" group-title="REDE GLOBO", EPTV Central - São Carlos
+http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=-22.0042&long=-47.8982
+#EXTINF:-1 tvg-id="EPTV Ribeirão" tvg-logo="https://https://avatars.githubusercontent.com/u/25643032?v=4" group-title="REDE GLOBO", EPTV Ribeirão - Ribeirão Preto
+http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=-21.1771&long=-47.8091
+#EXTINF:-1 tvg-id="TV Fronteira Paulista" tvg-logo="https://https://avatars.githubusercontent.com/u/25643032?v=4" group-title="REDE GLOBO", TV Fronteira Paulista - Presidente Prudente
+http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=-22.0407&long=-51.3956
+#EXTINF:-1 tvg-id="TV TEM Bauru" tvg-logo="https://https://avatars.githubusercontent.com/u/25643032?v=4" group-title="REDE GLOBO", TV TEM Bauru - Bauru
+http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=-22.3147&long=-49.0603
+#EXTINF:-1 tvg-id="TV TEM Itapetininga" tvg-logo="https://https://avatars.githubusercontent.com/u/25643032?v=4" group-title="REDE GLOBO", TV TEM Itapetininga - Itapetininga
+http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=-23.1890&long=-47.5147
+#EXTINF:-1 tvg-id="TV TEM São José do Rio Preto" tvg-logo="https://https://avatars.githubusercontent.com/u/25643032?v=4" group-title="REDE GLOBO", TV TEM São José do Rio Preto - São José do Rio Preto
+http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=-20.8143&long=-49.3790
+#EXTINF:-1 tvg-id="TV TEM Sorocaba" tvg-logo="https://https://avatars.githubusercontent.com/u/25643032?v=4" group-title="REDE GLOBO", TV TEM Sorocaba - Sorocaba
+http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=-23.5013&long=-47.4582
+#EXTINF:-1 tvg-id="TV Tribuna" tvg-logo="https://https://avatars.githubusercontent.com/u/25643032?v=4" group-title="REDE GLOBO", TV Tribuna - Santos
+http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=-23.9660&long=-46.3344
+#EXTINF:-1 tvg-id="TV Vanguarda São José dos Campos" tvg-logo="https://https://avatars.githubusercontent.com/u/25643032?v=4" group-title="REDE GLOBO", TV Vanguarda São José dos Campos - São José dos Campos
+http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=-23.1896&long=-45.9009
+#EXTINF:-1 tvg-id="TV Vanguarda Taubaté" tvg-logo="https://https://avatars.githubusercontent.com/u/25643032?v=4" group-title="REDE GLOBO", TV Vanguarda Taubaté - Taubaté
+http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=-23.0196&long=-45.5967
+#EXTINF:-1 tvg-id="TV Sergipe" tvg-logo="https://https://avatars.githubusercontent.com/u/25643032?v=4" group-title="REDE GLOBO", TV Sergipe - Aracaju
+http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=-10.9472&long=-37.0737
+#EXTINF:-1 tvg-id="TV Anhanguera Palmas" tvg-logo="https://https://avatars.githubusercontent.com/u/25643032?v=4" group-title="REDE GLOBO", TV Anhanguera Palmas - Palmas
+http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=-10.1901&long=-48.3345
+#EXTINF:-1 tvg-id="TV Anhanguera Araguaína" tvg-logo="https://https://avatars.githubusercontent.com/u/25643032?v=4" group-title="REDE GLOBO", TV Anhanguera Araguaína - Araguaína
+http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=-7.1904&long=-48.2085
+#EXTINF:-1 tvg-id="TV Anhanguera Gurupi" tvg-logo="https://https://avatars.githubusercontent.com/u/25643032?v=4" group-title="REDE GLOBO", TV Anhanguera Gurupi - Gurupi
+http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=-12.7369&long=-49.0700
