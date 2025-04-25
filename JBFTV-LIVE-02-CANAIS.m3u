@@ -1,4 +1,5 @@
 #EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_13"
 #EXTINF:-1 tvg-id="" tvg-name="CUTIX.CLICK" tvg-logo="https://bit.ly/Logo-tv" group-title="Info | CUTIX.CLIC",CUTIX.CLIC
 http://i.imgur.com/Q0NmkH0.mp4
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png" group-title="BEIN SPORTS",BEIN SPORTS 1
