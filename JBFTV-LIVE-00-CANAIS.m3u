@@ -4,6 +4,8 @@
 # Site: https://github.com/Neywerson
 # Last Update: 20-11-2323 23:45:23
 
+#EXTINF:-1 tvg-id="" tvg-name="REVENDAPRO.ZAPTO" tvg-logo="https://bit.ly/Logo-tv" group-title="Info | REVENDAPRO.ZAPTO",REVENDAPRO.ZAPTO
+http://i.imgur.com/Q0NmkH0.mp4
 #EXTINF:-1 tvg-id="TV Globo Rio de Janeiro" tvg-logo="https://https://avatars.githubusercontent.com/u/25643032?v=4" group-title="REDE GLOBO", TV Globo Rio de Janeiro - Rio de Janeiro
 http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=-22.9068&long=-43.1729
 #EXTINF:-1 tvg-id="TV Globo São Paulo" tvg-logo="https://https://avatars.githubusercontent.com/u/25643032?v=4" group-title="REDE GLOBO", TV Globo São Paulo - São Paulo
