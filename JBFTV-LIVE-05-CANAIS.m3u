@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="CDN4K.WIKI" tvg-logo="https://bit.ly/Logo-tv" group-title="Info | CDN4K.WIKI",CDN4K.WIKI
+http://i.imgur.com/Q0NmkH0.mp4
 #EXTINF:-1 tvg-id="CNN BRASIL" tvg-name="CNN Brasil Money FHD" tvg-logo="https://fivetv.xyz/logos/cnn.png" group-title="Noticias",CNN Brasil Money FHD
 http://cdn4k.wiki:80/live/AugustoRodrigues21/AugRod982/267415.m3u8
 #EXTINF:-1 tvg-id="Canaldoboi.br" tvg-name="Canal do Boi FHD" tvg-logo="http://fivetv.xyz/logos/canaldoboi.png" group-title="Abertos",Canal do Boi FHD
