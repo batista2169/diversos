@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="CUTIX.CLICK" tvg-logo="https://bit.ly/Logo-tv" group-title="Info | CUTIX.CLIC",CUTIX.CLIC
+http://i.imgur.com/Q0NmkH0.mp4
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png" group-title="BEIN SPORTS",BEIN SPORTS 1
 http://cutix.click:80/live/Tourobox1-6Je0UzDYEU/XBrIy8xGxa/901.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png" group-title="BEIN SPORTS",BEIN SPORTS 2
