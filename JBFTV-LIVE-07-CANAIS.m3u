@@ -1,5 +1,7 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
+#EXTINF:-1 tvg-id="" tvg-name="SIGCINE1" tvg-logo="https://bit.ly/Logo-tv" group-title="Info | SIGCINE1",SIGCINE1
+http://i.imgur.com/Q0NmkH0.mp4
 #EXTINF:-1 tvg-id="" tvg-name="+ FAMILIA HD" tvg-logo="" group-title="Canais | Variedades",+ FAMILIA HD
 http://sigcine1.space:80/437934519/854894523/231.m3u8
 #EXTINF:-1 tvg-id="A.Guarda.do.Leao.24H" tvg-name="A Guarda do Leão 24H" tvg-logo="http://sigcine1.space:80/images/YPuZW2kE8bCD5DQKf_zy2LeBRDxv84RzrSz0ZijEzRQ0zsV6VxfPlPS9IKOYJ6y9h84XD1uCAkWd6GLjOfQKsg.png" group-title="24 Horas | Infantil",A Guarda do Leão 24H
