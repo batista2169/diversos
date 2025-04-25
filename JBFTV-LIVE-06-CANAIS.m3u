@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="ZUTUFO.IN" tvg-logo="https://bit.ly/Logo-tv" group-title="Info | ZUTUFO.IN",ZUTUFO.IN
+http://i.imgur.com/Q0NmkH0.mp4
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV 4K" tvg-logo="http://beststorage4you.com:80/logoscanais/SPORTV.png" group-title="Canais | 4K",SPORTV 4K
 http://zutufo.in:80/live/781487031/K788a6763d/284576.m3u8
 #EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="Premiere Clubes 4K " tvg-logo="http://beststorage4you.com:80/logoscanais/PREMIERE.png" group-title="Canais | 4K",Premiere Clubes 4K 
