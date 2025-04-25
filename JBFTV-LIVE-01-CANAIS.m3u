@@ -1,5 +1,7 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
+#EXTINF:-1 tvg-id="" tvg-name="CF2301.SITE" tvg-logo="https://bit.ly/Logo-tv" group-title="Info | CF2301.SITE",CF2301.SITE
+http://i.imgur.com/Q0NmkH0.mp4
 #EXTINF:-1 tvg-id="" tvg-name="BBB MULTICAM" tvg-logo="http://i.ibb.co/92HMc9w/BBB.png" group-title="BBB 2025",BBB MULTICAM
 http://cf2301.site:80/Gildantas/85989205049/4702857.m3u8
 #EXTINF:-1 tvg-id="br#globo-s-o-paulo-hd" tvg-name="GLOBO SP FHD" tvg-logo="https://i.ibb.co/wRFXTYR/globo.png" group-title="GLOBO",GLOBO SP FHD
